@@ -551,7 +551,7 @@ My Styles
     margin-left: 20px;
     cursor: pointer;
     color: red;
-    font-size: 70px;
+    font-size: 60px;
     line-height: 100px;
     color: #ccc;
     padding: 0 20px;
@@ -559,15 +559,11 @@ My Styles
     border-radius: 15px;
     -moz-border-radius: 15px;
 
-    width: 268px;
-    margin-left: 100px;
+    margin-left: 80px;
 }
 #stopCountdown:hover {
     color: #ddd;
     background-color: #111;
-}
-#redirectNotice p {
-    font-size: 20px;
 }
 .float {
     float: left;
@@ -588,4 +584,24 @@ My Styles
     margin: 10px auto 20px;
     max-width: 80%;
     text-align: center;
+}
+.bigText {
+    font-size: 30px;
+}
+.faded {
+    opacity:0.4;
+    filter:alpha(opacity=40);
+}
+.transition_opacity {
+    transition: opacity 2s;
+}
+#categoryListings {
+    font-size: 16px;
+}
+#categoryListings .label {
+    font-size: 50px;
+}
+#countdownClock {
+    min-height: 100px;
+    margin: 25px 0;
 }
