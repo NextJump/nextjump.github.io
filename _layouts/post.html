@@ -38,9 +38,17 @@ layout: default
         <div class="clear"></div>
         <div class="social">
             {% include socialSetup.html %}
-            {% include facebookLike.html %}
-            {% include facebookShare.html %}
-            {% include twitterShare.html %}
+            <div class="box fb_share">
+                {% include facebookShare.html %}
+            </div>
+            <div class="box fb_like">
+                {% include facebookLike.html %}
+            </div>
+            <div class="clear"></div>
+            <div class="box tt_share">
+                {% include twitterShare.html %}
+            </div>
+            <div class="clear"></div>
         </div>
     </div>
     <div id="disqus_thread"></div>

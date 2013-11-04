@@ -31,6 +31,7 @@ subtitle: Home
     <div class="posts">
         {% for post in paginator.posts %}
             {% include postPreview.html %}
+            <hr>
         {% endfor %}
 
         {% include pagination.html %}

@@ -502,6 +502,11 @@ My Styles
 }
 .postPreview .date {
     font-style: italic;
+    font-size: 15px;
+    color: #373737;
+}
+.postPreview .date a {
+    color: #373737;
 }
 .imageSub {
     background-color: #333;
@@ -604,4 +609,12 @@ My Styles
 #countdownClock {
     min-height: 100px;
     margin: 25px 0;
+}
+.social {
+    margin-bottom: 20px;
+}
+.social .box {
+    float: left;
+    width: 320px;
+    text-align: center;
 }
