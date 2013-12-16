@@ -2,7 +2,7 @@
 layout: post
 title: 'Flupocalypse: Next Jump Flu Clinic'
 author: Jon
-picture: jon_c.png
+picture: jon_c.jpg
 authortitle: Software Engineer
 category: culture
 oldLink: /post/40857141130/flupocalypse-next-jump-flu-clinic
