@@ -19,7 +19,7 @@ Once we had senior management on board we formed a team of three and were tasked
 
 ## Option 1: Apple Fanboy
 
-At Next Jump we had never used Macs before, we have a Microsoft stack. However, Arms Race gave me the chance to design a mac setup and figure out how to make it work with our software. 
+At Next Jump we had never used Macs before, we have a Microsoft stack. However, Arms Race gave me the chance to design a Mac setup and figure out how to make it work with our software. 
 
 #### MACBOOK PRO 15" WITH RETINA 
 
@@ -33,7 +33,7 @@ At Next Jump we had never used Macs before, we have a Microsoft stack. However, 
     27" Thunderbolt + 24" Monitor 
     Magic Trackpad, Apple Keyboard, Adjustable Stand
 
-Having a mac at work has completely changed my level of productivity. OSX Mavericks allows me to full screen my editor and switch between spaces with my Magic Trackpad. I highly recommend this option. 
+Having a Mac at work has completely changed my level of productivity. OSX Mavericks allows me to full screen my editor and switch between spaces with my Magic Trackpad. I highly recommend this option. 
 
 ## Option 2: Beauty is on the inside
 
@@ -52,7 +52,7 @@ We wanted to offer another portable option that was PC based for engineers who a
 
 ## Option 3: More POWER
 
-The final option was for engineers who like to push their computer to it’s limits. We designed a desktop system that the US or the Soviet Union would have loved to have during the actual cold war. 
+The final option was for engineers who like to push their computer to its limits. We designed a desktop system that the US or the Soviet Union would have loved to have during the actual cold war. 
 
 #### DELL XPS 8700 SPECIAL EDITION 
 

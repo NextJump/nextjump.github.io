@@ -14,6 +14,7 @@ tags:
 ---
 
 ![](/images/flupocalypse-next-jump-flu-clinic-1.png)
+
 I have never gotten a flu shot before. At least, I have never actively sought out a flu shot when left to my own devices. I’m sure my mother tricked me into getting flu shots when I was a child, but ever since I moved out and was able to choose whether to be or not to be stuck with needles, I chose the latter. In college, I simply never got sick. I used to brag that I had never been to the school health center before. There was obviously no need for a flu shot when I possessed a superior immune system. After graduation, I moved to New York City and my superior immune system was put to the test.
 
 “Sounds like you have a bacterial infection,” says the first doctor I have seen in years. He tells me he’s going to put me on antibiotics and I should be all better in seven days. He was wrong. “Sounds like you have something viral,” the same doctor tells me the next week, “take some cough suppressants and you should be good as new in a week.” One week later. “It sounds like you have a bacterial infection not a viral one. Let’s put you on some antibiotics,” the doctor says assuring me that this time I will be cured. The germs won this time.
