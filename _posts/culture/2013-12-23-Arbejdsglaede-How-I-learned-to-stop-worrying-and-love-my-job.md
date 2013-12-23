@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Arbejdsglæde or: How I learned to stop worrying and love my job
+title: Arbejdsglaede or: How I learned to stop worrying and love my job
 author: Harish
 category: culture
 picture: harish.jpg
 excerpt: Alexander Kjerulf is a happy person. That is the first impression one gets of him when one meets him. One of the greatest pleasures of working at Next Jump is getting a chance to listen to the ideas and experiences of inspirational human beings as part of the CEO Talk initiative. However, seldom does one experience happiness during such a talk. Alex’s talk was one such. His happiness was infectious and the 75 minutes he owned the room were some of the best moments of the CEO Talk experience for me.
 tags:
 - happiness
-- arbejdsglæde
+- arbejdsglaede
 - betterme
 - betterus
 ---
@@ -21,11 +21,8 @@ Results, as we all know, are the best indicator of an employee’s skills and in
 
 I spent the first few months at Next Jump,to put it mildly, completely lost.Despite getting a chance to work with some of the smartest people I have met, I was finding it extremely hard to work to my fullest potential. I lacked motivation and this showed in poor results, bad performance evaluations, and I earned much less respect than I am capable of. A few months in, something changed. I made friends at work. I learned to see the positive side of people and things. What broken stuff bothered me earlier, motivated me to fix them now. I was not unhappy anymore. I had people I could share my feelings with; I had friends I could share meals with, and teammates I could enjoy working with. Work suddenly became something I looked forward to. 
 
-When Alex said that relationships define a person’s experience at a workplace, I couldn’t agree with him more. At Next Jump, I have come to know some very good people who have made my otherwise stressful long hours, an absolute pleasure. Be it a manager who gives me freedom to express my views which may be considered unpopular in any other setting, or teammates who never say ‘No’ when I ask for a favour, everyone does his or her best to make my experience at work everyday, enjoyable. Not many workplaces give every single employee the power to start new culture initiatives that they see fit for the company. Very few companies would allow employees to work a bit less just to be part of a winning dance team at the [dance competition][dance] which is the highlight of Next Jump’s annual holiday party. I sincerely doubt there are companies that allow its young employees to come together and redefine coding techniques in a manner of poetic brilliance. [The Dev Poets Society][devpoets], a group of Next Jumpers striving to better their technical skills and that of the company as a whole, may well be the first of its kind in a startup environment. Ingrained within all of these initiatives is a sense of belonging, a feeling of togetherness, and this is what Alex succinctly called ‘Relationships’.
+When Alex said that relationships define a person’s experience at a workplace, I couldn’t agree with him more. At Next Jump, I have come to know some very good people who have made my otherwise stressful long hours, an absolute pleasure. Be it a manager who gives me freedom to express my views which may be considered unpopular in any other setting, or teammates who never say ‘No’ when I ask for a favour, everyone does his or her best to make my experience at work everyday, enjoyable. Not many workplaces give every single employee the power to start new culture initiatives that they see fit for the company. Very few companies would allow employees to work a bit less just to be part of a winning dance team at the [dance competition](http://www.youtube.com/watch?v=OGztuPMte4Q) which is the highlight of Next Jump’s annual holiday party. I sincerely doubt there are companies that allow its young employees to come together and redefine coding techniques in a manner of poetic brilliance. [The Dev Poets Society](http://blog.nextjump.com/culture/the-dev-poets-society.html), a group of Next Jumpers striving to better their technical skills and that of the company as a whole, may well be the first of its kind in a startup environment. Ingrained within all of these initiatives is a sense of belonging, a feeling of togetherness, and this is what Alex succinctly called ‘Relationships’.
 
 What I took away from Alex’s talk, besides a lot of happiness, is how best to work towards sustaining that feeling of happiness. There have been days when I have been stressed to the point of hating my job, and consequently my life that night, but when Alex talked about the practice of writing down “3 things that you liked about the day” at the end of every day, I learned how easy it is to direct myself to look at the positives of a seemingly miserable situation. I picked up ways to handle my failures and mistakes, how to celebrate them, and take that as constructive criticism to myself. More than anything, I understood that my company will not give me happiness on a platter, but present opportunities to grow. It is up to me, and my fellow employees, to use those opportunities to become a better individual.
 
 Of course, results and relationships help.
-
-[devpoets]: /culture/the-dev-poets-society.html
-[dance]: http://www.youtube.com/watch?v=OGztuPMte4Q
