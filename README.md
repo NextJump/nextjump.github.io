@@ -1,4 +1,4 @@
-next-jump-blog.github.io
+nextjump.github.io
 ========================
 
 A blog!
