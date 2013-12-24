@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Arbejdsglaede or: How I learned to stop worrying and love my job
+title: Arbejdsglaede, or
+subtitle: How I learned to stop worrying and love my job
 author: Harish
 category: culture
 picture: harish.jpg
