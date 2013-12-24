@@ -1,5 +1,10 @@
 <div class="post">
-    <a class="postTitle" href="{{ post.url }}">{{ post.title }}</a>
+    <a class="postTitle" href="{{ post.url }}">
+        <div>{{ post.title }}</div>
+        {% if post.subtitle %}
+        <div class="postSubtitle">{{ post.subtitle}}</div>
+        {% endif %}
+    </a>
     <div>
         <div class="imageBox">
             <div class="authorImage" style="background-image:url('/images/{{ post.picture }}')"></div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arbejdsglaede, or
+title: Arbejdsglaede, or &#58;
 subtitle: How I learned to stop worrying and love my job
 author: Harish
 category: culture
@@ -12,6 +12,7 @@ tags:
 - betterme
 - betterus
 ---
+
 Alexander Kjerulf is a happy person. That is the first impression one gets of him when one meets him. One of the greatest pleasures of working at Next Jump is getting a chance to listen to the ideas and experiences of inspirational human beings as part of the CEO Talk initiative. However, seldom does one experience happiness during such a talk. Alex’s talk was one such. His happiness was infectious and the 75 minutes he owned the room were some of the best moments of the CEO Talk experience for me.
 
 Alex started off by citing the different things that people believed were reasons for workplace happiness, or arbejdsglaede, as the happy man from Denmark called it. As I knew and expected, a lower salary is a factor in unhappiness, but money is never a reason for true happiness at work, according to research. After slowly educating the audience on the idea of workplace happiness, differentiating it from moments of joy, expectations of idyllic euphoria, Alex gave us what he believed was the recipe for happiness at a workplace - Results and Relationships.
