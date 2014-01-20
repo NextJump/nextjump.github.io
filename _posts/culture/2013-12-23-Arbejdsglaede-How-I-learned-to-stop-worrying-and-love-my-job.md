@@ -4,7 +4,7 @@ title: Arbejdsglaede, or &#58;
 subtitle: How I learned to stop worrying and love my job
 author: Harish
 category: culture
-picture: harish.jpg
+picture: userplaceholder.png
 excerpt: Alexander Kjerulf is a happy person. That is the first impression one gets of him when one meets him. One of the greatest pleasures of working at Next Jump is getting a chance to listen to the ideas and experiences of inspirational human beings as part of the CEO Talk initiative. However, seldom does one experience happiness during such a talk. Alex’s talk was one such. His happiness was infectious and the 75 minutes he owned the room were some of the best moments of the CEO Talk experience for me.
 tags:
 - happiness
