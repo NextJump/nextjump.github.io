@@ -4,7 +4,7 @@ title: A Shift in Perspective
 subtitle: Creating the Conditions for Leadership
 author: Kathleen
 category: culture
-picture: 
+picture: userplaceholder.png
 excerpt: I woke up late this morning with a list of what I needed to do running through my head, this blog post being one of those things. Writing makes me nervous and blogs are slightly unfamiliar territory for me. As I sped through my family’s morning routine I tried to think about how to summarize what I’ve learned in my Next Jump University Leadership and Listening class in a way that fit neatly into a post and felt worthwhile enough to read as you were in the bathroom stall. 
 tags:
 - perspective
