@@ -4,7 +4,7 @@ title: A Shift in Perspective
 subtitle: Creating the Conditions for Leadership
 author: Kathleen
 category: culture
-picture: userplaceholder.png
+picture: kathleen_d.jpg
 excerpt: I woke up late this morning with a list of what I needed to do running through my head, this blog post being one of those things. Writing makes me nervous and blogs are slightly unfamiliar territory for me. As I sped through my family’s morning routine I tried to think about how to summarize what I’ve learned in my Next Jump University Leadership and Listening class in a way that fit neatly into a post and felt worthwhile enough to read as you were in the bathroom stall. 
 tags:
 - perspective
@@ -29,6 +29,8 @@ As I collected myself and we walked to the subway I apologized to my husband and
 He said "That's alright. Our life isn't set up right now for you to get to be the person you want to be in those moments. Let’s spend our energy thinking about how to change that instead of spending all our energy trying to just ‘be better’ at everything.” 
 
 As I continued on down the stairs of the Q train I physically felt lighter. That one statement felt so freeing. I could stop obsessing over every moment where I felt I failed and shift my focus and energy on partnering with my husband to cultivate an environment in our home that allowed me to be the mom and wife I want to be in future moments. Instead of responding to that morning’s situation by saying; we need to get up 10 minutes earlier, I was now asking myself why is it so hard for us to get up 10 minutes earlier? What needs to shift in the larger rhythm of our home?
+
+![Kathleen's daughter](/images/kathleen_daughter.jpg)
 
 As this was mulling around in my head on the train ride into work I realized that this idea is the very same one I will be walking away from our Leadership and Listening class with. As a leader in my job I am now more actively asking myself to do the same thing. When I observe something isn't going as we wanted or someone isn't doing a piece of their job in an effective way I understand that I have a choice. I can focus all of my attention on what individual mistakes the team is making and solely have conversations with each of them about that. Or I can listen longer and take a step back. Instead of looking at the teams actions in isolation, I am challenging myself to look at the larger narrative their collective actions is communicating to me about whether or not what I am doing as a leader is working. I can ask the team and myself if the systems in our office and the messages I am conveying as a leader are working for them. 
 
