@@ -29,6 +29,30 @@ body {
 .culture {
     background-color: #3fb8af;
 }
+.nav_home.selected {
+    background-color: #ff8a31;
+}
+.nav_ceo.selected {
+    background-color: #d94d39;
+}
+.nav_engineer.selected {
+    background-color: #69d2e7;
+}
+.nav_culture.selected {
+    background-color: #3fb8af;
+}
+.nav_home:hover {
+    background-color: #ff8a31;
+}
+.nav_ceo:hover {
+    background-color: #d94d39;
+}
+.nav_engineer:hover {
+    background-color: #69d2e7;
+}
+.nav_culture:hover {
+    background-color: #3fb8af;
+}
 .info {
     background-color: #e0e4cc;
     line-height: 40px;
@@ -109,7 +133,6 @@ article.latest .title {
 }
 .articlePreview .title {
     position: relative;
-    text-shadow: rgb(0, 0, 0) 0px 1px 2px;
 }
 .block {
     float: left;
@@ -132,10 +155,10 @@ nav li {
     margin: 0 auto 5px;
     padding: 15px;
 }
-nav li.selected {
-    background-color: #ff8a31;
-}
 nav li a {
+    color: white;
+}
+nav li a:hover {
     color: white;
 }
 .row .row {
@@ -154,7 +177,7 @@ nav li a {
     background-position: center;
     background-size: cover;
 
-    padding-top: 150px;
+    padding-top: 110px;
     font-size: 20px;
     line-height: 30px;
 }
