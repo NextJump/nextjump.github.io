@@ -3,22 +3,31 @@ layout: newhome
 title: NxJ Blog
 ---
 
-<div id="main">
-    <div class="column">
-        <div class='block oneandhalf orange'>
-            <div id="logo">blog</div>
-            <div class='nav selected'>Home</div>
-            <div class='nav'>Our Culture</div>
-            <div class='nav'>Engineering</div>
-            <div class='nav'>CEO Office</div>
+<div class='row'>
+    <div class="small-12 medium-6 large-4 column">
+        <div class="block orange oneandhalf">
+            <header>
+                <a href="/">
+                    <div id="logo">
+                        <img src="/images/nxj.png" />
+                        blog
+                    </div>
+                </a>
+                <nav>
+                    <ul>
+                        <li class="selected"><a href='/'>Home</a></li>
+                        <li><a href='/culture.html'>Our Culture</a></li>
+                        <li><a href='/engineering.html'>Engineering</a></li>
+                        <li><a href='/ceooffice.html'>CEO Office</a></li>
+                    </ul>
+                </nav>
+            </header>
         </div>
-        <div class='block half info lightbg'>
-            <div class="content">
-                The Next Jump blog is a look into the culture of a company that believes corporations can change the world.
-            </div>
+        <div class="block info half">
+            The Next Jump blog is a look into the culture of a company that believes corporations can change the world.
         </div>
     </div>
-    <div class="column">
+    <div class='small-12 medium-6 large-4 column'>
         {% for post in site.posts limit:1 %}
         <div class='block double gray lightbg'>
             <div style="position: absolute; top: 0; right: 0; background-color: #69d2e7; width: 25px; height: 25px;"></div>
@@ -37,26 +46,24 @@ title: NxJ Blog
         </div>
         {% endfor %}
     </div>
-</div>
 
-<div class='block full gray'>
-    <div class='topbar'></div>
-    <div style="position: absolute; bottom: 20px; left: 20px; width: 260px; height: 45px;background-color: #26c5fc;"></div>
-</div>
+    <div class='small-12 medium-6 large-4 columns'>
+        <div class='block full gray'>
+            <div class='topbar'></div>
+            <div style="position: absolute; bottom: 20px; left: 20px; width: 260px; height: 45px;background-color: #26c5fc;"></div>
+        </div>
+    </div>
 
-
-{% for post in site.posts limit:5 %}
-    {% unless forloop.first %}
-    <a href="{{ post.url }}">
-        <div class="block full {{ post.category }}">
-            <div class="content article">
-                <div style="position: absolute; color: white; top: 175px;">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
+    {% for post in site.posts limit:5 %} {% unless forloop.first %}
+    <div class='small-12 medium-6 large-4 column'>
+        <a href="{{ post.url }}">
+            <div class="block full {{ post.category }} articlePreview">
+                <div class="title">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
                 <div class='author'>{{ post.author }}</div>
-                <!-- date reference at http://liquid.rubyforge.org/classes/Liquid/StandardFilters.html#M000012 -->
                 <div class='date'>{{ post.date | date: "%d %b" }}</div>
             </div>
-        </div>
-    </a>
-    {% endunless %}
-{% endfor %}
+        </a>
+    </div>
+    {% endunless %} {% endfor %}
+</div>
 

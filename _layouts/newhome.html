@@ -20,132 +20,14 @@
     <meta name="description" content="Next-jump-blog.github.io : A blog!" />
 
     <title>Next Jump</title>
-        <style>
-a {
-    text-decoration: none;
-}
-#page-container {
-    width: 960px;
-    margin: 20px auto;
-}
-.column {
-    float: left;
-    width: 320px;
-    min-height: 100px;
-}
-.block {
-    float: left;
-    position: relative;
-    margin: 0 10px 20px;
-    width: 300px;
-}
-.half {
-    height: 150px;
-}
-.full {
-    height: 300px;
-}
-.oneandhalf {
-    height: 450px;
-}
-.double {
-    height: 620px;
-}
-.orange {
-    background-color: #fa6900;
-}
-.gray {
-    background-color: #f4f4f4;
-}
-.ceooffice {
-    background-color: #d94d39;
-}
-.engineering {
-    background-color: #69d2e7;
-}
-.culture {
-    background-color: #3fb8af;
-}
-.info {
-    background-color: #e0e4cc;
-}
-.nav {
-    border-radius: 5px;
-    color: white;
-    width: 215px;
-    margin: 0 auto 5px;
-    padding: 15px;
-}
-.nav.selected {
-    background-color: #ff8a31;
-}
-.block .header {
-    text-align: center;
-    padding-top: 20px;
-}
-.block .content {
-    padding: 15px;
-    font-size: 20px;
-    line-height: 30px;
-}
-.block .topbar {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 72px;
-    background-color: #26c5fc;
-}
-.block.lightbg {
-    color: #666;
-}
-.block .content .author {
-    color: white;
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
-}
-.block .content .date {
-    color: white;
-    position: absolute;
-    right: 20px;
-    bottom: 20px;
-}
-.excerpt {
-    font-size: 18px;
-    line-height: 26px;
-    max-height: 210px;
-    overflow: hidden;
-}
-.block .header .author {
-    margin-bottom: 20px;
-    color: #999;
-}
-.block .header .label {
-    margin-bottom: 5px;
-}
-
-#main {
-    width: 640px;
-    float: left;
-    min-height: 300px;
-}
-#logo {
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    width: 215px;
-    margin: 0 auto 5px;
-    padding: 15px;
-}
-        </style>
+    <link rel="stylesheet" href="stylesheets/normalize.css" />
+    <link rel="stylesheet" href="stylesheets/foundation.css" />
+    <link rel="stylesheet" href="stylesheets/home.css" />
   </head>
 
   <body>
 
-    <div id="page-container">
-        {{ content }}
-    </div>
+    {{ content }}
 
   </body>
 </html>

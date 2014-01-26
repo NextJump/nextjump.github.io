@@ -1,0 +1,161 @@
+
+.half {
+    height: 150px;
+}
+.full {
+    height: 300px;
+}
+.oneandhalf {
+    height: 450px;
+}
+.double {
+    height: 620px;
+}
+.orange {
+    background-color: #fa6900;
+}
+.gray {
+    background-color: #f4f4f4;
+}
+.ceooffice {
+    background-color: #d94d39;
+}
+.engineering {
+    background-color: #69d2e7;
+}
+.culture {
+    background-color: #3fb8af;
+}
+.info {
+    background-color: #e0e4cc;
+}
+.nav {
+    border-radius: 5px;
+    color: white;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+.nav.selected {
+    background-color: #ff8a31;
+}
+.block .header {
+    text-align: center;
+    padding-top: 20px;
+}
+.block .topbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 72px;
+    background-color: #26c5fc;
+}
+.block.lightbg {
+    color: #666;
+}
+.excerpt {
+    font-size: 18px;
+    line-height: 26px;
+    max-height: 210px;
+    overflow: hidden;
+}
+.block .header .author {
+    margin-bottom: 20px;
+    color: #999;
+}
+.block .header .label {
+    margin-bottom: 5px;
+}
+
+#main {
+    width: 640px;
+    float: left;
+    min-height: 300px;
+}
+#logo {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+
+header {
+    text-align: center;
+}
+.block {
+    float: left;
+    position: relative;
+    margin-bottom: 1em;
+    width: 100%;
+    padding: 15px;
+}
+
+ul {
+    list-style: none;
+}
+nav ul {
+    margin-left: 0;
+}
+nav li {
+    border-radius: 5px;
+    color: white;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+nav li.selected {
+    background-color: #ff8a31;
+}
+nav li a {
+    color: white;
+}
+.row .row {
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+}
+.columns {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.articlePreview {
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 150px;
+    position: relative;
+    color: white;
+}
+.articlePreview .author {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+.articlePreview .date {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+}
+
+@media only screen {
+  .column,
+  .columns {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+}
+@media only screen and (min-width: 40.063em) {
+  .column,
+  .columns {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+@media only screen and (min-width: 64.063em) {
+  .column,
+  .columns {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+}
