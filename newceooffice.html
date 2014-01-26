@@ -15,10 +15,10 @@ title: NxJ Blog
                 </a>
                 <nav>
                     <ul>
-                        <li class="selected"><a href='/newindex.html'>Home</a></li>
+                        <li><a href='/newindex.html'>Home</a></li>
                         <li><a href='/newculture.html'>Our Culture</a></li>
                         <li><a href='/newengineering.html'>Engineering</a></li>
-                        <li><a href='/newceooffice.html'>CEO Office</a></li>
+                        <li class="selected"><a href='/newceooffice.html'>CEO Office</a></li>
                     </ul>
                 </nav>
                 <div class="social-buttons">
@@ -33,7 +33,7 @@ title: NxJ Blog
         </div>
     </div>
     <div class='small-12 medium-6 large-4 column'>
-        {% for post in site.posts limit:1 %}
+        {% for post in site.categories.ceooffice limit:1 %}
         <article class='block double gray lightbg latest'>
             <div class="corner-triangle"></div>
             <header>
@@ -52,7 +52,7 @@ title: NxJ Blog
         {% endfor %}
     </div>
 
-    {% for post in site.posts %} {% unless forloop.first %}
+    {% for post in site.categories.ceooffice %} {% unless forloop.first %}
     <div class='small-12 medium-6 large-4 column'>
         <a href="{{ post.url }}">
             <article class="block full {{ post.category }} articlePreview">

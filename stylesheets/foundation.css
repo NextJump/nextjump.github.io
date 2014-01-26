@@ -358,11 +358,13 @@ select {
     position: relative;
     width: 100%; }
 
+/*
   [class*="column"] + [class*="column"]:last-child {
     float: right; }
 
   [class*="column"] + [class*="column"].end {
     float: left; }
+*/
 
   .small-offset-0 {
     position: relative;
@@ -598,11 +600,13 @@ select {
     position: relative;
     width: 100%; }
 
+/*
   [class*="column"] + [class*="column"]:last-child {
     float: right; }
 
   [class*="column"] + [class*="column"].end {
     float: left; }
+*/
 
   .medium-offset-0 {
     position: relative;
@@ -948,11 +952,13 @@ select {
     position: relative;
     width: 100%; }
 
+/*
   [class*="column"] + [class*="column"]:last-child {
     float: right; }
 
   [class*="column"] + [class*="column"].end {
     float: left; }
+*/
 
   .large-offset-0 {
     position: relative;
