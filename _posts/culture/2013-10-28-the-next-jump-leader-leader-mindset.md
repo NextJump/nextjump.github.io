@@ -4,6 +4,7 @@ title: The Next Jump Leader-Leader mindset
 author: Anuj
 category: culture
 picture: anuj_n.jpg
+previewimg: MV21_deck_plus_investor.jpg
 excerpt: Everyone wants to make an impact on the world we live in. We're no different at Next Jump - our company BHAG (Big Hairy Audacious Goal) is to make the world a better place. Our 'WHY' is to 'do the little things that allow others to do the great things they're meant to do'. We have approximately 50 different initiatives currently running at Next Jump designed to build up our characters and allow us to obtain a higher sense of purpose, by helping others.  But we recognise that to be able to do that, we have to spend time, money and resources in investing in our team.
 tags:
 - leadership

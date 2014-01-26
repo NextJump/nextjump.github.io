@@ -1,0 +1,12 @@
+            <article class="block full {{ post.category }} articlePreview" style="background-image: url('/images/{{ post.previewimg }}');" >
+                <div class="tint cover {{ post.category }}"></div>
+                <div class="title">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
+                <div class='author'>
+                    <div class="icon person left"></div>
+                    <div> {{ post.author }} </div>
+                </div>
+                <div class='publishDate'>
+                    <div class="icon date left"></div>
+                    <div> {{ post.date | date: "%d %b" }} </div>
+                </div>
+            </article>

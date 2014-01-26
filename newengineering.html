@@ -39,9 +39,7 @@ title: NxJ Blog
             <header>
                 <div class="featureLabel">Latest Article</div>
                 <div class="author">- {{ post.author }} -</div>
-                <div style="max-height: 200px; overflow: hidden;">
-                    <img style="margin-top: {{ post.previewoffset }};" src="/images/{{ post.previewimg }}">
-                </div>
+                <div class="previewImage" style="background-image: url('/images/{{ post.previewimg }}');">
             </header>
             <div class="content">
                 <div class="title" style="color: #d25676;">
@@ -57,17 +55,7 @@ title: NxJ Blog
     {% for post in site.categories.engineering %} {% unless forloop.first %}
     <div class='small-12 medium-6 large-4 column'>
         <a href="{{ post.url }}">
-            <article class="block full {{ post.category }} articlePreview">
-                <div class="title">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
-                <div class='author'>
-                    <div class="icon person left"></div>
-                    <div> {{ post.author }} </div>
-                </div>
-                <div class='publishDate'>
-                    <div class="icon date left"></div>
-                    <div> {{ post.date | date: "%d %b" }} </div>
-                </div>
-            </article>
+        {% include article-card.html %}
         </a>
     </div>
     {% endunless %} {% endfor %}

@@ -5,6 +5,7 @@ author: Charlie
 category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
+previewimg: stephanie_training_balloons.jpg
 previousBlog: The Huffington Post
 previousBlogLink: http://www.huffingtonpost.com/charlie-kim/how-to-train-to-be-a-lose_b_4269958.html
 tags:

@@ -94,11 +94,22 @@ article.latest .featureLabel,
 article.latest .author {
     margin-bottom: 10px;
 }
+article.latest .previewImage {
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    background-position: center;
+    background-size: cover;
+}
 article.latest .content {
     margin-top: 20px;
 }
 article.latest .title {
     margin-bottom: 10px;
+}
+.articlePreview .title {
+    position: relative;
+    text-shadow: rgb(0, 0, 0) 0px 1px 2px;
 }
 .block {
     float: left;
@@ -137,11 +148,26 @@ nav li a {
 }
 
 .articlePreview {
-    font-size: 20px;
-    line-height: 30px;
-    padding-top: 150px;
     position: relative;
     color: white;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+
+    padding-top: 150px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.cover {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.articlePreview .tint {
+    opacity:0.5;
+    filter:alpha(opacity=50);
 }
 .articlePreview .author {
     width: 180px;
