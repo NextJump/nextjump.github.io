@@ -5,6 +5,7 @@ author: Jooe
 authortitle: Senior Director, Marketing
 category: culture
 picture: jooe_k.jpg
+previewimg: lokeya_sandy_check.png
 oldLink: /post/35663779238/hurricane-sandy
 excerpt: Hurricane Sandy brought our New York office to a standstill. Our building located in the Flatiron district lost power when the storm hit. Most of our employees lost power in their apartments as well. We are fortunate to have offices in Boston, London, and San Francisco. With much of New York shut down, our Boston office became the temporary command center for the company. 
 tags:

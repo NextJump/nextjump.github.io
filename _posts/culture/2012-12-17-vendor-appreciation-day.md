@@ -6,6 +6,7 @@ authortitle: Director of Office Management
 picture: nadia_b.jpg
 category: culture
 oldLink: /post/38149369850/vendor-appreciation-day
+previewimg: vendor-appreciation-day-1.jpg
 tags:
 - betteryou
 ---

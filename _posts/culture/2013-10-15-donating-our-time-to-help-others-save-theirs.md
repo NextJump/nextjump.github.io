@@ -5,6 +5,7 @@ author: Stephanie
 category: culture
 picture: stephanie_g.png
 oldLink: /post/64116835007/donating-our-time-to-help-others-save-theirs
+previewimg: stephanie_donating_img1.png
 tags:
 - CFAC
 - betterme

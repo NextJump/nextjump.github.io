@@ -6,6 +6,7 @@ picture: rawle_s.jpg
 authortitle: Senior IT Associate
 category: culture
 oldLink: /post/41705228273/the-nxj-love-day-effect
+previewimg: the-nxj-love-day-effect-1.jpg
 tags:
 - BetterYou
 - Love

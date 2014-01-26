@@ -6,6 +6,7 @@ authortitle: Dance Captains, UK Office
 category: culture
 picture: nooreen_anuj.jpg
 oldLink: /post/44316322145/gangnam-styling-employee-engaging
+previewimg: gangnam-styling-employee-engaging-1.png
 tags:
 - BetterYou
 - DanceBattle

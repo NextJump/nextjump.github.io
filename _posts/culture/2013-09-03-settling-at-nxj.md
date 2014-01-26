@@ -5,6 +5,7 @@ author: Lauren
 position: Summer Search Associate
 category: culture
 picture: lauren.png
+previewimg: LM_settling1.jpg
 oldLink: /post/60184141759/settling-in-at-next-jump
 ---
 

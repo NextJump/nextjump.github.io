@@ -6,6 +6,7 @@ picture: nooreen_k.jpg
 authortitle: Account Manager
 category: culture
 oldLink: /post/42237726799/corporations-can-create-a-better-world
+previewimg: corporations-can-create-a-better-world-1.png
 tags:
 - betteryou
 - outreach

@@ -6,6 +6,7 @@ picture: emily_c.jpg
 authortitle: Software Engineer Lead
 category: culture
 oldLink: /post/40518153194/the-fitness-challenge
+previewimg: the-fitness-challenge-1.png
 tags:
 - betterme
 - fitness

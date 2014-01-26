@@ -7,6 +7,7 @@ date: 2013-08-26 10:30:00
 category: culture
 picture: andreas_w.jpg
 oldLink: /post/59396511523/nxjs-next-top-breakfast-bonding-through-food
+previewimg: top_breakfast_1.jpg
 tags:
 - betterme
 ---

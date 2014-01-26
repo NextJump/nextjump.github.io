@@ -6,6 +6,7 @@ picture: mike_w.jpg
 authortitle: UK Director of Marketing
 oldLink: /post/35814902953/the-avengers-initiative
 category: culture
+previewimg: the-avengers-initiative-2.jpg
 tags:
 - recognition
 - selflessness
