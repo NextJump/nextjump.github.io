@@ -5,6 +5,7 @@ category: ceooffice
 author: Charlie
 twitter: charlieykim
 picture: charlie.jpg
+previewimg: its-not-about-legacy-its-about-doing-the-right-thing-1.png
 authortitle: CEO and Founder, Next Jump
 oldLink: /post/54463584719/its-not-about-legacy-its-about-doing-the-right-thing
 tags:

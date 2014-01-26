@@ -6,6 +6,7 @@ date: 2013-09-09 16:26:00
 category: ceooffice
 twitter: MeghanMess
 picture: meghan_m.jpg
+previewimg: culture_revenue_cycle.png
 oldLink: /post/60776984737/what-is-your-r-d-budget-and-where-does-it-go
 tags:
 - ceopost

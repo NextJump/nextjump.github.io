@@ -4,6 +4,7 @@ title: How to Kill Your Internal Terrorist (Part 1)
 author: Charlie
 category: ceooffice
 twitter: CharlieYKim
+previewimg: how-to-kill-your-internal-terrorist-part-1-1.png
 picture: charlie.jpg
 oldLink: /post/57112494674/how-to-kill-your-internal-terrorist-part-1
 tags:

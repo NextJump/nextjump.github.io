@@ -8,6 +8,7 @@ author: Charlie
 category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
+previewimg: jim_loehr_banner.jpg
 previousBlog: The Huffington Post
 previousBlogLink: http://www.huffingtonpost.com/charlie-kim/leadership-lessons-from-t_3_b_3934611.html
 oldLink: /post/61788601582/leadership-lessons-from-the-1-coach-jim-loehr-how

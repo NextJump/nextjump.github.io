@@ -5,6 +5,7 @@ author: Charlie
 date: 2013-08-12 9:38:00
 category: ceooffice
 twitter: charlieykim
+previewimg: two_dogs.png
 picture: charlie.jpg
 oldLink: /post/58057082007/the-ceo-job-is-lonely-heres-how-to-change-that-part
 tags:
