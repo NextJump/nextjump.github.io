@@ -5,6 +5,8 @@ author: Charlie
 category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
+previewimg: simon_pointing_why.jpg
+previewoffset: -5px
 previousBlog: The Huffington Post
 previousBlogLink: http://www.huffingtonpost.com/charlie-kim/9-differences-between-selfish_b_4310247.html
 excerpt: I've had the fortune of meeting, spending time with, getting to know and becoming close friends with some of the world's most "elite athletes" (individuals who are the best in their respective disciplines&#58; behavioral psychologists, chess players, professors, public speakers, authors, philanthropists, business people).

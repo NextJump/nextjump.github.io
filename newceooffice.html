@@ -39,7 +39,9 @@ title: NxJ Blog
             <header>
                 <div class="featureLabel">Latest Article</div>
                 <div class="author">- {{ post.author }} -</div>
-                <img src="/images/armsrace_rollout.png">
+                <div style="max-height: 200px; overflow: hidden;">
+                    <img style="margin-top: {{ post.previewoffset }};" src="/images/{{ post.previewimg }}">
+                </div>
             </header>
             <div class="content">
                 <div class="title" style="color: #d25676;">

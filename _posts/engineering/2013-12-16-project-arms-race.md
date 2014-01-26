@@ -3,6 +3,8 @@ layout: post
 title: The Arms Race has Begun
 author: Jon
 excerpt: During the cold war an arms race developed between the US and the Soviet Union to close a perceived missile gap. Both sides stockpiled nuclear weapons to have the best armed forces. For engineers at Next Jump, computers and monitors are our nuclear weapons. But before our own arms race began we were severely outmanned.
+previewimg: armsrace_macbook.png
+previewoffset: -40px
 category: engineering
 picture: jon_c.jpg
 ---
