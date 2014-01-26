@@ -39,10 +39,6 @@
 .nav.selected {
     background-color: #ff8a31;
 }
-.block .header {
-    text-align: center;
-    padding-top: 20px;
-}
 .block .topbar {
     position: absolute;
     top: 0;
@@ -60,19 +56,6 @@
     max-height: 210px;
     overflow: hidden;
 }
-.block .header .author {
-    margin-bottom: 20px;
-    color: #999;
-}
-.block .header .label {
-    margin-bottom: 5px;
-}
-
-#main {
-    width: 640px;
-    float: left;
-    min-height: 300px;
-}
 #logo {
     color: white;
     text-align: center;
@@ -84,6 +67,19 @@
 
 header {
     text-align: center;
+}
+article.latest img {
+    max-width: 100%;
+}
+article.latest .label,
+article.latest .author {
+    margin-bottom: 10px;
+}
+article.latest .content {
+    margin-top: 20px;
+}
+article.latest .title {
+    margin-bottom: 10px;
 }
 .block {
     float: left;
@@ -129,15 +125,38 @@ nav li a {
     color: white;
 }
 .articlePreview .author {
+    width: 100px;
+    height: 30px;
     position: absolute;
     bottom: 15px;
     left: 15px;
 }
-.articlePreview .date {
+.articlePreview .publishDate {
+    width: 100px;
+    height: 30px;
     position: absolute;
     right: 15px;
     bottom: 15px;
 }
+.corner-triangle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #69d2e7;
+    width: 25px;
+    height: 25px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    background-image: url('/images/icons.png');
+}
+.icon.tweet   { background-position:  -45px; }
+.icon.plus1   { background-position:  -89px; }
+.icon.twitter { background-position: -135px; }
+.icon.person  { background-position: -178px; }
+.icon.date    { background-position: -223px; }
 
 @media only screen {
   .column,

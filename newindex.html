@@ -21,6 +21,9 @@ title: NxJ Blog
                         <li><a href='/ceooffice.html'>CEO Office</a></li>
                     </ul>
                 </nav>
+                <div class="icon share"></div>
+                <div class="icon plus1"></div>
+                <div class="icon tweet"></div>
             </header>
         </div>
         <div class="block info half">
@@ -29,13 +32,13 @@ title: NxJ Blog
     </div>
     <div class='small-12 medium-6 large-4 column'>
         {% for post in site.posts limit:1 %}
-        <div class='block double gray lightbg'>
-            <div style="position: absolute; top: 0; right: 0; background-color: #69d2e7; width: 25px; height: 25px;"></div>
-            <div class="header">
+        <article class='block double gray lightbg latest'>
+            <div class="corner-triangle"></div>
+            <header>
                 <div class="label">Latest Article</div>
                 <div class="author">- {{ post.author }} -</div>
-                <img src="/images/armsrace_rollout.png" style="max-width: 300px;">
-            </div>
+                <img src="/images/armsrace_rollout.png">
+            </header>
             <div class="content">
                 <div class="title" style="color: #d25676;">
                     {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}
@@ -43,25 +46,31 @@ title: NxJ Blog
                 <div class="excerpt"> {{ post.excerpt }} </div>
                 <a href="{{ post.url }}"> <div class="readMore" style="color: #c02942;">Read More</div> </a>
             </div>
-        </div>
+        </article>
         {% endfor %}
     </div>
 
     <div class='small-12 medium-6 large-4 columns'>
-        <div class='block full gray'>
+        <section class='block full gray'>
             <div class='topbar'></div>
             <div style="position: absolute; bottom: 20px; left: 20px; width: 260px; height: 45px;background-color: #26c5fc;"></div>
-        </div>
+        </section>
     </div>
 
     {% for post in site.posts limit:5 %} {% unless forloop.first %}
     <div class='small-12 medium-6 large-4 column'>
         <a href="{{ post.url }}">
-            <div class="block full {{ post.category }} articlePreview">
+            <article class="block full {{ post.category }} articlePreview">
                 <div class="title">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
-                <div class='author'>{{ post.author }}</div>
-                <div class='date'>{{ post.date | date: "%d %b" }}</div>
-            </div>
+                <div class='author'>
+                    <div class="icon person left"></div>
+                    <div> {{ post.author }} </div>
+                </div>
+                <div class='publishDate'>
+                    <div class="icon date left"></div>
+                    <div> {{ post.date | date: "%d %b" }} </div>
+                </div>
+            </article>
         </a>
     </div>
     {% endunless %} {% endfor %}
