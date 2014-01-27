@@ -25,11 +25,11 @@ Next Jump’s Vim lovers have come together to collect, document, and open-sourc
 
 <ol>
   <li>
-  Dealing with multiple files</u> - Programming frequently involves switching back and forth between a group of files. With Jarvis, you can type <code>,be</code> to open <b>BufExplorer</b> and see a list of recently used files or <code>,b</code> and begin typing the name of the file to have <b>CtrlP</b> fuzzy-find the file in your buffer.
+  <u>Dealing with multiple files</u> - Programming frequently involves switching back and forth between a group of files. With Jarvis, you can type <code>,be</code> to open <b>BufExplorer</b> and see a list of recently used files or <code>,b</code> and begin typing the name of the file to have <b>CtrlP</b> fuzzy-find the file in your buffer.
   </li>
   <li>
     <u>Finding a file</u> - Typing <code>(ctrl)p</code> (for sublime users) or <code>,t</code> opens up <b>CtrlP</b> and lets you search your current project for a file name. Want to browse the directory of the file you are working on? <code>,f</code> jumps to the location of the current file in <b>NerdTree</b>, a tree explorer plugin. 
-    </li>
+   
   </li>
   <li>
     <u>Syntax checking</u> - With the <b>Syntastic</b> plugin you get real-time syntax checking in a ton of different languages.
