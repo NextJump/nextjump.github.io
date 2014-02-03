@@ -3,12 +3,14 @@ layout: post
 title: Setting up Node.js on the Raspberry Pi
 author: Blacki
 date: 2014-02-03
-excerpt: First you will need to have a compatible SD Card. Next we have to format our SD Card. Using Disk Utility we will erase the SD Card. To do this select the card, click the erase tab, select MS-DOS (Fat), Rename (optional), and finally hit erase. Once this is complete, select the newly created partition and unmount it. Once unmounted, we will get the disk identifier of the SD Card... 
+excerpt: The Raspberry Pi is a powerful platform for prototyping the Internet of Things. In this tutorial series I show you how to begin usiing the Raspberry Pie to create embedded network services for your home and all you need is Javascript.
 previousBlog: The Dev Poets Blog
 previousBlogLink: http://www.devpoets.com/node-js-on-raspberry-pi/
 category: engineering
 picture: blacki_m.jpg
 ---
+
+The Raspberry Pi is a powerful platform for prototyping the Internet of Things. In this tutorial series I show you how to begin usiing the Raspberry Pie to create embedded network services for your home and all you need is Javascript.
 
 # Preparing your SD Card
 
