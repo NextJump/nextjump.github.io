@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up Node.js on the Raspberry Pi
-author: Blacki
+author: Blacki Li Rudi Migliozzi
 date: 2014-02-03
 excerpt: The Raspberry Pi is a powerful platform for prototyping the Internet of Things. In this tutorial series I show you how to begin usiing the Raspberry Pie to create embedded network services for your home and all you need is Javascript.
 previousBlog: The Dev Poets Blog
