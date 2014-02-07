@@ -6,7 +6,7 @@ oldLink: /post/59795522834/leadership-hack-1-begin-a-decision-by-asking-what
 author: Tom
 twitter: Thom_Fuller
 category: engineering
-picture: tom_f.jpg
+picture: tom_f.png
 tags:
 - leadership
 - observation

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Consumer Research&#58; Starting a Movement
+title: Starting a Movement
 author: Tom
 category: engineering
 excerpt: Getting others to follow you – customers, investors, advisors, partners – is the essence of business. How to do that?
-picture: tom_f.jpg
+picture: tom_f.png
 twitter: Thom_Fuller
 ---
 Getting others to follow you – customers, investors, advisors, partners – is the essence of business.

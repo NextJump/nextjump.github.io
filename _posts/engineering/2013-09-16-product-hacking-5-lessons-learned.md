@@ -5,7 +5,7 @@ author: Tom
 twitter: Thom_Fuller
 excerpt: Leading up to the event I gave a short presentation of Product Hack tips. The top lessons learned from our Pods (teams of 3 to 5 engineers) about how to quickly take an idea from concept to demonstrable experience.
 category: engineering
-picture: tom_f.jpg
+picture: tom_f.png
 oldLink: /post/61441082402/product-hacking-5-lessons-learned
 ---
 

@@ -5,7 +5,7 @@ oldLink: /post/59508118756/to-win-need-army-marines
 author: Tom
 twitter: Thom_Fuller
 category: engineering
-picture: tom_f.jpg
+picture: tom_f.png
 tags:
 ---
 
