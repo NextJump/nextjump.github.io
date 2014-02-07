@@ -6,11 +6,14 @@ date: 2014-02-03
 excerpt: The Raspberry Pi is a powerful platform for prototyping the Internet of Things. In this tutorial series I show you how to begin usiing the Raspberry Pie to create embedded network services for your home and all you need is Javascript.
 previousBlog: The Dev Poets Blog
 previousBlogLink: http://www.devpoets.com/node-js-on-raspberry-pi/
+previewimg: node_pi.png
 category: engineering
 picture: blacki_m.jpg
 ---
 
-The Raspberry Pi is a powerful platform for prototyping the Internet of Things. In this tutorial series I show you how to begin usiing the Raspberry Pie to create embedded network services for your home and all you need is Javascript.
+![Node.js + Raspberry Pi](/images/node_pi.png)
+
+The Raspberry Pi is a powerful platform for prototyping the Internet of things. In this series of posts I show you how to begin using the Raspberry Pi to create embedded network services for your home using mostly just JavaScript. In this post I start by outlining how to set up a Node.js server on your Raspberry Pi. As a part of this I will walk you through the workflow I use when developing Node.js applications on the Raspberry Pi. 
 
 # Preparing your SD Card
 
