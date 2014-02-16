@@ -1,6 +1,5 @@
-            <article class="block full {{ post.category }} articlePreview" style="background-image: url('/images/{{ post.previewimg }}');" >
-                <div class="tint cover {{ post.category }}"></div>
-                <div class="title">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
+            <article class="block full {% if post.previewimg %} {% else %} {{ post.category }} {% endif %} articlePreview" style="background-image: url('/images/{{ post.previewimg }}');" >
+                <div class="title {{ post.category }}">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
                 <div class='author'>
                     <div class="icon person left"></div>
                     <div> {{ post.author }} </div>

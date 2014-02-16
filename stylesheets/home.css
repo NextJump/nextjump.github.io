@@ -142,6 +142,7 @@ article.latest .title {
     margin-bottom: 1em;
     width: 100%;
     padding: 15px;
+    border: 1px solid #ccc;
 }
 
 ul {
