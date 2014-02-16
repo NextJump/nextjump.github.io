@@ -3,7 +3,7 @@ layout: post
 title: Starting a Movement
 author: Tom
 category: engineering
-excerpt: Getting others to follow you – customers, investors, advisors, partners – is the essence of business. How to do that?
+excerpt: Getting others to follow you – customers, investors, advisors, partners – is the essence of business. How to do that? Think of it as Starting a Movement.  And that takes three things&#58; 1. Faith&#58;  The founders and leaders have to believe deeply.  Your product will break the status quo, unlock wasted human potential... or simply make an important improvement to what exists.  2. Stories&#58;  You must have emotional, human stories that capture the core of why you are building.  First and foremost, businesses and products exist to help people.  Making money is the outcome.  Capture in stories the human benefit you are building.
 picture: tom_f.png
 twitter: Thom_Fuller
 ---
