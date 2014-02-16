@@ -2,77 +2,29 @@
 layout: newhome
 title: NxJ Blog
 ---
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="/javascripts/scrollmanager.js"></script>
 
 <div class='row'>
     <div class="small-12 medium-6 large-4 column">
-        <div class="block orange oneandhalf">
-            <header>
-                <a href="/">
-                    <div id="logo">
-                        <img src="/images/nxj.png" />
-                        blog
-                    </div>
-                </a>
-                <nav>
-                    <ul>
-                        <li class="nav_home"><a href='/newindex.html'>Home</a></li>
-                        <li class="nav_culture"><a href='/newculture.html'>Our Culture</a></li>
-                        <li class="nav_engineer"><a href='/newengineering.html'>Engineering</a></li>
-                        <li class="nav_ceo selected"><a href='/newceooffice.html'>CEO Office</a></li>
-                    </ul>
-                </nav>
-                <div class="social-buttons">
-                    <div class="icon share"></div>
-                    <div class="icon plus1"></div>
-                    <div class="icon tweet last"></div>
-                </div>
-            </header>
-        </div>
-        <div class="block info half">
-            The Next Jump blog is a look into the culture of a company that believes corporations can change the world.
-        </div>
+        {% include navblock.html %}
+        {% include infoblock.html %}
     </div>
-    <div class='small-12 medium-6 large-4 column'>
+    <div id="post-1" class='small-12 medium-6 large-4 column'>
         {% for post in site.categories.ceooffice limit:1 %}
-        <article class='block double gray lightbg latest'>
-            <div class="corner-triangle"></div>
-            <header>
-                <div class="featureLabel">Latest Article</div>
-                <div class="author">- {{ post.author }} -</div>
-                <div class="previewImage" style="background-image: url('/images/{{ post.previewimg }}');">
-            </header>
-            <div class="content">
-                <div class="title" style="color: #d25676;">
-                    {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}
-                </div>
-                <div class="excerpt"> {{ post.excerpt }} </div>
-                <a href="{{ post.url }}"> <div class="readMore" style="color: #c02942;">Read More</div> </a>
-            </div>
-        </article>
+        {% include featured-card.html %}
         {% endfor %}
     </div>
 
     {% for post in site.categories.ceooffice %} {% unless forloop.first %}
-    <div class='small-12 medium-6 large-4 column'>
+    
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
         <a href="{{ post.url }}">
         {% include article-card.html %}
         </a>
     </div>
     {% endunless %} {% endfor %}
+
+    <div class="clear"></div>
+    <footer class="orange">You've managed to reach all the way to the bottom!</footer>
 </div>
-
-
-<!--
-    <div class='small-12 medium-6 large-4 columns'>
-        <section class='full gray'>
-            <div class='row'>
-                <div class='small-12 columns topbar'>Hello</div>
-            </div>
-            <div class="row">
-                <div class="small-1  columns"></div>
-                <div class="small-10 columns seeTweets">Hello</div>
-                <div class="small-1  columns"></div>
-            </div>
-        </section>
-    </div>
--->

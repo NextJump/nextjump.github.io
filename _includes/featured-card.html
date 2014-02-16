@@ -11,7 +11,7 @@
                 <div class="title" style="color: #d25676;">
                     {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}
                 </div>
-                <div class="excerpt {% if post.previewimg %}shortened{% endif %}"> {{ post.excerpt }} </div>
+                <div class="excerpt{% if post.previewimg %} shortened{% endif %}"> {{ post.excerpt }} </div>
                 <a href="{{ post.url }}"> <div class="readMore" style="color: #c02942;">Read More</div> </a>
             </div>
         </article>

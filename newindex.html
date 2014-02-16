@@ -3,35 +3,12 @@ layout: newhome
 title: NxJ Blog
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="/javascripts/scrollmanager.js"></script>
 
 <div class='row'>
     <div class="small-12 medium-6 large-4 column">
-        <div class="block orange oneandhalf">
-            <header>
-                <a href="/">
-                    <div id="logo">
-                        <img src="/images/nxj.png" />
-                        blog
-                    </div>
-                </a>
-                <nav>
-                    <ul>
-                        <li class="nav_home selected"><a href='/newindex.html'>Home</a></li>
-                        <li class="nav_culture"><a href='/newculture.html'>Our Culture</a></li>
-                        <li class="nav_engineer"><a href='/newengineering.html'>Engineering</a></li>
-                        <li class="nav_ceo"><a href='/newceooffice.html'>CEO Office</a></li>
-                    </ul>
-                </nav>
-                <div class="social-buttons">
-                    <div class="icon share"></div>
-                    <div class="icon plus1"></div>
-                    <div class="icon tweet last"></div>
-                </div>
-            </header>
-        </div>
-        <div class="block info half">
-            The Next Jump blog is a look into the culture of a company that believes corporations can change the world.
-        </div>
+        {% include navblock.html %}
+        {% include infoblock.html %}
     </div>
     <div id="post-1" class='small-12 medium-6 large-4 column'>
         {% for post in site.posts limit:1 %}
@@ -50,70 +27,4 @@ title: NxJ Blog
 
     <div class="clear"></div>
     <footer class="orange">You've managed to reach all the way to the bottom!</footer>
-    
 </div>
-
-<style>
-.postbox {
-    position: relative;
-}
-</style>
-
-<script>
-
-window.onscroll = (function initScrollManager() {
-    var shown = 10;
-    var loading = false;
-    var offset_t = 100;
-    var numMore = 10;
-
-    var shouldLoadMore = function() {
-        if (loading) return false;
-        return (window.innerHeight + window.scrollY) >= document.body.offsetHeight;
-    };
-
-    var animateCardAppearance = function(id) {
-        elem = $('#'+id);
-        var opts = {} ;
-        var dir = '';
-        var seed = Math.random();
-
-        if      (seed < .25) dir = 'left';
-        else if (seed < .50) dir = 'right';
-        else if (seed < .75) dir = 'top';
-        else                 dir = 'bottom';
-
-        opts[dir] = '+=70px';
-        elem.css({opacity: 0.0, display: "block"}).animate(opts, 0);
-        opts[dir] = '-=70px';
-        opts.opacity = 1;
-        elem.animate(opts, 200);
-    };
-
-    var showCards = function(more) {
-        loading = true;
-
-        var newCount = shown + more;
-        var ioffset = 0;
-        for (var i = shown+1; i <= newCount; i++, ioffset++) {
-            window.setTimeout(animateCardAppearance, ioffset*offset_t, 'post-'+i);
-        }
-        window.setTimeout(function() {
-            loading = false;
-
-            // if they're already scrolling down, don't get stuck
-            if (shouldLoadMore()) {
-                showCards(numMore);
-            }
-        }, ioffset*offset_t);
-        shown = newCount;
-    };
-
-    return function() {
-        if (shouldLoadMore()) {
-            showCards(numMore);
-        }
-    };
-}());
-
-</script>
