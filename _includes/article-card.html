@@ -1,11 +1,13 @@
             <article class="block full {% if post.previewimg %} {% else %} {{ post.category }} {% endif %} articlePreview" style="background-image: url('/images/{{ post.previewimg }}');" >
                 <div class="title {{ post.category }}">{{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}</div>
-                <div class='author'>
-                    <div class="icon person left"></div>
-                    <div> {{ post.author }} </div>
-                </div>
-                <div class='publishDate'>
-                    <div class="icon date left"></div>
-                    <div> {{ post.date | date: "%d %b" }} </div>
+                <div class="about {{ post.category }}">
+                    <div class='author'>
+                        <div class="icon person left"></div>
+                        <div> {{ post.author }} </div>
+                    </div>
+                    <div class='publishDate'>
+                        <div class="icon date left"></div>
+                        <div> {{ post.date | date: "%d %b" }} </div>
+                    </div>
                 </div>
             </article>
