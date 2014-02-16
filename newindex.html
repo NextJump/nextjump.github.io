@@ -65,6 +65,12 @@ window.onscroll = (function initScrollManager() {
     var shown = 10;
     var loading = false;
     var offset_t = 100;
+    var numMore = 10;
+
+    var shouldLoadMore = function() {
+        if (loading) return false;
+        return (window.innerHeight + window.scrollY) >= document.body.offsetHeight;
+    };
 
     var animateCardAppearance = function(id) {
         elem = $('#'+id);
@@ -92,18 +98,20 @@ window.onscroll = (function initScrollManager() {
         for (var i = shown+1; i <= newCount; i++, ioffset++) {
             window.setTimeout(animateCardAppearance, ioffset*offset_t, 'post-'+i);
         }
-        window.setTimeout(function() { loading = false; }, ioffset*offset_t);
-        shown = newCount;
-    };
+        window.setTimeout(function() {
+            loading = false;
 
-    var shouldLoadMore = function() {
-        if (loading) return false;
-        return (window.innerHeight + window.scrollY) >= document.body.offsetHeight;
+            // if they're already scrolling down, don't get stuck
+            if (shouldLoadMore()) {
+                showCards(numMore);
+            }
+        }, ioffset*offset_t);
+        shown = newCount;
     };
 
     return function() {
         if (shouldLoadMore()) {
-            showCards(10);
+            showCards(numMore);
         }
     };
 }());
