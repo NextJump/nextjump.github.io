@@ -1,25 +1,17 @@
 ---
-layout: default
+layout: home
 title: NxJ Blog
-subtitle: Engineering
 ---
-
-<section id="main_content" class="inner">
-    <p>The Next Jump Engineering blog is our way to open source learning’s while building our
-    e-commerce platform that enables 65 million corporate employees to stretch their paycheck using
-    employee pricing at over 30,000 national and local retailers. </p>
-
-    <p>Being a teaching organization, we launched this blog to share our wisdom and missteps as we
-    continue to evolve our technology, products and unique engineering culture. If you would like
-    to get in touch, we would love to hear from you. Please contact us at
-    <a href="mailto:teamblog@nextjump.com">teamblog@nextjump.com</a></p>
-
-    <p>The code for this blog is <a href="https://github.com/{{ site.githubAccount }}">open source</a> on
-    GitHub, feel free to submit a pull request or report an issue</p>
-
-    <div  class="posts">
-        {% for post in site.categories.engineering %}
-            {% include postPreview.html %}
+    <div id="post-1" class='small-12 medium-6 large-4 column'>
+        {% for post in site.categories.engineering limit:1 %}
+        {% include featured-card.html %}
         {% endfor %}
-    </div >
-</section>
+    </div>
+
+    {% for post in site.categories.engineering %} {% unless forloop.first %}
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
+        <a href="{{ post.url }}">
+        {% include article-card.html %}
+        </a>
+    </div>
+    {% endunless %} {% endfor %}
