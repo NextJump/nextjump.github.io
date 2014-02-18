@@ -2,14 +2,6 @@
 layout: newhome
 title: NxJ Blog
 ---
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-<script src="/javascripts/scrollmanager.js"></script>
-
-<div class='row'>
-    <div class="small-12 medium-6 large-4 column">
-        {% include navblock.html %}
-        {% include infoblock.html %}
-    </div>
     <div id="post-1" class='small-12 medium-6 large-4 column'>
         {% for post in site.categories.ceooffice limit:1 %}
         {% include featured-card.html %}
@@ -17,14 +9,9 @@ title: NxJ Blog
     </div>
 
     {% for post in site.categories.ceooffice %} {% unless forloop.first %}
-    
     <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
         <a href="{{ post.url }}">
         {% include article-card.html %}
         </a>
     </div>
     {% endunless %} {% endfor %}
-
-    <div class="clear"></div>
-    <footer class="orange">You've managed to reach all the way to the bottom!</footer>
-</div>

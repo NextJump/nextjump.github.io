@@ -12,7 +12,8 @@
   ga('send', 'pageview');
 
 </script>
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="/javascripts/scrollmanager.js"></script>
 
   <head>
     <meta charset='utf-8' />
@@ -27,7 +28,17 @@
 
   <body>
 
+<div class='row'>
+    <div class="small-12 medium-6 large-4 column">
+        {% include navblock.html %}
+        {% include infoblock.html %}
+    </div>
+
     {{ content }}
+
+    <div class="clear"></div>
+    <footer class="orange">You've managed to reach all the way to the bottom!</footer>
+</div>
 
   </body>
 </html>
