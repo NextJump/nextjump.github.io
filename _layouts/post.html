@@ -16,80 +16,94 @@
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <meta name="description" content="Next-jump-blog.github.io : A blog!" />
-
-    <title>Next Jump</title>
-    <link rel="stylesheet" href="stylesheets/normalize.css" />
-    <link rel="stylesheet" href="stylesheets/foundation.css" />
-    <link rel="stylesheet" href="stylesheets/newpost.css" />
+    <title>{{ page.title }} - Next Jump</title>
+    <link rel="stylesheet" href="/stylesheets/normalize.css" />
+    <link rel="stylesheet" href="/stylesheets/foundation.css" />
+    <link rel="stylesheet" href="/stylesheets/site.css" / >
+    <link rel="stylesheet" href="/stylesheets/post.css" / >
   </head>
 
 <body>
 
-<section id="main_content" class="inner">
-    <h2>{{ page.title }}</h2>
-    {% if page.subtitle %}
-    <h3>{{ page.subtitle }}</h3>
-    {% endif %}
-    <h4>By {{ page.author }}</h4>
+<div class="row">
+    <div class="small-12 medium-12 larg-12 column">
+        <article class="block full">
+            <header class="{{ page.category }}">
+                <div class="title {{ page.category }}">{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }} {% endif %}</div>
+                <div class="about {{ page.category }}">
+                    <div class='author'>
+                        <div class="icon person left"></div>
+                        <div> {{ page.author }} </div>
+                    </div>
+                    <div class='publishDate'>
+                        <div class="icon date left"></div>
+                        <div> {{ page.date | date: "%d %b" }} </div>
+                    </div>
+                </div>
+            </header>
+        </article>
 
-    <div class="post">
-        {% if page.previousBlog %}
-        <p><em>[ This post was previously published on <a href="{{page.previousBlogLink}}">{{ page.previousBlog }}</a> ]</em></p>
-        {% endif %}
-        {{ content }}
-    </div>
-
-    <hr>
-    <div class="meta">
-        <div class="picture">
-            {% if page.picture %}
-                <img src="/images/{{ page.picture }}" style="max-width: 100px;">
+        <div class="post">
+            {% if page.previousBlog %}
+            <p><em>[ This post was previously published on <a href="{{page.previousBlogLink}}">{{ page.previousBlog }}</a> ]</em></p>
             {% endif %}
+
+            {{ content }}
         </div>
-        <div class="info">
-            <div>Posted under <a href="/{{ page.category }}.html">{{ page.category }}</a> on {{ page.date | date_to_string }}</div>
-            <p>
-                By {{ page.author }}
-            </p>
-            {% if page.authorTitle %}
-            <p>{{ page.authorTitle }}</p>
-            {% endif %}
 
-            {% if page.twitter %}
-            <p>Follow {{ page.author }} on Twitter <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a></p>
-            {% endif %}
-        </div>
-        <div class="clear"></div>
-        <div class="social">
-            {% include socialSetup.html %}
-            <div class="box fb_share">
-                {% include facebookShare.html %}
+        <hr>
+        <div class="meta">
+            <div class="picture">
+                {% if page.picture %}
+                    <img src="/images/{{ page.picture }}" style="max-width: 100px;">
+                {% endif %}
             </div>
-            <div class="box fb_like">
-                {% include facebookLike.html %}
+            <div class="info">
+                <div>Posted under <a href="/{{ page.category }}.html">{{ page.category }}</a> on {{ page.date | date_to_string }}</div>
+                <p>
+                    By {{ page.author }}
+                </p>
+                {% if page.authorTitle %}
+                <p>{{ page.authorTitle }}</p>
+                {% endif %}
+
+                {% if page.twitter %}
+                <p>Follow {{ page.author }} on Twitter <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a></p>
+                {% endif %}
             </div>
             <div class="clear"></div>
-            <div class="box tt_share">
-                {% include twitterShare.html %}
+            <div class="social">
+                {% include socialSetup.html %}
+                <div class="box fb_share">
+                    {% include facebookShare.html %}
+                </div>
+                <div class="box fb_like">
+                    {% include facebookLike.html %}
+                </div>
+                <div class="clear"></div>
+                <div class="box tt_share">
+                    {% include twitterShare.html %}
+                </div>
+                <div class="clear"></div>
             </div>
-            <div class="clear"></div>
         </div>
-    </div>
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'nextjump';
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'nextjump';
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-</section>
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </div>
+</div>
 
 <script>
     var imgs = document.querySelectorAll('.post img');
