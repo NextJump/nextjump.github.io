@@ -39,7 +39,7 @@ window.onscroll = (function initScrollManager() {
         window.setTimeout(function() {
             loading = false;
 
-            // if they're already scrolling down, don't get stuck
+            // if they're already scrolled down, don't get stuck
             if (shouldLoadMore()) {
                 showCards(numMore);
             }
