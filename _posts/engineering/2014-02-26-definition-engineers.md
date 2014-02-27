@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEFINITION Engineers
+title: 'DEFINITION: Engineers'
 author: Tom
 category: engineering
 excerpt: An Engineer is a creator.  Someone who is able to breathe life into an idea.  Someone who takes thoughts and makes them reality.
