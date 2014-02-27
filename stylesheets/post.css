@@ -18,3 +18,18 @@
     height: 30px;
     float: right;
 }
+
+header {
+    height: 200px;
+    padding: 30px;
+}
+
+header .title {
+    line-height: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+.post {
+    margin-top: 20px;
+}
