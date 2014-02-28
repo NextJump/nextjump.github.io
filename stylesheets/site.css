@@ -28,3 +28,36 @@
 .icon.twitter { background-position: -135px; }
 .icon.person  { background-position: -178px; }
 .icon.date    { background-position: -223px; }
+
+nav .nav {
+    background-color: #fa6900;
+}
+.nav {
+    border-radius: 5px;
+    color: white;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+.nav:hover {
+    background-color: #ff8a31;
+}
+ul {
+    list-style: none;
+}
+nav ul {
+    margin-left: 0;
+}
+nav li {
+    border-radius: 5px;
+    color: white;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+nav li a {
+    color: white;
+}
+nav li a:hover {
+    color: white;
+}

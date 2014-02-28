@@ -16,21 +16,8 @@ body {
 .double {
     height: 620px;
 }
-.selected {
-    background-color: #ff8a31;
-}
 .info {
     line-height: 40px;
-}
-.nav {
-    border-radius: 5px;
-    color: white;
-    width: 215px;
-    margin: 0 auto 5px;
-    padding: 15px;
-}
-.nav.selected {
-    background-color: #ff8a31;
 }
 
 .social-buttons {
@@ -114,25 +101,6 @@ article.latest .title {
     border: 1px solid #ddd;
 }
 
-ul {
-    list-style: none;
-}
-nav ul {
-    margin-left: 0;
-}
-nav li {
-    border-radius: 5px;
-    color: white;
-    width: 215px;
-    margin: 0 auto 5px;
-    padding: 15px;
-}
-nav li a {
-    color: white;
-}
-nav li a:hover {
-    color: white;
-}
 .row .row {
     margin-left: -0.5em;
     margin-right: -0.5em;
