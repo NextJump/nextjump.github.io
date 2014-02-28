@@ -1,9 +1,16 @@
+article {
+    background-color: #f4f4f4;
+}
 .about {
     position: absolute;
     bottom: 0;
     left: 0;
+    width: 100%;
     padding-bottom: 10px;
     padding-top: 10px;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
 }
 .author {
     float: left;
@@ -14,14 +21,22 @@
     margin-left: 20px;
 }
 .publishDate {
+    float: left;
     width: 115px;
     height: 30px;
-    float: right;
 }
-
+.social {
+    float: right;
+    margin-right: 20px;
+}
+.social .icon {
+    float: left;
+    margin-right: 10px;
+}
 header {
     height: 200px;
     padding: 30px;
+    position: relative;
 }
 
 header .title {
@@ -31,5 +46,10 @@ header .title {
 }
 
 .post {
-    margin-top: 20px;
+    padding: 20px;
+}
+.attribution {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
 }

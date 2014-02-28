@@ -191,16 +191,6 @@ nav li a:hover {
     width: 25px;
     height: 25px;
 }
-.icon {
-    height: 30px;
-    width: 30px;
-    background-image: url('/images/icons.png');
-}
-.icon.tweet   { background-position:  -45px; }
-.icon.plus1   { background-position:  -89px; }
-.icon.twitter { background-position: -135px; }
-.icon.person  { background-position: -178px; }
-.icon.date    { background-position: -223px; }
 
 @media only screen {
   .column,
