@@ -1,5 +1,6 @@
 article {
     background-color: #f4f4f4;
+    margin-bottom: 20px;
 }
 .about {
     position: absolute;
@@ -37,6 +38,7 @@ article header {
     padding: 30px;
     position: relative;
     margin-bottom: 50px;
+    min-height: 150px;
 }
 
 article header .title {
@@ -56,6 +58,15 @@ article header .title {
 #recentPosts {
     background-color: #f4f4f4;
 }
+#recentPosts header {
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #c3c3c3;
+    padding: 15px;
+}
 #recentPosts .content {
     margin-top: 46px;
 }
@@ -68,12 +79,4 @@ article header .title {
 }
 #recentPosts .recentLink:first-child {
     margin-top: 0;
-}
-#recentPosts header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #c3c3c3;
-    padding: 15px;
 }

@@ -30,7 +30,7 @@
         {% include navblock.html %}
         {% include infoblock.html %}
         <div id="recentPosts" class="block">
-            <header>Recent posts</header>
+            <header>Recent Posts</header>
             <div class="content">
                 {% for post in site.posts limit:5 %}
                 <div class="recentLink"><a href="{{ post.url }}">{{ post.title }}</a></div>
