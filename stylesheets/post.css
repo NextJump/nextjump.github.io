@@ -53,3 +53,27 @@ article header .title {
     width: 100%;
     margin-bottom: 20px;
 }
+#recentPosts {
+    background-color: #f4f4f4;
+}
+#recentPosts .content {
+    margin-top: 46px;
+}
+#recentPosts a {
+    text-decoration: none;
+    color: #666666;
+}
+#recentPosts .recentLink {
+    margin-top: 25px;
+}
+#recentPosts .recentLink:first-child {
+    margin-top: 0;
+}
+#recentPosts header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #c3c3c3;
+    padding: 15px;
+}
