@@ -26,7 +26,11 @@
 <body>
 
 <div class="row">
-    <div class="small-12 medium-12 larg-12 column">
+    <div class="small-12 medium-12 large-4 column">
+        {% include navblock.html %}
+        {% include infoblock.html %}
+    </div>
+    <div class="small-12 medium-12 large-8 column">
         <article>
             <header class="{{ page.category }}">
                 <div class="title {{ page.category }}">{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }} {% endif %}</div>

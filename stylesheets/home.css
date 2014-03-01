@@ -1,37 +1,4 @@
-body {
-    margin-top: 20px;
-    font-family: ProximaNova;
-    font-weight: light;
-}
 
-.half {
-    height: 150px;
-}
-.full {
-    height: 300px;
-}
-.oneandhalf {
-    height: 450px;
-}
-.double {
-    height: 620px;
-}
-.info {
-    line-height: 40px;
-}
-
-.social-buttons {
-    text-align: center;
-    width: 110px;
-    margin: 0 auto;
-}
-.social-buttons .icon {
-    float: left;
-    margin-right: 10px;
-}
-.social-buttons .icon.last {
-    margin-right: 0;
-}
 .topbar {
     width: 100%;
     height: 72px;
@@ -40,9 +7,6 @@ body {
 .seeTweets {
     height: 45px;
     background-color: #26c5fc;
-}
-.block.lightbg {
-    color: #666;
 }
 .excerpt {
     font-size: 18px;
@@ -53,18 +17,7 @@ body {
 .excerpt.shortened {
     max-height: 210px;
 }
-#logo {
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    width: 215px;
-    margin: 0 auto 5px;
-    padding: 15px;
-}
 
-header {
-    text-align: center;
-}
 article.latest img {
     max-width: 100%;
 }
@@ -91,23 +44,6 @@ article.latest .title {
     position: absolute;
     bottom: 60px;
     margin-right: 15px;
-}
-.block {
-    float: left;
-    position: relative;
-    margin-bottom: 1em;
-    width: 100%;
-    padding: 15px;
-    border: 1px solid #ddd;
-}
-
-.row .row {
-    margin-left: -0.5em;
-    margin-right: -0.5em;
-}
-.columns {
-  padding-left: 0.5em;
-  padding-right: 0.5em;
 }
 
 .articlePreview {
@@ -158,38 +94,4 @@ article.latest .title {
     background-image: url('/images/corner-triangle.png');
     width: 25px;
     height: 25px;
-}
-
-@media only screen {
-  .column,
-  .columns {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-  }
-}
-@media only screen and (min-width: 40.063em) {
-  .column,
-  .columns {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-}
-@media only screen and (min-width: 64.063em) {
-  .column,
-  .columns {
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-  }
-}
-
-.clear {
-    clear: both;
-}
-footer {
-    height: 300px;
-    padding: 20px;
-    color: white;
-    margin-bottom: 20px;
-}
-.postbox {
-    position: relative;
 }
