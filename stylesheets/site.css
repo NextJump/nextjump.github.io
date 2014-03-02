@@ -158,3 +158,15 @@ footer {
 .postbox {
     position: relative;
 }
+
+footer a {
+    color: white;
+    font-size: 20px;
+}
+footer .top {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+footer .top, footer ul {
+    text-align: center;
+}
