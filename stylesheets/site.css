@@ -1,0 +1,172 @@
+
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: ProximaNova;
+    font-weight: light;
+}
+.block {
+    float: left;
+    position: relative;
+    margin-bottom: 1em;
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+.block.lightbg {
+    color: #666;
+}
+.half {
+    height: 150px;
+}
+.full {
+    height: 300px;
+}
+.oneandhalf {
+    height: 450px;
+}
+.double {
+    height: 620px;
+}
+.info {
+    line-height: 40px;
+}
+#logo {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+#mainNav {
+    text-align: center;
+}
+
+.row .row {
+    margin-left: -0.5em;
+    margin-right: -0.5em;
+}
+.columns {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+.social-buttons {
+    text-align: center;
+    width: 110px;
+    margin: 0 auto;
+}
+.social-buttons .icon {
+    float: left;
+    margin-right: 10px;
+}
+.social-buttons .icon.last {
+    margin-right: 0;
+}
+
+.orange {
+    background-color: #fa6900;
+}
+.gray {
+    background-color: #f4f4f4;
+}
+.ceooffice {
+    background-color: #d94d39;
+}
+.engineering {
+    background-color: #69d2e7;
+}
+.culture {
+    background-color: #3fb8af;
+}
+.info {
+    background-color: #e0e4cc;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    background-image: url('/images/icons.png');
+}
+.icon.tweet   { background-position:  -45px; }
+.icon.plus1   { background-position:  -89px; }
+.icon.twitter { background-position: -135px; }
+.icon.person  { background-position: -178px; }
+.icon.date    { background-position: -223px; }
+
+nav .nav {
+    background-color: #fa6900;
+}
+.nav {
+    border-radius: 5px;
+    color: white;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+.nav:hover {
+    background-color: #ff8a31;
+}
+ul {
+    list-style: none;
+}
+nav ul {
+    margin-left: 0;
+}
+nav li {
+    border-radius: 5px;
+    color: white;
+    width: 215px;
+    margin: 0 auto 5px;
+    padding: 15px;
+}
+nav li a {
+    color: white;
+}
+nav li a:hover {
+    color: white;
+}
+@media only screen {
+  .column,
+  .columns {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+}
+@media only screen and (min-width: 40.063em) {
+  .column,
+  .columns {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+@media only screen and (min-width: 64.063em) {
+  .column,
+  .columns {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+}
+.clear {
+    clear: both;
+}
+footer {
+    height: 300px;
+    padding: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.postbox {
+    position: relative;
+}
+
+footer a {
+    color: white;
+    font-size: 20px;
+}
+footer .top {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+footer .top, footer ul {
+    text-align: center;
+}

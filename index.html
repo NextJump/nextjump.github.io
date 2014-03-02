@@ -1,45 +1,17 @@
 ---
-layout: default
+layout: home
 title: NxJ Blog
-subtitle: Home
 ---
-
-<section id="main_content" class="inner">
-    <p>The Next Jump blog is a look into the culture of a company that believes corporations can change the world. See this <a href="/ceooffice/letter-from-charlie-kim-founder-ceo.html">Letter from our CEO</a> to learn about our &lsquo;WHY&rsquo;, and our vision of doing the little things that allow others do the great things they are meant to do.</p>
-
-    <p>Our blog is split into different sections: our culture, engineering and posts from our CEO Office. All posts are written in the hope that we can inspire thoughts, ideas and action. If you would like to get in touch, we would love to hear from you. Please contact us at <a href="mailto:teamblog@nextjump.com">teamblog@nextjump.com</a>.</p>
-
-    <p style="display:none;">
-        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fblog.nextjump.com%2F&amp;width=275&amp;height=20&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false"
-        scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:25px;"
-        allowTransparency="true"></iframe>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://blog.nextjump.com"
-            data-text="The Next Jump blog" data-via="nextjump">Tweet</a>
-        <script>
-            !function(d,s,id){
-                var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-                if(!d.getElementById(id)){
-                    js=d.createElement(s);js.id=id;
-                    js.src=p+'://platform.twitter.com/widgets.js';
-                    fjs.parentNode.insertBefore(js,fjs);
-                }
-            }(document, 'script', 'twitter-wjs');
-        </script>
-    </p>
-
-    <h3 style="width: 200px; margin: 0 auto;">Recent Posts</h3>
-    <div class="posts">
-        {% for post in paginator.posts %}
-            {% include postPreview.html %}
-            <hr>
+    <div id="post-1" class='small-12 medium-6 large-4 column'>
+        {% for post in site.posts limit:1 %}
+        {% include featured-card.html %}
         {% endfor %}
-
-        {% include pagination.html %}
     </div>
-</section>
 
-<style>
-    #twitter-widget-0 {
-        position: absolute;
-    }
-</style>
+    {% for post in site.posts %} {% unless forloop.first %}
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
+        <a href="{{ post.url }}">
+        {% include article-card.html %}
+        </a>
+    </div>
+    {% endunless %} {% endfor %}

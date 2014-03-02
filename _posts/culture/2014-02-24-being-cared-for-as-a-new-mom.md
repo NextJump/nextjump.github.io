@@ -4,7 +4,7 @@ title: Being Cared for as a New Mom
 author: Jackie
 category: culture
 picture: jackie_2.jpeg
-previewoffset: -70px
+previewimg: jackie.jpeg
 excerpt: When I found out I was pregnant with twins, I was thrilled! After I basked in the excitement for a few days, my mind quickly shifted to my career. At the time there were only a handful of co workers that had children. Was Next Jump supportive of people with families? Up until now, I had never thought to ask. I looked back on my years as a Next Jumper. Starting here at the age of 23, Next Jump had always taken care of me; there were free breakfasts and dinners, a state of the art gym in the office, adrenaline filled work days, and the most incredible parties. I was fortunate that as a 23 year old this was all I needed to feel taken care of. 
 tags:
 - perspective

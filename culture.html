@@ -1,16 +1,17 @@
 ---
-layout: default
+layout: home
 title: NxJ Blog
-subtitle: Culture
 ---
-
-<section id="main_content" class="inner">
-    <p>Next Jump&lsquo;s culture revolves around the principal of BETTER ME + BETTER YOU = BETTER US.
-    When we work to improve ourselves while helping others better themselves, we create a better world.</p>
-
-    <div  class="posts">
-        {% for post in site.categories.culture %}
-            {% include postPreview.html %}
+    <div id="post-1" class='small-12 medium-6 large-4 column'>
+        {% for post in site.categories.culture limit:1 %}
+        {% include featured-card.html %}
         {% endfor %}
-    </div >
-</section>
+    </div>
+
+    {% for post in site.categories.culture %} {% unless forloop.first %}
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
+        <a href="{{ post.url }}">
+        {% include article-card.html %}
+        </a>
+    </div>
+    {% endunless %} {% endfor %}

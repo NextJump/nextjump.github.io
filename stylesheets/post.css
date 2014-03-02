@@ -1,0 +1,82 @@
+article {
+    background-color: #f4f4f4;
+    margin-bottom: 20px;
+}
+.about {
+    position: absolute;
+    bottom: -50px;
+    left: 0;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+.author {
+    float: left;
+    width: 180px;
+    height: 30px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    margin-left: 20px;
+}
+.publishDate {
+    float: left;
+    width: 115px;
+    height: 30px;
+}
+.social {
+    float: right;
+    margin-right: 20px;
+}
+.social .icon {
+    float: left;
+    margin-right: 10px;
+}
+article header {
+    padding: 30px;
+    position: relative;
+    margin-bottom: 50px;
+    min-height: 150px;
+}
+
+article header .title {
+    line-height: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+.post {
+    padding: 20px;
+}
+.attribution {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#recentPosts {
+    background-color: #f4f4f4;
+}
+#recentPosts header {
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #c3c3c3;
+    padding: 15px;
+}
+#recentPosts .content {
+    margin-top: 46px;
+}
+#recentPosts a {
+    text-decoration: none;
+    color: #666666;
+}
+#recentPosts .recentLink {
+    margin-top: 25px;
+}
+#recentPosts .recentLink:first-child {
+    margin-top: 0;
+}
