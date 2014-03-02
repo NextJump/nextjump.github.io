@@ -1,15 +1,17 @@
 ---
-layout: default
+layout: home
 title: NxJ Blog
-subtitle: CEO Office
 ---
-
-<section id="main_content" class="inner">
-    <p>CEO Office -- Thoughts from our CEO Charlie Kim, and our Chief of Staff, Meghan Messenger</p>
-    <p>See more of Charlie&lsquo;s writing on the <a href="http://www.huffingtonpost.com/charlie-kim/">Huffington Post</a></p>
-    <div  class="posts">
-        {% for post in site.categories.ceooffice %}
-            {% include postPreview.html %}
+    <div id="post-1" class='small-12 medium-6 large-4 column'>
+        {% for post in site.categories.ceooffice limit:1 %}
+        {% include featured-card.html %}
         {% endfor %}
-    </div >
-</section>
+    </div>
+
+    {% for post in site.categories.ceooffice %} {% unless forloop.first %}
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
+        <a href="{{ post.url }}">
+        {% include article-card.html %}
+        </a>
+    </div>
+    {% endunless %} {% endfor %}

@@ -1,3 +1,4 @@
+        <a href="{{ post.url }}">
         <article class='block double gray lightbg latest'>
             <div class="corner-triangle"></div>
             <header>
@@ -8,10 +9,11 @@
                 {% endif %}
             </header>
             <div class="content">
-                <div class="title" style="color: #d25676;">
+                <div class="title" style="color: #d25676; font-size: 24px;">
                     {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }} {% endif %}
                 </div>
                 <div class="excerpt{% if post.previewimg %} shortened{% endif %}"> {{ post.excerpt }} </div>
-                <a href="{{ post.url }}"> <div class="readMore" style="color: #c02942;">Read More</div> </a>
+                 <div class="readMore">Read More</div>
             </div>
         </article>
+        </a>
