@@ -2,7 +2,7 @@
 body {
     margin-top: 20px;
     margin-bottom: 20px;
-    font-family: ProximaNova;
+    font-family: Roboto, sans-serif;
     font-weight: light;
 }
 .block {
@@ -170,3 +170,21 @@ footer .top {
 footer .top, footer ul {
     text-align: center;
 }
+
+@font-face{
+    font-family:'Roboto';
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    src:url('/static/css/Roboto/Roboto-Regular-webfont.eot');
+    src:url('/static/css/Roboto/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+        url('/static/css/Roboto/Roboto-Regular-webfont.woff') format('woff'),
+        url('/static/css/Roboto/Roboto-Regular-webfont.ttf') format('truetype'),
+        url('/static/css/Roboto/Roboto-Regular-webfont.svg#webfont') format('svg');
+}
+
+@font-face {
+    font-family: ProximaNova;
+    src: url("ProximaNova-Light.otf") format("opentype");
+}
+
