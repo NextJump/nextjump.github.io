@@ -3,6 +3,7 @@ layout: post
 title: An Evening of Inspiration
 author: Megan
 category: culture
+previewimg: estephany.jpg
 excerpt: On March 12th, Summer Search NYC had our 2014 Leadership Gala.  This is the BIGGEST event of the year for us and its success is critical to providing our programming to help low-income high school students become college graduates and community leaders.  At the event this year, we had more than 500 guests including over 80 Summer Search students and alumni and a table of our colleagues, partners and friends from Next Jump.  The event raised more than $1.2M for the Summer Search NYC program.
 ---
 
