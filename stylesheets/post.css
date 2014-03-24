@@ -80,3 +80,9 @@ article header .title {
 #recentPosts .recentLink:first-child {
     margin-top: 0;
 }
+.imgSubtitle {
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    line-height: 20px;
+}
