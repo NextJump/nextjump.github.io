@@ -7,3 +7,4 @@ name: Next Jump Blog
 description: The Next Jump blog is a look into the culture of a company that believes corporations can change the world.
 url: http://blog.nextjump.com/
 githubAccount: NextJump
+markdown: kramdown
