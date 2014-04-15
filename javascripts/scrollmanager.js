@@ -1,9 +1,9 @@
 
-window.onscroll = (function initScrollManager() {
-    var shown = 10;
+//window.onscroll = (function initScrollManager() {
+    var shown = 11;
     var loading = false;
     var offset_t = 100;
-    var numMore = 10;
+    var numMore = 6;
 
     var shouldLoadMore = function() {
         if (loading) return false;
@@ -36,21 +36,7 @@ window.onscroll = (function initScrollManager() {
         for (var i = shown+1; i <= newCount; i++, ioffset++) {
             window.setTimeout(animateCardAppearance, ioffset*offset_t, 'post-'+i);
         }
-        window.setTimeout(function() {
-            loading = false;
-
-            // if they're already scrolled down, don't get stuck
-            if (shouldLoadMore()) {
-                showCards(numMore);
-            }
-        }, ioffset*offset_t);
         shown = newCount;
     };
-
-    return function() {
-        if (shouldLoadMore()) {
-            showCards(numMore);
-        }
-    };
-}());
+//}());
 

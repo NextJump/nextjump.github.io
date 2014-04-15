@@ -82,6 +82,15 @@ body {
 .info {
     background-color: #e0e4cc;
 }
+.more {
+    background-color: #fa6900;
+}
+.moreLink {
+    line-height: 280px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
 
 .icon {
     height: 30px;

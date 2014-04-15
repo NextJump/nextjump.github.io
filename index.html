@@ -9,7 +9,7 @@ title: NxJ Blog
     </div>
 
     {% for post in site.posts %} {% unless forloop.first %}
-    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 11 %} style="display:none;"{% endif %}>
         <a href="{{ post.url }}">
         {% include article-card.html %}
         </a>
