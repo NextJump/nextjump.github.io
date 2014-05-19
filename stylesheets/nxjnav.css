@@ -1,9 +1,4 @@
-@font-face {
-    font-family: 'BebasNeue';
-    font-style: normal;
-    font-weight: normal;
-    src: url('assets/BebasNeue.otf');
-}
+/** nxj nav requirements */
 #topNav{
     display:inline;
     list-style:none;
@@ -121,16 +116,16 @@ ul li.menuParent{
     padding: 0;
     margin: 0;
 }
+#nxj_navbar #logo a {
+    font-family: BebasNeue, Arial, sans-serif;
+    font-size: 22px;
+    line-height: 58px;
+    text-decoration: none;
+}
 
 .externalSiteContainer,
 .wideLayout {
     margin-top: 78px;
-}
-#nxj_navbar #logo a {
-    font-family: BebasNeue, Arial, sans-serif; 
-    font-size: 22px;
-    line-height: 58px;
-    text-decoration:none;
 }
 #nxj_navbar #logo img {
     display: inline-block;
@@ -204,3 +199,92 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
     height: 20px;
     width: 100%;
 }
+
+/** footer requirements */
+.footerSection {
+    padding-top: 23px;
+}
+.span-4 {
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+}
+.officeLocation {
+    padding-bottom: 17px;
+}
+.officeLocation p, .footerBottom {
+    color: #868686;
+    margin-bottom: 0px;
+    padding: 0;
+    font-size: 12px;
+}
+.span-24 {
+    width: 950px;
+    margin-right: 0;
+}
+.footerShare {
+    float: right;
+    position: relative;
+    bottom: 5px;
+}
+#copyNotice {
+    float: left;
+}
+#copyNotice span {
+    margin-right: 20px;
+    float: left;
+}
+#copyNotice a {
+    margin-left: 20px;
+}
+
+#footer h3 {
+    color: #666666;
+    font-size: 14px;
+    font-weight: bold;
+}
+#footer a {
+    color: #999999;
+    font-size: 12px;
+    line-height: 18px;
+}
+#footer a:hover {
+    color: #FF4700;
+    text-decoration: none;
+}
+.footerSection a {
+    display: block;
+    font-weight: normal;
+}
+#footer {
+    font-family: Arial, Helvetica, verdana, sans-serif;
+}
+.footerShare {
+    float: right;
+    position: relative;
+    bottom: 5px;
+}
+.shareIcon {
+    display: block;
+    float: left;
+    margin: 0px 5px;
+    background: url("//imga.nxjimg.com/emp_image/nextjump/images/social_icon_sprite.png");
+    width: 26px;
+    height: 24px;
+}
+.shareIcon span {
+    display:none;
+}
+.shareIcon.fbIcon {
+    background-position: 0px -26px;
+}
+.shareIcon.twitterIcon {
+    background-position: -26px -26px;
+}
+.shareIcon.linkedInIcon {
+    background-position: -52px -26px;
+}
+#footer .officeRow a {
+    color: #FF4700;
+}
+
