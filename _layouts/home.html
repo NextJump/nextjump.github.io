@@ -26,13 +26,16 @@
     <link rel="stylesheet" href="/stylesheets/foundation.css" />
     <link rel="stylesheet" href="/stylesheets/site.css" />
     <link rel="stylesheet" href="/stylesheets/home.css" />
-    <style>
+    <link rel="stylesheet" href="/stylesheets/nxjnav.css" />
+<style>
 @font-face {
     font-family: 'BebasNeue';
     font-style: normal;
     font-weight: normal;
     src: url('assets/BebasNeue.otf');
 }
+
+/** nxj nav requirements */
 #topNav{
     display:inline;
     list-style:none;
@@ -144,7 +147,7 @@ ul li.menuParent{
     font-size: 22px;
 }
 
-#logo {
+#nxj_navbar #logo {
     width: 140px;
     float: left;
     padding: 0;
@@ -153,7 +156,7 @@ ul li.menuParent{
 
 .externalSiteContainer,
 .wideLayout {
-    margin-top: 58px;
+    margin-top: 78px;
 }
 #nxj_navbar #logo a {
     font-family: BebasNeue, Arial, sans-serif; 
@@ -228,188 +231,148 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
     font-family: inherit;
     vertical-align: baseline;
 }
+.footerTopBorder {
+    border-top: 1px dotted #aaa;
+    height: 20px;
+    width: 100%;
+}
 
-    </style>
+/** footer requirements */
+.footerSection {
+    padding-top: 23px;
+}
+.span-4 {
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+}
+.officeLocation {
+    padding-bottom: 17px;
+}
+.officeLocation p, .footerBottom {
+    color: #868686;
+    margin-bottom: 0px;
+    padding: 0;
+    font-size: 12px;
+}
+.span-24 {
+    width: 950px;
+    margin-right: 0;
+}
+.footerShare {
+    float: right;
+    position: relative;
+    bottom: 5px;
+}
+#copyNotice {
+    float: left;
+}
+#copyNotice span {
+    margin-right: 20px;
+    float: left;
+}
+#copyNotice a {
+    margin-left: 20px;
+}
+
+#footer h3 {
+    color: #666666;
+    font-size: 14px;
+    font-weight: bold;
+}
+#footer a {
+    color: #999999;
+    font-size: 12px;
+    line-height: 18px;
+}
+#footer a:hover {
+    color: #FF4700;
+    text-decoration: none;
+}
+.footerSection a {
+    display: block;
+    font-weight: normal;
+}
+#footer {
+    font-family: Arial, Helvetica, verdana, sans-serif;
+}
+.footerShare {
+    float: right;
+    position: relative;
+    bottom: 5px;
+}
+.shareIcon {
+    display: block;
+    float: left;
+    margin: 0px 5px;
+    background: url("//imga.nxjimg.com/emp_image/nextjump/images/social_icon_sprite.png");
+    width: 26px;
+    height: 24px;
+}
+.shareIcon span {
+    display:none;
+}
+.shareIcon.fbIcon {
+    background-position: 0px -26px;
+}
+.shareIcon.twitterIcon {
+    background-position: -26px -26px;
+}
+.shareIcon.linkedInIcon {
+    background-position: -52px -26px;
+}
+#footer .officeRow a {
+    color: #FF4700;
+}
+
+</style>
 </head>
 
 <body>
-<div id="nxj_navbar" class="navtop">
-<div class="container">
-<div id="top" class="span-24 last">
-<div id="logo">
-<a href="/" style=""><img alt="Next Jump Logo" width="37" src="http://imgb.nxjimg.com/emp_image/nextjump/images/nextjump_icon_clear.png" /> Next Jump</a>
-</div>
-<div class="last">
-<ul id="topNav">
-<li class="menuParent">
-<!-- class: controllerName is about, active -> add class active -->
-<a href="/about/culture" class="menuLink">
-Who We Are
-</a>
-</li>
-<li class="menuParent">
-<!-- class: controllerName is shoppers, merchants, employer, business -> add class active -->
-<a href="/business/index" class="menuLink">
-Our Business
-</a>
-<ul class="subMenu">
-<li class="subMenuItem">
-<a href="/shoppers/index">
-Customers
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/merchants/index">
-Merchants
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/employer/index">
-Employers
-</a>
-</li>
-</ul>
-</li>
-<li class="menuParent">
-<!-- class: controllerName is careers -> add class active -->
-<a href="/careers/index" class="menuLink">
-Careers
-</a>
-<ul class="subMenu">
-<li class="subMenuItem">
-<a href="/careers/index">
-Becoming  a Next Jumper
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/careers/profiles">
-Being  a Next Jumper
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/careers/apply">
-Apply to be a Next Jumper
-</a>
-</li>
-</ul>
-</li>
-<li class="menuParent">
-<!-- class: controllerName is buzz -> add class active -->
-<a href="/buzz/index" class="menuLink">
-Buzz
-</a>
-<ul class="subMenu">
-<li class="subMenuItem">
-<a href="/buzz/media">
-Media
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/buzz/pr">
-Press Releases
-</a>
-</li>
-</ul>
-</li>
-<li class="menuParent">
-<!-- class: controllerName is blog -> add class active -->
-<a href="/blog/index" class="menuLink">
-Blogs
-</a>
-<ul class="subMenu">
-<li class="subMenuItem">
-<a href="/blog/index">
-Culture
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/blog/engineering">
-Engineering
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/blog/devpoets">
-Dev Poets Society
-</a>
-</li>
-<li class="subMenuItem">
-<a target="_blank" href="https://www.youtube.com/officialnextjump">
-YouTube Channel
-</a>
-</li>
-</ul>
-</li>
-<li class="menuParent">
-<!-- class: controllerName is contact -> add class active -->
-<a href="/contact/index" class="menuLink">
-Contact Us
-</a>
-<ul class="subMenu">
-<li class="subMenuItem">
-<a href="/contact/index">
-All Inquiries
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/careers/apply">
-Careers
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/merchants/inquiry">
-Merchant
-</a>
-</li>
-<li class="subMenuItem">
-<a href="/employer/contact">
-Employer
-</a>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class='row'>
-    <div class="small-12 medium-6 large-4 column">
-        {% include navblock.html %}
-        {% include infoblock.html %}
-    </div>
+{% include nxj_navbar.html %}
 
-    {{ content }}
+<div class="wideLayout">
+    <div class='row'>
+        <div class="small-12 medium-6 large-4 column">
+            {% include navblock.html %}
+            {% include infoblock.html %}
+        </div>
 
-    <div id="post-more" class="postbox small-12 medium-6 large-4 column" onclick="showCards(6)" style="cursor: pointer;">
-        <article class="block full more articlePreview">
-            <div class="moreLink">
-                <div>Load More</div>
+        {{ content }}
+
+        <div id="post-more" class="postbox small-12 medium-6 large-4 column" onclick="showCards(6)" style="cursor: pointer;">
+            <article class="block full more articlePreview">
+                <div class="moreLink">
+                    <div>Load More</div>
+                </div>
+            </article>
+        </div>
+        <div class="clear"></div>
+        <footer class="orange">
+            <div class="resources small-12 medium-6 large-6 column">
+                <div class="top">Also check out our other resources:</div>
+                <ul>
+                    <li><a href="http://www.nextjump.com/">Next Jump Home</a></li>
+                    <li><a href="http://www.devpoets.com/">The Dev Poets</a></li>
+                </ul>
             </div>
-        </article>
-    </div>
-    <div class="clear"></div>
-    <footer class="orange">
-        <div class="resources small-12 medium-6 large-6 column">
-            <div class="top">Also check out our other resources:</div>
-            <ul>
-                <li><a href="http://www.nextjump.com/">Next Jump Home</a></li>
-                <li><a href="http://www.devpoets.com/">The Dev Poets</a></li>
-            </ul>
-        </div>
-        <div class="github small-12 medium-6 large-6 column">
-            <div class="top">And check out some of our work on GitHub</div>
-            <ul>
-                <li> <a href="https://github.com/NextJump/nextjump.github.io">This site</a> </li>
-                <li> <a href="https://github.com/NextJump/jarvis">Vim Configuration</a> </li>
-                <li> <a href="https://github.com/NextJump/ui-library">UI Library</a> </li>
-                <li> <a href="https://github.com/NextJump/CritterCrush">Critter Crush</a> </li>
-            </ul>
+            <div class="github small-12 medium-6 large-6 column">
+                <div class="top">And check out some of our work on GitHub</div>
+                <ul>
+                    <li> <a href="https://github.com/NextJump/nextjump.github.io">This site</a> </li>
+                    <li> <a href="https://github.com/NextJump/jarvis">Vim Configuration</a> </li>
+                    <li> <a href="https://github.com/NextJump/ui-library">UI Library</a> </li>
+                    <li> <a href="https://github.com/NextJump/CritterCrush">Critter Crush</a> </li>
+                </ul>
+                
+            </div>
             
-        </div>
-        
-        
-    </footer>
+            
+        </footer>
+    </div>
 </div>
+
+{% include nxj_footer.html %}
 
 </body>
 </html>
