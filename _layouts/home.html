@@ -26,10 +26,352 @@
     <link rel="stylesheet" href="/stylesheets/foundation.css" />
     <link rel="stylesheet" href="/stylesheets/site.css" />
     <link rel="stylesheet" href="/stylesheets/home.css" />
+    <style>
+@font-face {
+    font-family: 'BebasNeue';
+    font-style: normal;
+    font-weight: normal;
+    src: url('assets/BebasNeue.otf');
+}
+#topNav{
+    display:inline;
+    list-style:none;
+    margin:0;
+    padding:0;
+    position:relative;
+    z-index:100;
+    font-size:14px;
+    font-family:"Amble", Arial,Helvetica,verdana,sans-serif;
+    font-weight:bold;
+    float:right;
+    height:58px;
+}
+#topNav li{
+    margin:0px;
+    float:left;
+}
+#topNav li a{
+    text-transform:uppercase;
+    text-decoration:none;
+    color:#FFF;
+    display:block;
+}
+#topNav.topNavDark li a, #topNav.topNavDark .subMenu li a{
+    color:#FFFFFF;
+}
+
+#topNav .subMenu li{
+    width:100%;
+}
+#topNav .subMenu li a{
+    padding:2px 10px;
+    font-weight:normal;
+    width:200px;
+}
+#topNav li a:hover, #topNav li:hover > a, #topNav li a.active{
+    color:#FF7400;
+}
+#topNav li .subMenu li a:hover, #topNav li .subMenu li:hover > a{
+    color:#FFFFFF;
+}
+#topNav.topNavDark li a.active{
+    color: #99CCFF;
+}
+
+#topNav ul{
+    display:none;
+}
+#topNav li:hover > ul{
+    display:block;
+}
+#topNav li:hover{
+    color:#FF7400;
+}
+.menuParent ul.subMenu li{
+    position:relative;
+    clear:both;
+    line-height:30px;
+    background-color:#000;
+    opacity:.75;
+}
+
+.menuParent ul.subMenu li.subMenuItem{
+    *top:35px;
+    *right:100%;
+}
+
+#topNav.topNavDark .menuParent ul.subMenu li{
+    background-color:#000000;
+}
+
+.menuParent ul.subMenu li:hover, #topNav.topNavDark .menuParent ul.subMenu li:hover{
+    color:#FFFFFF;
+    background-color: #FF7400;
+    background: linear-gradient(top, #FF9B47 0%, #FF7400 100%);
+    background: -moz-linear-gradient(top, #FF9B47 0%, #FF7400 100%);
+    background: -webkit-linear-gradient(top, #FF9B47 0%,#FF7400 100%);
+    box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+    opacity:1;
+}
+
+ul li.menuParent{
+    padding:0 15px;
+    line-height:58px;
+}
+.menuParent ul{
+    position:absolute;
+    list-style:none;
+    padding:0px;
+}
+
+.menuParent .subMenu ul.superSubMenu{
+    left:100%;
+    top:0;
+    width:100%;
+}
+
+#nxj_navbar {
+    position: fixed;
+    width: 100%;
+    background-color: #FFF;
+    z-index: 1000;
+    box-shadow: 0 3px 5px #888;
+    top: 0;
+}
+#nxj_navbar #topNav a { 
+    font-family: BebasNeue, Arial, sans-serif; 
+    font-weight: 500 !important;
+    font-size: 22px;
+}
+
+#logo {
+    width: 140px;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.externalSiteContainer,
+.wideLayout {
+    margin-top: 58px;
+}
+#nxj_navbar #logo a {
+    font-family: BebasNeue, Arial, sans-serif; 
+    font-size: 22px;
+    line-height: 58px;
+    text-decoration:none;
+}
+#nxj_navbar #logo img {
+    display: inline-block;
+    vertical-align: middle;
+}
+#nxj_navbar #logo a ,
+#nxj_navbar #topNav li a {
+    color: #777;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+#nxj_navbar #top { height: auto; }
+#nxj_navbar #logo a:hover,
+#nxj_navbar #topNav li a.active,
+#nxj_navbar #topNav li a:hover {
+    color: #f15e24;
+}
+#nxj_navbar .menuParent {
+    line-height: 55px;
+}
+#nxj_navbar .menuParent ul.subMenu { 
+    box-shadow: 0 3px 3px #888;
+}
+#nxj_navbar .menuParent ul.subMenu li { 
+    background-color:#FFF;
+    opacity: 1;
+    overflow: hidden;
+    border-bottom: 0;
+}
+#nxj_navbar #topNav .menuParent ul.subMenu {
+    width: 250px;
+}
+#nxj_navbar #topNav .menuParent ul.subMenu li a {
+    display: inline-block;
+    padding: 0 10px;
+    height: 100%;
+    line-height: 42px;
+}
+#nxj_navbar #topNav .menuParent ul.subMenu li a:hover {
+    color: #fff;
+    border-bottom: 0;
+    background-color: #f15e24;
+}
+
+
+.span-24 {
+    width: 950px;
+    margin-right: 0;
+}
+.clearfix, .container {
+    display: block;
+}
+.container {
+    width: 950px;
+    margin: 0 auto;
+}
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+    </style>
 </head>
 
 <body>
-
+<div id="nxj_navbar" class="navtop">
+<div class="container">
+<div id="top" class="span-24 last">
+<div id="logo">
+<a href="/" style=""><img alt="Next Jump Logo" width="37" src="http://imgb.nxjimg.com/emp_image/nextjump/images/nextjump_icon_clear.png" /> Next Jump</a>
+</div>
+<div class="last">
+<ul id="topNav">
+<li class="menuParent">
+<!-- class: controllerName is about, active -> add class active -->
+<a href="/about/culture" class="menuLink">
+Who We Are
+</a>
+</li>
+<li class="menuParent">
+<!-- class: controllerName is shoppers, merchants, employer, business -> add class active -->
+<a href="/business/index" class="menuLink">
+Our Business
+</a>
+<ul class="subMenu">
+<li class="subMenuItem">
+<a href="/shoppers/index">
+Customers
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/merchants/index">
+Merchants
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/employer/index">
+Employers
+</a>
+</li>
+</ul>
+</li>
+<li class="menuParent">
+<!-- class: controllerName is careers -> add class active -->
+<a href="/careers/index" class="menuLink">
+Careers
+</a>
+<ul class="subMenu">
+<li class="subMenuItem">
+<a href="/careers/index">
+Becoming  a Next Jumper
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/careers/profiles">
+Being  a Next Jumper
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/careers/apply">
+Apply to be a Next Jumper
+</a>
+</li>
+</ul>
+</li>
+<li class="menuParent">
+<!-- class: controllerName is buzz -> add class active -->
+<a href="/buzz/index" class="menuLink">
+Buzz
+</a>
+<ul class="subMenu">
+<li class="subMenuItem">
+<a href="/buzz/media">
+Media
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/buzz/pr">
+Press Releases
+</a>
+</li>
+</ul>
+</li>
+<li class="menuParent">
+<!-- class: controllerName is blog -> add class active -->
+<a href="/blog/index" class="menuLink">
+Blogs
+</a>
+<ul class="subMenu">
+<li class="subMenuItem">
+<a href="/blog/index">
+Culture
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/blog/engineering">
+Engineering
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/blog/devpoets">
+Dev Poets Society
+</a>
+</li>
+<li class="subMenuItem">
+<a target="_blank" href="https://www.youtube.com/officialnextjump">
+YouTube Channel
+</a>
+</li>
+</ul>
+</li>
+<li class="menuParent">
+<!-- class: controllerName is contact -> add class active -->
+<a href="/contact/index" class="menuLink">
+Contact Us
+</a>
+<ul class="subMenu">
+<li class="subMenuItem">
+<a href="/contact/index">
+All Inquiries
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/careers/apply">
+Careers
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/merchants/inquiry">
+Merchant
+</a>
+</li>
+<li class="subMenuItem">
+<a href="/employer/contact">
+Employer
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 <div class='row'>
     <div class="small-12 medium-6 large-4 column">
         {% include navblock.html %}
