@@ -26,64 +26,70 @@
 
 <body>
 
-<div class="row">
-    <div class="small-12 medium-12 large-4 column">
-        {% include navblock.html %}
-        {% include infoblock.html %}
-        <div id="recentPosts" class="block">
-            <header>Recent Posts</header>
-            <div class="content">
-                {% for post in site.posts limit:5 %}
-                <div class="recentLink"><a href="{{ post.url }}">{{ post.title }}</a></div>
-                {% endfor %}
+{% include nxj_navbar.html %}
+
+<div class="wideLayout">
+    <div class="row">
+        <div class="small-12 medium-12 large-4 column">
+            {% include navblock.html %}
+            {% include infoblock.html %}
+            <div id="recentPosts" class="block">
+                <header>Recent Posts</header>
+                <div class="content">
+                    {% for post in site.posts limit:5 %}
+                    <div class="recentLink"><a href="{{ post.url }}">{{ post.title }}</a></div>
+                    {% endfor %}
+                </div>
             </div>
         </div>
-    </div>
-    <div class="small-12 medium-12 large-8 column">
-        <article>
-            <header class="{{ page.category }}">
-                <div class="title {{ page.category }}">{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }} {% endif %}</div>
-                <div class="about {{ page.category }}">
-                    <div class='author'>
-                        <div class="icon person left"></div>
-                        <div> {{ page.author }} </div>
+        <div class="small-12 medium-12 large-8 column">
+            <article>
+                <header class="{{ page.category }}">
+                    <div class="title {{ page.category }}">{{ page.title }}{% if page.subtitle %}: {{ page.subtitle }} {% endif %}</div>
+                    <div class="about {{ page.category }}">
+                        <div class='author'>
+                            <div class="icon person left"></div>
+                            <div> {{ page.author }} </div>
+                        </div>
+                        <div class='publishDate'>
+                            <div class="icon date left"></div>
+                            <div> {{ page.date | date: "%d %b" }} </div>
+                        </div>
+                        <div class="social">
+                            <div style="float: left; margin-right: 20px;">Share this Post</div>
+                            {% include shareIcon.html %}
+                            {% include plusoneIcon.html %}
+                            {% include twitterIcon.html %}
+                        </div>
+                        
                     </div>
-                    <div class='publishDate'>
-                        <div class="icon date left"></div>
-                        <div> {{ page.date | date: "%d %b" }} </div>
-                    </div>
-                    <div class="social">
-                        <div style="float: left; margin-right: 20px;">Share this Post</div>
-                        {% include shareIcon.html %}
-                        {% include plusoneIcon.html %}
-                        {% include twitterIcon.html %}
-                    </div>
-                    
+                </header>
+
+                <div class="post">
+                    {% if page.previousBlog %}
+                    <div class="attribution"><em>[ This post was previously published on <a href="{{page.previousBlogLink}}">{{ page.previousBlog }}</a> ]</em></div>
+                    {% endif %}
+
+                    {{ content }}
                 </div>
-            </header>
+            </article>
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                var disqus_shortname = 'nextjump';
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 
-            <div class="post">
-                {% if page.previousBlog %}
-                <div class="attribution"><em>[ This post was previously published on <a href="{{page.previousBlogLink}}">{{ page.previousBlog }}</a> ]</em></div>
-                {% endif %}
-
-                {{ content }}
-            </div>
-        </article>
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            var disqus_shortname = 'nextjump';
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
+        </div>
     </div>
 </div>
+
+{% include nxj_footer.html %}
 
 <script>
     var imgs = document.querySelectorAll('.post img');
