@@ -26,48 +26,41 @@
     <link rel="stylesheet" href="/stylesheets/foundation.css" />
     <link rel="stylesheet" href="/stylesheets/site.css" />
     <link rel="stylesheet" href="/stylesheets/home.css" />
+    <link rel="stylesheet" href="/stylesheets/nxjnav.css" />
+    <style>
+        @font-face {
+            font-family: 'BebasNeue';
+            font-style: normal;
+            font-weight: normal;
+            src: url('assets/BebasNeue.otf');
+        }
+    </style>
 </head>
 
 <body>
+{% include nxj_navbar.html %}
 
-<div class='row'>
-    <div class="small-12 medium-6 large-4 column">
-        {% include navblock.html %}
-        {% include infoblock.html %}
-    </div>
-
-    {{ content }}
-
-    <div id="post-more" class="postbox small-12 medium-6 large-4 column" onclick="showCards(6)" style="cursor: pointer;">
-        <article class="block full more articlePreview">
-            <div class="moreLink">
-                <div>Load More</div>
-            </div>
-        </article>
-    </div>
-    <div class="clear"></div>
-    <footer class="orange">
-        <div class="resources small-12 medium-6 large-6 column">
-            <div class="top">Also check out our other resources:</div>
-            <ul>
-                <li><a href="http://www.nextjump.com/">Next Jump Home</a></li>
-                <li><a href="http://www.devpoets.com/">The Dev Poets</a></li>
-            </ul>
+<div class="wideLayout">
+    <div class='row'>
+        <div class="small-12 medium-6 large-4 column">
+            {% include navblock.html %}
+            {% include infoblock.html %}
         </div>
-        <div class="github small-12 medium-6 large-6 column">
-            <div class="top">And check out some of our work on GitHub</div>
-            <ul>
-                <li> <a href="https://github.com/NextJump/nextjump.github.io">This site</a> </li>
-                <li> <a href="https://github.com/NextJump/jarvis">Vim Configuration</a> </li>
-                <li> <a href="https://github.com/NextJump/ui-library">UI Library</a> </li>
-                <li> <a href="https://github.com/NextJump/CritterCrush">Critter Crush</a> </li>
-            </ul>
-            
+
+        {{ content }}
+
+        <div id="post-more" class="postbox small-12 medium-6 large-4 column" onclick="showCards(6)" style="cursor: pointer;">
+            <article class="block full more articlePreview">
+                <div class="moreLink">
+                    <div>Load More</div>
+                </div>
+            </article>
         </div>
-        
-        
-    </footer>
+        <div class="clear"></div>
+    </div>
 </div>
+
+{% include nxj_footer.html %}
 
 </body>
 </html>
