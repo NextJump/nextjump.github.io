@@ -110,13 +110,13 @@ ul li.menuParent{
     font-size: 22px;
 }
 
-#nxj_navbar #logo {
+#nxj_navbar .logo {
     width: 140px;
     float: left;
     padding: 0;
     margin: 0;
 }
-#nxj_navbar #logo a {
+#nxj_navbar .logo a {
     font-family: BebasNeue, Arial, sans-serif;
     font-size: 22px;
     line-height: 58px;
@@ -127,11 +127,11 @@ ul li.menuParent{
 .wideLayout {
     margin-top: 78px;
 }
-#nxj_navbar #logo img {
+#nxj_navbar .logo img {
     display: inline-block;
     vertical-align: middle;
 }
-#nxj_navbar #logo a ,
+#nxj_navbar .logo a ,
 #nxj_navbar #topNav li a {
     color: #777;
     display: inline-block;
@@ -139,7 +139,7 @@ ul li.menuParent{
     height: 100%;
 }
 #nxj_navbar #top { height: auto; }
-#nxj_navbar #logo a:hover,
+#nxj_navbar .logo a:hover,
 #nxj_navbar #topNav li a.active,
 #nxj_navbar #topNav li a:hover {
     color: #f15e24;
@@ -171,7 +171,6 @@ ul li.menuParent{
     background-color: #f15e24;
 }
 
-
 .span-24 {
     width: 950px;
     margin-right: 0;
@@ -182,17 +181,6 @@ ul li.menuParent{
 .container {
     width: 950px;
     margin: 0 auto;
-}
-
-html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-weight: inherit;
-    font-style: inherit;
-    font-size: 100%;
-    font-family: inherit;
-    vertical-align: baseline;
 }
 .footerTopBorder {
     border-top: 1px dotted #aaa;
