@@ -9,6 +9,7 @@ tags:
 - HONxJ
 - 10XFactor
 - growth
+published: false
 ---
 
 As our company grows across our different offices, we aim to share the stories that showcase the growth and leadership happening within Next Jump, as well as moments of gratitude, humility, bravery, and so on.  This project, which we on the Blog Team call Humans of Next Jump, is inspired by the photography blog by Brandon Stanton called <a href="http://www.humansofnewyork.com/">Humans of New York</a>, which profiles the rich diversity and deeply resonant stories of New York's melting pot of people.  We at Next Jump count ourselves lucky to work with an equally vibrant and dynamic group of people.
