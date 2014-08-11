@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Humans of Next Jump - Xuelan Zhang
+title: Humans of Next Jump - Xuelan
 author: NxJ Blog Team
 category: culture
 previewimg: Xuelan.jpg
-excerpt: Inspired by the photoblog Humans of New York, the NxJ Blog Team is kicking off a project called Humans of Next Jump, aiming to share the stories that showcase the growth and leadership happening within Next Jump, as well as moments of gratitude, humility, bravery, and so on.  We had a chance to talk to Xuelan Zhang, the lead engineer for the Travel product category, about her growth in recent months.
+excerpt: Inspired by the photoblog Humans of New York, the NxJ Blog Team is kicking off a project called Humans of Next Jump, aiming to share the stories that showcase the growth and leadership happening within Next Jump, as well as moments of gratitude, humility, bravery, and so on.  We had a chance to talk to Xuelan, the lead engineer for the Travel product category, about her growth in recent months.
 tags:
 - HONxJ
 - 10XFactor
@@ -36,4 +36,4 @@ Actually, yes.  Before 10X, I wasn’t anybody’s manager, so the reporting str
  
 Before that, I was always feeling overwhelmed.  Now, I feel like they can grow and I can grow as well.  Because I’m also freeing myself from fixing bugs, so I can grow on the business side, maybe with the numbers or with helping on the marketing.  I just recognize the concept that you can’t win by yourself, only on a team.
  
-<b>Editor’s note: </b>After the interview, Xuelan explicitly made a point to emphasize the role that Rajan Raval, Next Jump's Head of Finance, has played as a <a href="http://www.nextjump.com/about/mentorship" target="_blank">mentor</a> to her.  “Rajan has helped round out my perspective on my job, with the business side.  He and Rajbir helped me immensely with my 10X presentation, but also after every Monday morning meeting, he has given me feedback and helped me get better.”  Immediately after, we ran into Rajan in the hallway and Xuelan had the biggest smile on her face.
+<b>Editor’s note: </b>After the interview, Xuelan explicitly made a point to emphasize the role that Rajan, Next Jump's Head of Finance, has played as a <a href="http://www.nextjump.com/about/mentorship" target="_blank">mentor</a> to her.  “Rajan has helped round out my perspective on my job, with the business side.  He and Rajbir helped me immensely with my 10X presentation, but also after every Monday morning meeting, he has given me feedback and helped me get better.”  Immediately after, we ran into Rajan in the hallway and Xuelan had the biggest smile on her face.
