@@ -3,7 +3,7 @@ layout: post
 title: Humans of Next Jump - Xuelan
 author: NxJ Blog Team
 category: culture
-previewimg: Xuelan.jpg
+previewimg: honxj_xuelan.jpg
 excerpt: Inspired by the photoblog Humans of New York, the NxJ Blog Team is kicking off a project called Humans of Next Jump, aiming to share the stories that showcase the growth and leadership happening within Next Jump, as well as moments of gratitude, humility, bravery, and so on.  We had a chance to talk to Xuelan, the lead engineer for the Travel product category, about her growth in recent months.
 tags:
 - HONxJ
