@@ -3,6 +3,7 @@ layout: post
 title: Fasttrack 3.0
 author: Holly
 category: culture
+previewimg: Holly-Fasttrack.jpg
 excerpt: FastTrack is Next Jump’s advanced mentorship program. This past fall, four NxJers were selected to participate—Holly, Tarun, Lokeya and Nayan. In late February they were asked to visit and speak with our CEO’s mentor, Jim Loehr. The following post describes their experience and some key takeaways from their trip. “How have you all grown at Next Jump?” Jim Loehr asked me, Tarun, Lokeya, and Nayan this question during Charlie’s presentation of our Culture Deck during our visit to the Human Performance Institute. I wasn’t sure what to expect during our trip, but getting a direct question from Jim Loehr, who has continuously shaped and supported our culture, was unexpected. I would have been thrilled simply to observe and listen intently to the conversation about what makes our culture extraordinarily unique. It was so meaningful that we were brought into this conversation and asked to participate.
 ---
 
