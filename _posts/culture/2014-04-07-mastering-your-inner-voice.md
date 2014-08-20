@@ -3,8 +3,10 @@ layout: post
 title: CEOTalk Editorial&#58 Mastering Your Inner Voice
 author: Harish
 category: culture
+previewimg: CEOTalk_Editorial-Srikumar_Rao.jpg
 excerpt: “Will power alone is not enough. You need systematic analysis of the situation when getting rid of bad habits and learning good ones like dieting”, says Sarah, our new Health and Wellness director here at Next Jump. This was what resonated with her the most about this last month’s CEO Talk by Dr. Srikumar Rao, former business school professor and the creator of Creativity and Personal Mastery. Dr. Srikumar Rao’s effect on the audience was immediate.
 ---
+![SrikumarRao](/images/CEOTalk_Editorial-Srikumar_Rao.jpg)
 
 “Will power alone is not enough. You need systematic analysis of the situation when getting rid of bad habits and learning good ones like dieting”, says Sarah, our new Health and Wellness director here at Next Jump. This was what resonated with her the most about this last month’s CEO Talk by Dr. Srikumar Rao, former business school professor and the creator of Creativity and Personal Mastery.
 
