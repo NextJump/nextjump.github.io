@@ -4,7 +4,7 @@ title: Humans of Next Jump - Laura
 author: NxJ Blog Team
 category: culture
 previewimg: honxj_laura.jpg
-excerpt: I led his Situational Workshop for a while.  I remember, after he gave his 10X presentation – he’d gotten some of the highest scores anybody had gotten at that point – and afterwards he came and gave me a hug.  That meant a lot to me.
+excerpt: "I led his Situational Workshop for a while.  I remember, after he gave his 10X presentation – he’d gotten some of the highest scores anybody had gotten at that point – and afterwards he came and gave me a hug.  That meant a lot to me."
 tags:
 - HONxJ
 - 10XFactor
