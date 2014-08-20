@@ -3,6 +3,7 @@ layout: post
 title: Admitting You&apos;re Lost
 author: Elise
 category: culture
+previewimg: Elise-Admitting_Youre_Lost.jpg
 excerpt: When I first started at Next Jump, I would never admit that I was confused, or didn&apos;t follow, or was lost.  I would leave a meeting with a colleague, teammate, or even our CEO having no clue what to do next. I&apos;d find myself paralyzed.  They expected something big, and they expected it to be done right, but I had no idea where to even begin. I would put off tasks and projects for hours, days, even weeks.  Nothing changed, and nothing happened. I was stuck and miserable.  And worst of all, I wasn&apos;t growing.  Fast forward to today – I feel myself growing more than I ever have before.
 ---
 
