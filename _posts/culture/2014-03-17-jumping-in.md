@@ -3,6 +3,7 @@ layout: post
 title: Jumping In
 author: Hao
 category: culture
+previewimg: Hao-Jumping_In.jpeg
 excerpt: February 19th was my first day at Next Jump, which was most definitely an interesting week to join, with everybody in town from the other offices for the annual party, dressed up and preoccupied with their dance competition routines (yes, there is a dance competition).  There were so many new names and faces and accents and leather fetish costumes, all part of a crazy celebration of the company&apos;s past year of unprecedented growth. As a part of the festivities, I also kicked off Boot Camp, a three-week immersion in the CS department alongside Sarah, the new Director of Wellness and my partner in crime through all of this.  Now, as we have wrapped up our second full week, the process thus far has been challenging, forcing us to maintain a constant pace of processing CS tickets as well as a high level of quality.  It&apos;s also given me an opportunity to peer into the inner workings of CorporatePerks.com and see the human hands that drive the machine, as well as to practice some of the cultural themes that were front-and-center as I had been interviewing over the past three or four months.
 ---
 
