@@ -42,4 +42,4 @@ Once that is done, you can get to work.
 
 What patterns have you seen in your repeated errors and how have you solved for them?
 
-[Read Part 2: MEET, VENT, WORK, discussing how to work with your TP in practice.](/ceeoffice/2013/08/12/the-ceo-job-is-lonely-heres-how-to-change-that-part.html)
+[Read Part 2: MEET, VENT, WORK, discussing how to work with your TP in practice.](/ceooffice/2013/08/12/the-ceo-job-is-lonely-heres-how-to-change-that-part.html)
