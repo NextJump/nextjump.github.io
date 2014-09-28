@@ -15,7 +15,7 @@ As our company grows across our different offices, we aim to share the stories t
 
 We had a chance to talk to Xuelan, the lead engineer for the Travel product category, about her growth in recent months.
 
-![Xuelan](/images/honxj_xuelan.jpg)
+![Xuelan](/images/honxj_xuelan_large.jpg)
 
 <div class="imgSubtitle">“I’ve had to present in front of the company every week.    Maybe because it’s in Mr. Incredible (our conference room) and standing there, it feels like more people are staring at you and you can see all the offices –  oh my god, I was so nervous.  One time I was editing the presentation one minute before the meeting!  But, if you keep doing it, that’s really the point: it really pushes you.  You have to really improve.  If I do it good once, I can say I’m lucky, or I prepared a lot, but if I want to always do it well, every week, that means you have to improve it from your bones, you have to be really good at it.  Otherwise, it won’t work.”  (Photo credit: Rebecca Spitzer)</div>
 <br/>
