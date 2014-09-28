@@ -3,7 +3,7 @@ layout: post
 title: The Avengers Trip - The Complete Saga
 author: Gowri
 category: culture
-previewimg: gowri1.jpg
+previewimg: honxj_chris.jpg
 excerpt: The cruise was for seven days and covered four islands – Maui, Big Volcano Island (Hilo & Kona), Kauai and Oahu. On Day 2, we reached Maui, where we spent a day on one of the beautiful beaches and the next day catching the amazing sunrise at Haleakela crater. I vividly remember the panic I got everyone into I thought I had gotten frost bite after handling my camera for too long in the cold winds blowing over the summit of the mountain. On Day 3, we reached the big volcano island at Hilo, where we took an excursion to the Volcano National Park.
 ---
 
