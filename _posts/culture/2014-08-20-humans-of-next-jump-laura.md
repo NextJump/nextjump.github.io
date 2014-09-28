@@ -11,7 +11,7 @@ tags:
 - growth
 ---
 
-![Laura](/images/honxj_laura.jpg)
+![Laura](/images/honxj_laura_large.jpg)
 
 <div class="imgSubtitle">“I led his Situational Workshop for a while.  I remember, after he gave his 10X presentation – he’d gotten some of the highest scores anybody had gotten at that point – and afterwards he came and gave me a hug.  That meant a lot to me." (Photo credit: Rebecca Spitzer)</div>
 <br/>
