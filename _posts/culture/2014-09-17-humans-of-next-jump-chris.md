@@ -3,7 +3,7 @@ layout: post
 title: Humans of Next Jump - Chris
 author: NxJ Blog Team
 category: culture
-previewimg: /gowri_trip/gowri1.jpg
+previewimg: honxj_chris.jpg
 excerpt: "I look at the moment I graduated as a proud one, not because of the results I achieved, but what it represented from start to finish and the realization that I had been the one limiting my potential."
 tags:
 - HONxJ
