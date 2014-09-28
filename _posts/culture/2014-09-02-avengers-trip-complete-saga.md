@@ -15,7 +15,7 @@ I still vividly remember those fun moments of planning: when David and I finally
 
 When it was finally time to go on my trip, my family flew in from India to join me here in New York.  A week later they met Charlie and Meghan over lunch, and to this day they mention how inspired and honored they felt by this kind gesture by our company&apos;s leaders. A week before our departure, my family was invited for a Hawaiian-themed Coronitas sendoff. It was so heart-warming to see Next Jumpers decorating the office with leis, munching on Hawaiian-themed snacks, choosing merry Hawaiian songs for the Coronitas playlists. Rachel & Purvi even drove down from Boston to meet my family, giving us a perfect sendoff. Purvi, in fact, got her ukulele and played a song or two to set the tone for the trip to follow the next week. Coincidentally the same day I also had the honor of meeting Matt Tenney, who was dropping by that day and graciously gave me a signed copy of his newly published book &ldquo;Serve to Be Great.&rdquo; Sometimes I just can&apos;t believe it – how much more could someone ask for from the company that he works for? As am writing this, I&apos;m getting goosebumps.
 
-![Gowri's Family with Mickey](/images/gowri_trip/gowri1)
+![Gowri's Family with Mickey](/images/gowri_trip/gowri1.JPG)
 
 The trip really kicked off when we landed at Honolulu Airport and headed to Disney Aulani Resort. We got a great welcome by the resort&apos;s VIP Planning Team, with pretty garlands.  The best thing was awaiting our arrival – an upgrade to a phenomenal ocean-view villa with stunning panoramas of the lagoons and the majestic Pacific Ocean. Who made this possible? 
 
