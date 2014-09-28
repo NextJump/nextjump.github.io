@@ -3,9 +3,9 @@ layout: post
 title: The Avengers Trip - The Complete Saga
 author: Gowri
 category: culture
-previewimg: gowri1.jpg
+previewimg: (/images/gowri_trip/gowri1.JPG)
 excerpt: The cruise was for seven days and covered four islands – Maui, Big Volcano Island (Hilo & Kona), Kauai and Oahu. On Day 2, we reached Maui, where we spent a day on one of the beautiful beaches and the next day catching the amazing sunrise at Haleakela crater. I vividly remember the panic I got everyone into I thought I had gotten frost bite after handling my camera for too long in the cold winds blowing over the summit of the mountain. On Day 3, we reached the big volcano island at Hilo, where we took an excursion to the Volcano National Park.
-preview:true
+
 ---
 
 *Aloha Kane* and *wahine*. If you&apos;re wondering if I am speaking Greek or Latin, rest assured I am trying to show off my little Hawaiian vocabulary, though my favorite word so far has been *Humu humu nuku nuku apua&apos;a* – which is the name of the triggerfish, state fish of Hawaii. It has been few months since the amazing company-paid trip to Hawaii for my family and me.
@@ -22,15 +22,15 @@ The trip really kicked off when we landed at Honolulu Airport and headed to Disn
 
 (All right, I realize it was David, who was on call with Disney during my flight to Hawaii to give my family one more surprise.)
 
-![Gowri's Family Arriving at the resort](/images/gowri_trip/gowri3)
+![Gowri's Family Arriving at the resort](/images/gowri_trip/gowri3.JPG)
 
 The stay at Aulani was nothing short of euphoria, especially for my young niece who thoroughly loved meeting the Disney characters – Mickey, Minnie, Goofy & Stitch. The resort itself is paradise.  You probably have no need to go anywhere else to experience the blue lagoons, Polynesian kalamaku dance, water parks, and the mystic Polynesian chimes humming throughout the resort.
 
-![Minnie with Gowri's Niece](/images/gowri_trip/gowri2)
+![Minnie with Gowri's Niece](/images/gowri_trip/gowri2.JPG)
 
 Jeff Martin, the resort&apos;s Office Manager, invited me and it was so amazing to see how excited he and his entire staff were in hosting my family at their property.  They admired the culture of Next Jump and how it revolves around empowering and recognizing its employees. Within a couple of days, we were so enamored with this place and wished that we had stayed couple of days more.  But we didn&apos;t know that the best part was yet ahead of us– the inter-island cruise to Hawaii. 
 
-![At Honolulu Port](/images/gowri_trip/gowri4)
+![At Honolulu Port](/images/gowri_trip/gowri4.JPG)
 
 Once we reached the Honolulu port – our jaws literally dropped as we watched the majestic &ldquo;Pride of America&rdquo; cruise standing audaciously in front of us overlooking the Waikiki town ship. We got an amazing welcome from our butler Mark, who welcomed us aboard and led us to our executive suite, adorned with delicious pastries.  Later that afternoon, our journey across the islands were preceded by the mandatory safety drill and it gave me chills down my spine thinking if we&apos;d actually need it during our cruise voyage. But that thought simply vanished once we started exploring the liner and the plethora of entertainment at our disposal. Being a foodie, I rushed straight to the cafeteria and for a moment couldn&apos;t believe what I saw – there were at least five cuisines available – American, Chinese, Italian, Indian and Mexican. If that wasn&apos;t enough, you get to have fruit salads, pastries and ice creams, all of them unlimited! 
 
@@ -38,11 +38,11 @@ The cruise was for seven days and covered four islands – Maui, Big Volcano Isl
 
 On Day 3, we reached the big volcano island at Hilo, where we took an excursion to the Volcano National Park. It was so amazing to watch the steam vents and feel the heat of the magma beneath the land. We also visited Mauna Loa – a primary macadamia nut processing plant and later visited one of the popular botanical gardens that&apos;s the house of never-seen-before flowers and endangered plant species. On Day 4, we reached Kona – the place known for amazing coffee and black sand beaches. We spent a day on the wonderful Kailua black sand beach with its colorful green beach. We did some light water sports and headed back to the cruise.
 
-![Waimeya Canyon](/images/gowri_trip/gowri7)
+![Waimeya Canyon](/images/gowri_trip/gowri7.JPG)
 
 On day 5 we reached Kauai, the northern rain forest island. We went on an excursion to Waimeya Canyon and Fern Grotto (natural lave rock gorges covered with tropical ferns and foliage). This island is really unique compared to the other islands; it makes you feel like you are in a dense Amazon jungle with green vegetation everywhere.
 
-![The Luau Kalamaku Show](/images/gowri_trip/gowri8)
+![The Luau Kalamaku Show](/images/gowri_trip/gowri8.JPG)
 
 Later that day, we went to the Luau Kalamaku show and experienced the amazing Polynesian culture on display – from amazing food to the bedazzling story narrated by the local artists. On day 6, we roamed around Kauai and visited a nearby beach called Nawilili before setting sail that afternoon back to Honolulu. After disembarking, we visited Pearl Harbor memorial before heading back to the airport. That covers my narratives of the excursions. We also had the honor of meeting the Hotel Director, Mr. Kaj, who specially requested our family to join him for the dinner.  It was a great experience for us to meet him and hearing his experience aboard the ship. I was amazed that he had researched about the nature of my Avengers award, and in fact wanted to know more about our company and how it valued its employees. We also got the honor of visiting the Captain&apos;s bridge and to meet him.  He was also aware that this was my special family vacation arranged by my company and was really excited to meet my family. Throughout our voyage, they ensured that my family got amazing food and in fact the chief chef, who came from India, ensured he made the best Indian dinner for us every day. 
 
