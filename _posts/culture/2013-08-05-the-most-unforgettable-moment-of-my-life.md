@@ -28,4 +28,4 @@ I am eagerly waiting to see the Avenger 2014 and am very confident that we have 
 
 *To find out more about our Avengers initiative, you can read a blog post from our first ever Avenger Award winner in 2012 <a href = "http://blog.nextjump.com/culture/the-avengers-initiative.html">here</a>.*
 
-And now, Read all about Gowri's amazing trip with his family <a href = "http://blog.nextjump.com/culture/avengers-trip-complete-saga.html">here</a>.
+And also, you can read all about the amazing trip that Gowri took with his family <a href = "http://blog.nextjump.com/culture/avengers-trip-complete-saga.html">here</a>.
