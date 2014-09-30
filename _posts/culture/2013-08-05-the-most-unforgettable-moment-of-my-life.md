@@ -27,3 +27,5 @@ Again, I am extremely grateful and humbled that my company would recognize me in
 I am eagerly waiting to see the Avenger 2014 and am very confident that we have a great fleet of Next Jumpers who are growing by leaps and bounds and will carry forward the mantle and culture of Next Jump.
 
 *To find out more about our Avengers initiative, you can read a blog post from our first ever Avenger Award winner in 2012 here.*
+
+Read all about Gowri's amazing trip with his family <a href = "http://blog.nextjump.com/culture/avengers-trip-complete-saga.html">here</a>.
