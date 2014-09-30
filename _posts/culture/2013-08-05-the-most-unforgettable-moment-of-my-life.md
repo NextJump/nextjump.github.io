@@ -4,7 +4,7 @@ title: The Most Unforgettable Moment of my Life
 author: Gowri
 authorTitle: Software Engineer
 category: culture
-picture: gowri_l.png
+previewimg: gowri_l.png
 oldLink: /post/57432170379/the-most-unforgettable-moment-of-my-life
 tags:
 - BetterYou
