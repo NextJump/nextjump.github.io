@@ -10,9 +10,7 @@ tags:
 - BetterYou
 ---
 
-*Now, you can read all about the amazing trip that Gowri took with his family <a href = "http://blog.nextjump.com/culture/avengers-trip-complete-saga.html">here</a>.*
-
-On July 19th, Gowri became the second Avengers Award winner at Next Jump. The Avengers Award is designed to recognize the best ‘steward leader’ at the company – the person who selflessly gives and helps others without expecting anything in return. These are his thoughts after receiving this recognition.
+On July 19th, Gowri became the second Avengers Award winner at Next Jump. The Avengers Award is designed to recognize the best ‘steward leader’ at the company – the person who selflessly gives and helps others without expecting anything in return. These are his thoughts after receiving this recognition.  *(Now, you can read all about the amazing trip that Gowri took with his family <a href = "http://blog.nextjump.com/culture/avengers-trip-complete-saga.html">here</a>.)*
 
 I am writing this blog amidst plethora of emotions and thoughts running through my mind after winning the “Avengers 2013” award on July 19. For me my world is very simple - my family, my work and colleagues and my close friends.  I would never have achieved this award without my family, who being thousands of miles away have been supportive and motivating and my wonderful coworkers who have been very supportive of me during my good and bad days.  What makes this award so special to me is the fact that it’s an award bestowed on me by my fellow colleagues, many of whom have worked with me directly or indirectly. The moments after being called on the stage, and thereafter my parents joining me on the podium, and being honored by the whole company is just priceless. I was stunned to see my parents in person, given the fact that my dad recently returned back to Mumbai 3 weeks before. I stood speechless as the sequence of events unfolded and never even thought I would win, let alone have my parents there to witness such an event.
 
