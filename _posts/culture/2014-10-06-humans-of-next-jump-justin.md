@@ -17,7 +17,7 @@ Justin Ouellet (“JO”) from our Boston office was named <a href="https://www.
 ![Justin](/images/honxj_jo-colo-md-contrast.jpg)
 
 <div class="imgSubtitle">“ I think my biggest success or accomplishment is finding that professional success has enabled my family to live the life that I hoped they would have.” 
-<br/>(Photo credit: John Hilliard)</div>
+<br>(Photo credit: John Hilliard)</div>
 <br/>
 
 
