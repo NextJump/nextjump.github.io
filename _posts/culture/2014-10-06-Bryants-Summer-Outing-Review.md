@@ -8,7 +8,7 @@ excerpt: David, our SVP of eCommerce Services, brought his family to Next Jump's
 tags:
 - culture
 - Summer Outing
-preview:true
+preview:yes
 ---
 
 Each summer Next Jumpers and their friends and family gather for Summer Outing.  The event started as a way for Next Jump’s early employees to disengage and be kids again – quite literally, with a day of competitive relay races and outdoor activities.
