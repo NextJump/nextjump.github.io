@@ -4,7 +4,7 @@ title: Bryant's Summer Outing 2014 Review
 author: NxJ Blog Team and Bryant
 category: culture
 previewimg: DB_son_pool.jpg
-excerpt: David, our SVP of eCommerce Services, brought his family to our annual Summer Outing, and his son Bryant gave us a candid review of his experience.
+excerpt: David, our SVP of eCommerce Services, brought his family to Next Jump's annual Summer Outing in upstate New York.  A few days later, his son Bryant wrote up a candid review of his experience, including the zipline and the jumping pillow.
 tags:
 - culture
 - Summer Outing
