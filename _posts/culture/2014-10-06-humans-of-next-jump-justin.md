@@ -11,13 +11,15 @@ tags:
 - growth
 ---
 
-![Chris](/images/honxj_jo-colo-md-contrast.jpg)
+Justin Ouellet (“JO”) from our Boston office was named <a href="https://www.youtube.com/watch?v=mQotHUHiSPM&list=UUlxt05oUbYNWQTfhDw5G7qA">Next Jump's 2014 Avengers Award Winner</a href>.  This peer-nominated award recognizes the Next Jumper who most exemplifies steward-leadership.  We’re exceptionally proud of Justin and wanted to share some of his stories and what makes JO a unique Next Jumper.
+<br>
+
+![Justin](/images/honxj_jo-colo-md-contrast.jpg)
 
 <div class="imgSubtitle">“ I think my biggest success or accomplishment is finding that professional success has enabled my family to live the life that I hoped they would have.” (Photo credit: John Hilliard)</div>
 <br/>
 
-Justin Ouellet (“JO”) from our Boston office was named <a href="https://www.youtube.com/watch?v=mQotHUHiSPM&list=UUlxt05oUbYNWQTfhDw5G7qA">Next Jump's 2014 Avengers Award Winner</a href>.  This peer-nominated award recognizes the Next Jumper who most exemplifies steward-leadership.  We’re exceptionally proud of Justin and wanted to share some of his stories and what makes JO a unique Next Jumper.
-<p>
+
 <b>The Blog Team was looking over the letter that you wrote to Charlie after the Avengers ceremony and we noticed that you mentioned your military experience. Would you mind sharing a bit about your experience serving in the military?</b>
  
 I graduated college around the time of the dot-com bust. There weren’t a lot of tech jobs in the industry so I started working for my father as a sales rep up here in MA. Working for family is not an easy task. It gets very difficult. So one day I said, “I wanna do something, I wanna have an experience, I wanna get out and see the world and not be trapped in Suburbia”. I went down to the recruiters and I went in (my dad coulda killed me) and enlisted. 
