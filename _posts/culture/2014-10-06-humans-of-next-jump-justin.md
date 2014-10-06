@@ -11,7 +11,7 @@ tags:
 - growth
 ---
 
-Justin Ouellet (“JO”) from our Boston office was named <a href="https://www.youtube.com/watch?v=mQotHUHiSPM&list=UUlxt05oUbYNWQTfhDw5G7qA">Next Jump's 2014 Avengers Award Winner</a href>.  This peer-nominated award recognizes the Next Jumper who most exemplifies steward-leadership.  We’re exceptionally proud of Justin and wanted to share some of his stories and what makes JO a unique Next Jumper.
+Justin Ouellet (“JO”) from our Boston office was named <a href="https://www.youtube.com/watch?v=mQotHUHiSPM&list=UUlxt05oUbYNWQTfhDw5G7qA" target="_blank">Next Jump's 2014 Avengers Award Winner</a>.  This peer-nominated award recognizes the Next Jumper who most exemplifies steward-leadership.  We’re exceptionally proud of Justin and wanted to share some of his stories and what makes JO a unique Next Jumper.
 <br>
 
 ![Justin](/images/honxj_jo-colo-md-contrast.jpg)
