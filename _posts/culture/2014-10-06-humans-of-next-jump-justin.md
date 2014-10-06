@@ -12,11 +12,12 @@ tags:
 ---
 
 Justin Ouellet (“JO”) from our Boston office was named <a href="https://www.youtube.com/watch?v=mQotHUHiSPM&list=UUlxt05oUbYNWQTfhDw5G7qA" target="_blank">Next Jump's 2014 Avengers Award Winner</a>.  This peer-nominated award recognizes the Next Jumper who most exemplifies steward-leadership.  We’re exceptionally proud of Justin and wanted to share some of his stories and what makes JO a unique Next Jumper.
-<br>
+<br/>
 
 ![Justin](/images/honxj_jo-colo-md-contrast.jpg)
 
-<div class="imgSubtitle">“ I think my biggest success or accomplishment is finding that professional success has enabled my family to live the life that I hoped they would have.” (Photo credit: John Hilliard)</div>
+<div class="imgSubtitle">“ I think my biggest success or accomplishment is finding that professional success has enabled my family to live the life that I hoped they would have.” 
+<br/>(Photo credit: John Hilliard)</div>
 <br/>
 
 
