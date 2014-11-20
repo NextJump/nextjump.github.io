@@ -3,11 +3,13 @@ layout: post
 title: 'Investment in Loss: A Year Later'
 author: Tarun
 category: culture
-picture: tarun_g.png
+previewimg: Tarun-Investment_in_Loss.jpg
 excerpt: In most fast moving companies, it's easy to fall prey to stress. Negative thinking can become all encompassing and there are often are no tools to stop it. In this post I want to share my story of the last twelve months - and how a period of personal loss helped kick start a period of growth, both personally and professionally, and what helped me get there.
 tags:
 - optimism
 ---
+
+![Tarun](/images/Tarun-Investment_in_Loss.jpg)
 
 **"Who we really are, is revealed most clearly in moments of great stress." - Jim Loehr, performance psychologist and friend of Next Jump**
 
