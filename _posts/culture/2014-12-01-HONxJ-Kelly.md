@@ -4,6 +4,7 @@ title: Humans of Next Jump: Kelly
 author: NxJ Blog Team
 category: culture
 previewimg: honxj-kelly.jpg
+draft: true
 excerpt: I was actually shaking. When I realized I was in the top five and when I got up there on stage, I was stunned. It was already such an honor to be in the top 24 of nominees, and I remember everybody in London cheering me on when that was first announced. To be in the top ten was amazing, and to be in the top five, I was just floored.
 tags:
 - HONxJ
