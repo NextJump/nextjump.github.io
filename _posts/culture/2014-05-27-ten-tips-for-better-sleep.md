@@ -3,6 +3,7 @@ layout: post
 title: Can't Sleep? Neither can 60 Million Americans
 author: Jackie
 category: culture
+previewimg: cant-sleep.jpg
 excerpt: It wasn't until I started talking about my own sleep problems that I realized how many others have trouble reaching a restful state of sleep, and how this difficulty can have a devastating effect on daily routines. "Sleep is the fuel of life" says Gayle Green, author of Insomniac. "It's nourishing; it's restorative. And when you are deprived of it, you are really deprived of a basic kind of sustenance." After years of not getting a full night's rest due to newborn twins, migraines, stress, etc. and feeling like I was living in
 ---
 
