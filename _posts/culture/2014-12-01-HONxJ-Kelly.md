@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humans of Next Jump: Kelly
+title: Humans of Next Jump -  Kelly
 author: NxJ Blog Team
 category: culture
 previewimg: honxj-kelly.jpg
