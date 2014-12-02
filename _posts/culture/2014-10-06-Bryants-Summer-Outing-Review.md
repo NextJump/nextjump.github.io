@@ -3,7 +3,7 @@ layout: post
 title: Bryant's Summer Outing 2014 Review
 author: NxJ Blog Team and Bryant
 category: culture
-previewimg: DB_son_pool.jpg
+previewimg: berney_son_pool2.jpg
 excerpt: David, our SVP of eCommerce Services, brought his family to Next Jump's annual Summer Outing in upstate New York.  Here is what his son Bryant wrote up in a candid review of his experience at Camp Kiwi, including the zipline and the jumping pillow.
 tags:
 - culture
@@ -11,7 +11,7 @@ tags:
 
 ---
 
-Each summer Next Jumpers and their friends and family gather for Summer Outing.  The event started as a way for Next Jump’s early employees to disengage and be kids again – quite literally, with a day of competitive relay races and outdoor activities.
+With the onset of the winter chill, we're looking back fondly on our Summer Outing event that we had this past July (and looking forward to our next one).  Each summer Next Jumpers and their friends and family gather for Summer Outing.  The event started as a way for Next Jump’s early employees to disengage and be kids again – quite literally, with a day of competitive relay races and outdoor activities.
 
 Summer Outing has since evolved into a way to spend some quality time with our growing group of colleagues and their families, to treat everybody to food, activities, and <a href="https://twitter.com/dberney/status/490993967270359041">swag</a>, and to embrace the idea of the extended Next Jump Family.  The entire event is planned by a team of Next Jumpers, from food to logistics to activities.
 
