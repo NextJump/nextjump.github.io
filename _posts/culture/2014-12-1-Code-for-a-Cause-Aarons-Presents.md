@@ -3,10 +3,13 @@ layout: post
 title: Code for a Cause: Aaron's Presents
 author: NxJ Blog Team
 category: culture
-previewimg: Aarons-presents-logo.jpeg
-excerpt: Through our Code for a Cause (“CFAC”) initiative, Next Jump gives its employees dedicated time off to work with non-profits.  Learn more about one of our latest projects with Boston-based Aaron's Presents.
+previewimg: Aarons-presents-logo.jpg
+excerpt: "Through our Code for a Cause (“CFAC”) initiative, Next Jump gives its employees dedicated time off to work with non-profits.  Learn more about one of our latest projects with Boston-based Aaron's Presents."
+tags:
+- Code for a Cause
+- CFAC
+- Better You
 ---
-
 
 Through our <a href="http://cfac.nextjump.com/" target="_blank">Code for a Cause</a> (“CFAC”) initiative, Next Jump gives its employees dedicated time off to work with non-profits in need of engineering and other technical expertise – to help them achieve the great things they’ve set out to achieve.  The projects are meant not only to help the non-profits we work with, but also our employees.  These projects provide an avenue for Next Jumpers to work on their technical and project management skills, as well as their personal goals of character growth.
 
