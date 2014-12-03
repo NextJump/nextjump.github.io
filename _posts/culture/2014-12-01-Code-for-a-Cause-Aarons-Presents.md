@@ -18,7 +18,7 @@ Our latest group of summer interns were paired with <a href="http://www.aaronspr
 ![Leah Okimoto](/images/aarons-presents-celebration107.jpg)
 
 <div class="imgSubtitle">“I was really blown away by her initiative.  One of the most important things I wanted the program to inspire kids to do is be aware of their environment and the needs of people around them. Clareese’s idea embodied this goal in every way.”</div>
-
+<br>
 <b>Tell us about how Aaron’s Presents came about.  What was the toughest part?</b>
 
 Last fall, I just had this idea and didn’t know how it would actually turn out, but it struck me as unique and worth pursuing.  That fall was interesting, because emotionally it was a pretty hard time.  I always talk about how when you lose a child, and especially a baby, you lose the future.  You have to completely re-envision the future, and that of your family and the people around you.  So last fall, this project gave me something to focus my energy on and helped me process and re-envision my future.
