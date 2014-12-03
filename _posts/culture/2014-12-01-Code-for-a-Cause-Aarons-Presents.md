@@ -17,7 +17,7 @@ Our latest group of summer interns were paired with <a href="http://www.aaronspr
 
 ![Leah Okimoto](/images/aarons-presents-celebration107.jpg)
 
-<div class="imgSubtitle">“I was really blown away by her initiative.  One of the most important things I wanted the program to inspire kids to do is be aware of their environment and the needs of people around them. Clareese’s idea embodied this goal in every way.”</div>
+<div class="imgSubtitle">Leah (pictured above): “I was really blown away by her initiative.  One of the most important things I wanted the program to inspire kids to do is be aware of their environment and the needs of people around them. Clareese’s idea embodied this goal in every way.”</div>
 <br>
 <b>Tell us about how Aaron’s Presents came about.  What was the toughest part?</b>
 
@@ -25,7 +25,7 @@ Last fall, I just had this idea and didn’t know how it would actually turn out
 
 From September to November, I was putting together a preliminary business plan but also learning how to do some basic website design.  I would literally spend an entire evening learning how to change colors, or an entire day adding a button.
 
-Starting in January, the program really started taking shape when I presented the idea to kids for the first time, an assembly of sixth-graders at an inner-city public charter school.  When I told them my story, it was a show of vulnerability from an adult, which I think is kind of rare for a kid to see.  They were really listening and connected with the idea that an adult would put resources in their hands.  It was also a novel concept for them because they’re young and don’t have a lot of material resources, so that aspect was key to gaining their interest and helping them realize that “Wow, this is a real opportunity.”
+Starting in January, the program really took shape when I presented the idea to kids for the first time, an assembly of sixth-graders at an inner-city public charter school.  When I told them my story, it was a show of vulnerability from an adult, which I think is kind of rare for a kid to see.  They were really listening and connected with the idea that an adult would put resources in their hands.  It was also a novel concept for them because they’re young and don’t have a lot of material resources, so that aspect was key to gaining their interest and helping them realize that “Wow, this is a real opportunity.”
 
 <b>What surprised you?  Tell us about some of the kids who impressed you.</b>
 
