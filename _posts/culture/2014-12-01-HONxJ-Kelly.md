@@ -18,7 +18,7 @@ Kelly, one of the leaders of our Customer Loyalty Team and a member of the Londo
 
 ![Kelly](/images/honxj-kelly.jpg)
 
-<div class="imgSubtitle">“I was actually shaking.   When I realized I was in the top five and when I got up there on stage, I was stunned.  It was already such an honor to be in the top 24 of nominees, and I remember everybody in London cheering me on when that was first announced.  To be in the top ten was amazing, and to be in the top five, I was just floored.</div>
+<div class="imgSubtitle">“I was actually shaking.   When I realized I was in the top five and when I got up there on stage, I was stunned.  It was already such an honor to be in the top 24 of nominees, and I remember everybody in London cheering me on when that was first announced.  To be in the top ten was amazing, and to be in the top five, I was just floored."</div>
 <br/>
 
 <b>How did you feel about being nominated as a <a href="https://www.youtube.com/watch?v=mQotHUHiSPM" target="blank">Top 5 Avenger?</a></b>
