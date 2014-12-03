@@ -16,6 +16,7 @@ Through our <a href="http://cfac.nextjump.com/" target="_blank">Code for a Cause
 Our latest group of summer interns were paired with <a href="http://www.aaronspresents.org/" target="_blank">Aaron’s Presents</a>, a Boston-based non-profit.  Founded by Leah Okimoto in 2013, Aaron’s Presents was inspired by her son Aaron, who passed away shortly after his birth in 2013.  The non-profit aims to provide grants, support, and mentorship to children in 8th grade or below who want to turn their thoughtful ideas for <a href="http://www.aaronspresents.org/projects/" target="blank">creative projects</a> that benefit others into reality.  We sat down with Leah to learn more about her story and her incredible vision that our CFAC team helped to further.
 
 ![Leah Okimoto](/images/aarons-presents-celebration107.jpg)
+
 <div class="imgSubtitle">“I was really blown away by her initiative.  One of the most important things I wanted the program to inspire kids to do is be aware of their environment and the needs of people around them. Clareese’s idea embodied this goal in every way.”</div>
 
 <b>Tell us about how Aaron’s Presents came about.  What was the toughest part?</b>
