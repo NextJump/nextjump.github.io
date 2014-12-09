@@ -1,16 +1,17 @@
 ---
-draft: false
 layout: post
 title: Talking Partners
 author: Amr
 authortitle: Business Associate
+previewimg: tp_mitch_josh.jpg
 category: culture
-picture:
-excerpt: When I came to Next Jump there were many aspects of the culture that were very foreign to me, and especially when you consider how different Next Jump is from a typical NYC-based company it seems like there are a lot of unusual practices. But for me, the unique aspect that really stuck out was the Talking Partner (TP) relationship.
+excerpt: When I came to Next Jump there were many aspects of the culture that were very foreign to me, and especially when you consider how different Next Jump is from a typical NYC-based company it seems like there are a lot of unusual practices. But for me, the unique aspect that really stuck...
 ---
 When I came to Next Jump there were many aspects of the culture that were very foreign to me, and especially when you consider how different Next Jump is from a typical NYC-based company it seems like there are a lot of unusual practices. But for me, the unique aspect that really stuck out was the Talking Partner (TP) relationship. The idea of having a person there to support you during your ups and downs, all the while keeping you true to yourself but still recognizing your flaws, is very inspired and unique in any work environment. 
 
 So with all that in mind, I took the opportunity to sit down with Josh Hixson and Mitchell Davis, a TP pair that formed back when the TP practice started about a year ago. It was great to sit down with them and understand how they have developed and evolved their TP relationship.
+
+![Josh and Mitchell](/images/tp_mitch_josh.jpg)
 
 *How was your TP relationship when you first started?*
 
