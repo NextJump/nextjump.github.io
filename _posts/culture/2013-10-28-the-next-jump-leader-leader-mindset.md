@@ -27,7 +27,7 @@ At Next Jump, our top leadership team is 21 members strong. Called MV21, this te
 
 ![MV21](/images/MV21_deck_plus_investor.jpg)
 
-<div class="imageSubtext">Team MV21 Class of 2014 with one of our investors, John Schley. John donates his MV property to the Team each year so we can complete our offsite away from all distractions.</div>
+<div class="imageSubtext">Team MV21 Class of 2014 with one of our investors, John Schley. John rents his MV property to the Team each year so we can complete our offsite away from all distractions.</div>
 
 The criteria to be selected as part of the MV21 Team are simple. MV21 members should:
 - Take ownership and responsibility of their own actions and products
