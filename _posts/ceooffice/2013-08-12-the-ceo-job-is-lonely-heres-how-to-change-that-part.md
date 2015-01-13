@@ -19,7 +19,7 @@ tags:
 - ceo
 ---
 
-This post is a follow-up from last week’s CEO Office blog post: How to Kill Your Internal Terrorist
+This post is a follow-up from last week’s Coaches&apos; Corner blog post: How to Kill Your Internal Terrorist
 
 I had a lengthy conversation with Karina \[from Summer Search\] on the plane. How lonely she has been running Summer Search for nearly 10 years. The terrors in her own head and how there is no way out from what she sees. She’s accepted it as the “lonely job on top”. Accept it b/c it is what it is.
 
