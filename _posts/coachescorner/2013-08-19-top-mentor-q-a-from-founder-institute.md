@@ -3,13 +3,13 @@ layout: post
 title: Top Mentor Q&A from Founder Institute
 author: Charlie
 date: 2013-08-19 11:51:00
-category: ceooffice
+category: coachescorner
 twitter: charlieykim
 picture: charlie.jpg
 oldLink: /post/58703252452/top-mentor-q-a-from-founder-institute
 tags:
 - ceopost
-- ceooffice
+- coachescorner
 - management
 ---
 
@@ -40,9 +40,9 @@ Additional content:
 - [Maslow’s Hierarchy of Needs: UPDATED][maslow]
 - [tGELF Video][tGELF]
 
-[rightthing]: /ceooffice/its-not-about-legacy-its-about-doing-the-right-thing.html
-[internalterrorist1]: /ceooffice/how-to-kill-your-internal-terrorist-part-1.html
-[internalterrorist2]: /ceooffice/the-ceo-job-is-lonely-heres-how-to-change-that-part.html
-[maslow]: /ceooffice/maslows-hierarchy-of-needs-updated.html
+[rightthing]: /coachescorner/its-not-about-legacy-its-about-doing-the-right-thing.html
+[internalterrorist1]: /coachescorner/how-to-kill-your-internal-terrorist-part-1.html
+[internalterrorist2]: /coachescorner/the-ceo-job-is-lonely-heres-how-to-change-that-part.html
+[maslow]: /coachescorner/maslows-hierarchy-of-needs-updated.html
 [tGELF]: http://www.youtube.com/watch?v=ix_5hdDDv-I&sns=tw
 

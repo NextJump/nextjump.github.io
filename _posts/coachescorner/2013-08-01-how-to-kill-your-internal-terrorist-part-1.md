@@ -2,7 +2,7 @@
 layout: post
 title: How to Kill Your Internal Terrorist (Part 1)
 author: Charlie
-category: ceooffice
+category: coachescorner
 twitter: CharlieYKim
 previewimg: how-to-kill-your-internal-terrorist-part-1-1.png
 picture: charlie.jpg
@@ -10,7 +10,7 @@ oldLink: /post/57112494674/how-to-kill-your-internal-terrorist-part-1
 tags:
 - ceopost
 - communication
-- ceooffice
+- coachescorner
 - leadership
 - management
 ---
@@ -42,4 +42,4 @@ Once that is done, you can get to work.
 
 What patterns have you seen in your repeated errors and how have you solved for them?
 
-[Read Part 2: MEET, VENT, WORK, discussing how to work with your TP in practice.](/ceooffice/the-ceo-job-is-lonely-heres-how-to-change-that-part.html)
+[Read Part 2: MEET, VENT, WORK, discussing how to work with your TP in practice.](/coachescorner/the-ceo-job-is-lonely-heres-how-to-change-that-part.html)
