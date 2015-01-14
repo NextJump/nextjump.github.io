@@ -48,7 +48,7 @@ Recently, our CEO set us a simple goal - how can we take the company to the next
 
 What will come out of the projects is unknown - but at least we'll be able to test them all fast, iterate like hell, and quickly analyse which of them are working, and which can grow the company quickly in the coming year. It's the benefit of investing in all employees’ personal growth and creating leaders out of everyone. It's the result of the Next Jump leader-leader mindset.
 
-[rndbudget]: /ceooffice/what-is-your-r-d-budget-and-where-does-it-go.html
+[rndbudget]: /coachescorner/what-is-your-r-d-budget-and-where-does-it-go.html
 [givetakegrant]: /culture/ceo-talks-give-and-take-with-adam-grant.html
 [newphilanthropy]: /culture/a-new-philanthropy-donating-our-best-asset-our.html
 [toastmasters]: /culture/finding-my-voice-at-next-jump.html

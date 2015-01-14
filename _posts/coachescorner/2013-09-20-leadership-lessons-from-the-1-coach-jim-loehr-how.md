@@ -5,7 +5,7 @@ subtitle: |
     Leadership Lessons From the #1 Coach, Jim Loehr
 date: 2013-09-20 17:32:00
 author: Charlie
-category: ceooffice
+category: coachescorner
 twitter: charlieykim
 picture: charlie.jpg
 previewimg: jim_loehr_banner.jpg
