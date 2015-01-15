@@ -23,6 +23,7 @@ To that end, we are sharing the first iteration of our Coaching Guidelines:
     1. The moment we characterize something as bad is when our mental suffering begins. That is the point when we are paralyzed by fear & self-consciousness. We need to re-orient "bad" situations as opportunities to practice through difficulty.
     2. Identify when our mental models of how a process works are broken, which will help to eliminate repeated systemic errors. We often apply a solution regardless of the situation, and as a result we strive to train all leaders to practice always reading the situation on a daily and weekly basis. For instance: we found people who thought they were being persistent were actually failing to recognize when their approach just wasn’t working.
 
+
 2. PRACTICE (Action):
 
     1. Consistent Little Things (daily and weekly rituals). The key to successful practice and ultimately lasting change is to create rituals and behaviors that are realistic and repeatable on a daily and weekly basis [CONSISTENCY]. As most things are doable on an INTENSE level but not repeatable. For instance: in the Make Someone’s Day initiative we encouraged people to find a stranger they could help out.. Trying to accomplish 5 acts per week was unsustainable, but at twice a week it was achievable and eventually became a ritual for those who made an effort to be consistent.
