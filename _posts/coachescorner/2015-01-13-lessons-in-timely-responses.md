@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons in Timely Responses
-author: Elise
+author: Charlie
 category: coachescorner
 excerpt: Failure in communication happens when people are faced with a problem and they don’t know what to do, what to say, what the solution is, or even the full nature of the problem.  When you don’t communicate, when you don’t respond, you are still sending a...
 picture: timely_response_giraffe.png
