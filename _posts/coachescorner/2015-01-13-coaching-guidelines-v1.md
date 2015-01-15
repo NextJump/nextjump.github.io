@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coaching Guidelines
+title: Coaching Guidelines v1
 author: Elise
 category: coachescorner
 excerpt: The best universities have the best teachers. The process of hiring and developing the best teachers over time is the single biggest advantage they hold. We have found this to be very similar for a Company. The best companies hire and develop the best Coaches. We've also found the best students (humble mindset vs. expert/know-it-all) need to practice coaching in order to advance their learning as a student. To that end, this is our v1 Coaching Guidelines&#58;
