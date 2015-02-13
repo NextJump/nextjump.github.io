@@ -3,7 +3,7 @@ layout: post
 title: The CEO job is lonely - here's how to change that (Part 2)
 author: Charlie
 date: 2013-08-12 9:38:00
-category: ceooffice
+category: coachescorner
 twitter: charlieykim
 previewimg: two_dogs.png
 picture: charlie.jpg
@@ -12,14 +12,14 @@ tags:
 - ceopost
 - management
 - leadership
-- ceooffice
+- coachescorner
 - communication
 - stress
 - energymanagement
 - ceo
 ---
 
-This post is a follow-up from last week’s CEO Office blog post: How to Kill Your Internal Terrorist
+This post is a follow-up from last week’s Coaches&apos; Corner blog post: How to Kill Your Internal Terrorist
 
 I had a lengthy conversation with Karina \[from Summer Search\] on the plane. How lonely she has been running Summer Search for nearly 10 years. The terrors in her own head and how there is no way out from what she sees. She’s accepted it as the “lonely job on top”. Accept it b/c it is what it is.
 

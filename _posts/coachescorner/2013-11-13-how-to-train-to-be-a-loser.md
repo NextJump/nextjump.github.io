@@ -2,7 +2,7 @@
 layout: post
 title: How to Train to be a Loser
 author: Charlie
-category: ceooffice
+category: coachescorner
 twitter: charlieykim
 picture: charlie.jpg
 previewimg: stephanie_training_balloons.jpg

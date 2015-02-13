@@ -2,7 +2,7 @@
 layout: post
 title: Letter From Charlie Kim, Founder & CEO
 author: Charlie
-category: ceooffice
+category: culture
 picture: charlie.jpg
 twitter: charlieykim
 excerpt: I started this company with one single purpose, to do many little things that would allow others to do the GREAT things they are meant to do.
@@ -54,12 +54,7 @@ Next thing I knew, 10 years went by and as I turned 34, my Dad got terribly sick
 However, this made me think about the number of people that exist in this world, doing things far greater than most of us ever will. Yet how they are unable to succeed because they need help raising money, getting introductions, or can’t present. These BIG GAPS hold them back from truly succeeding. Yet as our Company gets stronger and stronger, many of these are LITTLE GAPS that we can help fill. We live this example… any employee in our Company could give you countless examples (#1 Christmas gift for each child of every cleaning/building/mail person in all our offices, LoveDay, SA500, etc).
 When I look at the amazing talent in our Company, every employee was given a gift of great education. In every success story, education is at the foundation of creating opportunities to succeed. Many of us take this for granted, however for many children, simply having the bad luck of being born in the wrong city, the wrong country has made education a BIG GAP in their lives. For us fortunate ones to come together, to help fill the little gaps that hold people back, so that they can truly succeed and provide education to children in need - this is what OO.com stands for. ONE = ONE, with a goal to educate every child in the world. We know this is an audacious goal. We know we can’t do this alone. We started by building the very best technology to make GIVING BACK easy. We plan to share this technology (open source) so every commerce site could also join this cause. In return, we believe GIVING is the new form of MARKETING. Align your business metrics to supporting a good cause and customers will reward you. Please join us in this great cause and help us spread the word.
 What little we can do is so significant in helping others do the great things they are meant to do. Thank you for joining us in this noble pursuit.
+
 Regards,
 
-
-
-
-
-
-D67A29D7-FAE9-4769-A783-11E249C161C5
-nxjblog_charlie_letterfromcharlie
+Charlie Kim

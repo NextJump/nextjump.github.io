@@ -1,0 +1,17 @@
+---
+layout: home
+title: NxJ Blog
+---
+    <div id="post-1" class='small-12 medium-6 large-4 column'>
+        {% for post in site.categories.healthandwellness limit:1 %}
+        {% include featured-card.html %}
+        {% endfor %}
+    </div>
+
+    {% for post in site.categories.healthandwellness %} {% unless forloop.first %}
+    <div id="post-{{ forloop.index }}" class='postbox small-12 medium-6 large-4 column' {%  if forloop.index > 10 %} style="display:none;"{% endif %}>
+        <a href="{{ post.url }}">
+        {% include article-card.html %}
+        </a>
+    </div>
+    {% endunless %} {% endfor %}

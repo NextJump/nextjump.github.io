@@ -5,7 +5,7 @@ author: Charlie
 picture: charlie.jpg
 authortitle: Founder and CEO, Next Jump
 previewimg: maslows-hierarchy-of-needs-updated-1.png
-category: ceooffice
+category: coachescorner
 twitter: charlieykim
 oldLink: /post/55896569215/maslows-hierarchy-of-needs-updated
 tags:
