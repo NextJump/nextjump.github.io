@@ -38,4 +38,4 @@ We have so much to share and talk about (come drop by our desks or chat at Coron
 
 Watch our 11-minute film on your next break:
 
-<iframe src="https://player.vimeo.com/video/62444568" width="650" height="365" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/62444568">Magho (Daughter)</a> from <a href="https://vimeo.com/shesthefirst">She&#039;s the First</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/62444568" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/62444568">Magho (Daughter)</a> from <a href="https://vimeo.com/shesthefirst">She&#039;s the First</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
