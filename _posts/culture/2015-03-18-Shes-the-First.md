@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adopt a Nonprofit: She's the First
+title: Adopt a Nonprofit - She's the First
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
 previewimg: STFNXJ.jpg
