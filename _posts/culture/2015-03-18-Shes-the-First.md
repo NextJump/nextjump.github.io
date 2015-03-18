@@ -30,7 +30,7 @@ Today, 450+ girls wouldn’t be in school in countries like Tanzania, Uganda, Ne
 
 <b>"...that allows others to do the great things they were meant to do."</b>
 
-We’re striving to do great things: our mission is to sponsor girls&apos; education in low-income countries, so that they can be the first in their families to graduate with a basic high school education. Imagine what they could accomplish in the world with just that foundation.  We, along with our nationwide network of 125 campus chapters, raise money to support the efforts of these girls.
+We’re striving to do great things: <a href="http://www.shesthefirst.org/about/#misson" target="_blank">our mission</a> is to sponsor girls&apos; education in low-income countries, so that they can be the first in their families to graduate with a basic high school education. Imagine what they could accomplish in the world with just that foundation.  We, along with our nationwide network of 125 campus chapters, raise money to support the efforts of these girls.
 
 By adopting us and providing us resources and an office, Next Jump is enabling us to pursue this mission.  We know that we are just a little part of Next Jump&apos;s influential culture and growing business, but we see everyday, through our students’ success at <a href="http://www.shesthefirst.org/campus-chapters/">home</a> and <a href="http://www.shesthefirst.org/meet-the-scholars/">abroad</a>, that together, we are making an impact on the lives of young girls who have a passion for education and self-improvement.
 
@@ -38,4 +38,4 @@ We have so much to share and talk about (come drop by our desks or chat at Coron
 
 Watch our 11-minute film on your next break:
 
-<iframe src="https://player.vimeo.com/video/62444568" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/62444568">Magho (Daughter)</a> from <a href="https://vimeo.com/shesthefirst">She&#039;s the First</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/62444568" width="650" height="365" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/62444568">Magho (Daughter)</a> from <a href="https://vimeo.com/shesthefirst">She&#039;s the First</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
