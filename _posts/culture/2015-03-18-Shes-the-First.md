@@ -14,7 +14,7 @@ tags:
 - education
 ---
 
-In 2015, Next Jump adopted into our offices She's the First, a non-profit that has the same change-the-world mentality as we do.  Learn a little about their mission and the impact they are making on girls' education around the world.
+In 2015, Next Jump adopted into our offices She's the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
 
 ![The She's The First team with Charlie & Meghan](/images/STFNXJ.jpg)
 
