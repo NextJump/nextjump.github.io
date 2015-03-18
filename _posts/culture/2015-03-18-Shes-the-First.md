@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Adopt a Nonprofit - She's the First
+title: Adopt a Nonprofit - She&apos;s the First
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
 previewimg: STFNXJ.jpg
 category: culture
-excerpt: In 2015, Next Jump adopted into our offices She's the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
+excerpt: In 2015, Next Jump adopted into our offices She&apos;s the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
 tags:
 - betteryou
 - shesthefirst
@@ -14,7 +14,7 @@ tags:
 - education
 ---
 
-In 2015, Next Jump adopted into our offices She's the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
+In 2015, Next Jump adopted into our offices She&apos;s the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
 
 ![The She's The First team with Charlie & Meghan](/images/STFNXJ.jpg)
 
@@ -30,11 +30,11 @@ Today, 450+ girls wouldn’t be in school in countries like Tanzania, Uganda, Ne
 
 <b>"...that allows others to do the great things they were meant to do."</b>
 
-We’re striving to do great things: our mission is to sponsor girls’ education in low-income countries, so that they can be the first in their families to graduate with a basic high school education. Imagine what they could accomplish in the world with just that foundation.  We, along with our nationwide network of 125 campus chapters, raise money to support the efforts of these girls.
+We’re striving to do great things: our mission is to sponsor girls&apos; education in low-income countries, so that they can be the first in their families to graduate with a basic high school education. Imagine what they could accomplish in the world with just that foundation.  We, along with our nationwide network of 125 campus chapters, raise money to support the efforts of these girls.
 
-By adopting us and providing us resources and an office, Next Jump is enabling us to pursue this mission.  We know that we are just a little part of Next Jump’s influential culture and growing business, but we see everyday, through our students’ success at <a href="http://www.shesthefirst.org/campus-chapters/">home</a> and <a href="http://www.shesthefirst.org/meet-the-scholars/">abroad</a>, that together, we are making an impact on the lives of young girls who have a passion for education and self-improvement.
+By adopting us and providing us resources and an office, Next Jump is enabling us to pursue this mission.  We know that we are just a little part of Next Jump&apos;s influential culture and growing business, but we see everyday, through our students’ success at <a href="http://www.shesthefirst.org/campus-chapters/">home</a> and <a href="http://www.shesthefirst.org/meet-the-scholars/">abroad</a>, that together, we are making an impact on the lives of young girls who have a passion for education and self-improvement.
 
-We have so much to share and talk about (come drop by our desks or chat at Coronitas!) but no one says it better than Maheshwari, one of our graduated STF Scholars in India.
+We have so much to share and talk about (come drop by our desks or chat at Coronitas!) but no one says it better than Maheshwari, one of our graduated She&apos;s the First Scholars in India.
 
 Watch our 11-minute film on your next break:
 
