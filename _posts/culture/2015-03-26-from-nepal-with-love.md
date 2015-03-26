@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Adopt a Nonprofit - She&apos;s the First
+title: From Nepal, with Love, A Special Message from She&apos;s the First
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
-previewimg: STFNXJ.jpg
+previewimg: from-nepal-with-love.jpg
 category: culture
-excerpt: In 2015, Next Jump adopted into our offices She&apos;s the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
+excerpt: She&apos;s the First visited Kopila Valley Elementary in western Nepal - here's an update, along with an amazing message for Next Jumpers from the kids.
 tags:
 - betteryou
 - shesthefirst
@@ -14,31 +14,18 @@ tags:
 - education
 ---
 
-In 2015, Next Jump adopted into our offices She&apos;s the First, a non-profit that has the same change-the-world mentality as we do.  Learn more about their mission and the impact Next Jump is helping She's the First make on girls' education around the world.
+*Want to get involved? She’s the First always need penpals to help us send letters to our scholars on a bi-annual basis. Email penpals@shesthefirst.org for more info.*
 
-![The She's The First team with Charlie & Meghan](/images/STFNXJ.jpg)
+Christen and Tammy of She&apos;s the First are back from a two-week visit to Nepal!  At Kopila Valley Elementary in <a href="https://www.google.com/maps/place/Kopila+Valley+School/@28.5249067,82.5919131,8z/data=!4m2!3m1!1s0x39a285ffbf5fb2bf:0x14c2cb4dd606a0b6" target="_blank">the western part of Nepal</a>, they met ninety-one -- yes, 91! -- amazing She's the First Scholars, ranging from Pre-K to 10th grade.
 
-*From <a href="http://www.shesthefirst.org/about/#people" target="_blank">Tammy Tibbetts</a>, President and Founder of She's the First:*
+![She&apos;s the First with students from Kopila Valley Elementary!](/images/from-nepal-with-love.jpg)
 
-<b>"Do the little things..."</b>
+These girls come from poor circumstances, with either a single mother or father, or no parents at all. Others have parents who are handicapped or disabled. The girls all come from poor or illiterate families. They all fall into the “high risk” category for being married off at a young age or being sent away as domestic servants. Others have to work in hotels or by dry riverbeds to earn a living for their family. These girls are the first of their generation to be educated and literate.  That’s where She’s the First aims to help!  At Kopila Valley, we fund an all-inclusive yearly package for everything a girl needs to go to school. enabling them to achieve greater things and a better life than their circumstances might otherwise allow.
 
-It’s the first part of the Next Jump mantra, one that means a lot to us at She’s the First.
+"Site visits like this one are a crucial part of what we do,” said Christen Brandt, STF Co-founder and Director of International Operations. “It helps us to strengthen partner relationships, gain an in-depth knowledge of on-the-ground programs, and collect the images and stories that help us achieve our mission all year long."
 
-We wouldn’t be where we are if we didn’t launch a little YouTube video five years ago with a call for action to sponsor girls’ education in the poorest countries. Why did we do it?  Because statistically, of the 58 million children of primary school age worldwide who are out of school, more than half are girls. An estimated 15 million girls are expected to never enter school. It’s a huge challenge that we are dedicated to solving.
+From our Nepal trip this month, we've got a special treat for Next Jumpers!  Watch this video:
 
-Today, 450+ girls wouldn’t be in school in countries like Tanzania, Uganda, Nepal, and Peru if it weren’t for thousands of our supporters just doing the “little things” to help them, like buying a cupcake from our bake sale fundraisers, or taking one step at a time using <a href="http://sweatforstf.shesthefirst.org/charity-miles" target="_blank">Charity Miles</a> (a free app that raised nearly $10,000 last year by donating a quarter for every mile you run or walk).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gds1-nQ-IwA?list=UU8jY0hBPIhe9zB0vDwG-ONw" frameborder="0" allowfullscreen></iframe>
 
-<b>"...that allows others to do the great things they were meant to do."</b>
-
-We’re striving to do great things: <a href="http://www.shesthefirst.org/about/#misson" target="_blank">our mission</a> is to sponsor girls&apos; education in low-income countries, so that they can be the first in their families to graduate with a basic high school education. Imagine what they could accomplish in the world with just that foundation.  We, along with our nationwide network of 125 campus chapters, raise money to support the efforts of these girls.
-
-By adopting us and providing us resources and an office, Next Jump is enabling us to pursue this mission.  We know that we are just a little part of Next Jump&apos;s influential culture and growing business, but we see everyday, through our students’ success at <a href="http://www.shesthefirst.org/campus-chapters/">home</a> and <a href="http://www.shesthefirst.org/meet-the-scholars/">abroad</a>, that together, we are making an impact on the lives of young girls who have a passion for education and self-improvement.  We've already taken part in the wellness program at Next Jump, using their in-office gym to host a workout fundraiser called Sweat for STF!
-
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/SweatforSTF?src=hash">#SweatforSTF</a> raised $596 in NYC tonight thx to <a href="https://twitter.com/EMpowerednyc">@EMpowerednyc</a>&#39;s RECESS class at <a href="https://twitter.com/nextjump">@nextjump</a> gym! Look at these muscles! <a href="http://t.co/VVBoxsAHab">pic.twitter.com/VVBoxsAHab</a></p>&mdash; She&#39;s the First (@shesthefirst) <a href="https://twitter.com/shesthefirst/status/565693435840307201">February 12, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-We have so much to share and talk about (come drop by our desks or chat at Coronitas!) but no one says it better than Maheshwari, one of our graduated She&apos;s the First Scholars in India.
-
-Watch our 11-minute film on your next break:
-
-<iframe src="https://player.vimeo.com/video/62444568" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/62444568">Magho (Daughter)</a> from <a href="https://vimeo.com/shesthefirst">She&#039;s the First</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Find @shesthefirst on Instagram and Facebook to see trip photos, and ook out for a documentary later this summer that highlights the story of two STF Scholars who courageously organized the first-ever 5K in their town, to raise awareness of gender equality.
