@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Nepal, with Love, A Special Message from She&apos;s the First
+title: From Nepal, with Love - A Special Message from She&apos;s the First
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
 previewimg: from-nepal-with-love.jpg
