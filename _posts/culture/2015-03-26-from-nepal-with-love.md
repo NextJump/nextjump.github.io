@@ -5,7 +5,7 @@ author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
 previewimg: from-nepal-with-love.jpg
 category: culture
-excerpt: She&apos;s the First visited Kopila Valley Elementary in western Nepal - here's an update, along with an amazing message for Next Jumpers from the kids.
+excerpt: She&apos;s the First visited Kopila Valley Elementary in western Nepal - here's an update from Tammy and Christen, along with an amazing message for Next Jumpers from the kids.
 tags:
 - betteryou
 - shesthefirst
@@ -26,6 +26,6 @@ These girls come from poor circumstances, with either a single mother or father,
 
 From our Nepal trip this month, we've got a special treat for Next Jumpers!  Watch this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gds1-nQ-IwA?list=UU8jY0hBPIhe9zB0vDwG-ONw" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/gds1-nQ-IwA?list=UU8jY0hBPIhe9zB0vDwG-ONw" frameborder="0" allowfullscreen></iframe>
 
 Find @shesthefirst on Instagram and Facebook to see trip photos, and ook out for a documentary later this summer that highlights the story of two STF Scholars who courageously organized the first-ever 5K in their town, to raise awareness of gender equality.
