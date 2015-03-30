@@ -28,4 +28,5 @@ From our Nepal trip this month, we've got a special treat for Next Jumpers!  Wat
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/gds1-nQ-IwA?list=UU8jY0hBPIhe9zB0vDwG-ONw" frameborder="0" allowfullscreen></iframe>
 
-Find <a href="https://www.instagram.com/shesthefirst">@shesthefirst</a> on Instagram and Facebook to see trip photos, and ook out for a documentary later this summer that highlights the story of two STF Scholars who courageously organized the first-ever 5K in their town, to raise awareness of gender equality.
+
+Find <a href="https://www.instagram.com/shesthefirst">@shesthefirst</a> on Instagram and Facebook to see trip photos, and look out for a documentary later this summer that highlights the story of two STF Scholars who courageously organized the first-ever 5K in their town, to raise awareness of gender equality.
