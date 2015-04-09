@@ -1,31 +1,30 @@
 ---
 layout: post
-title: From Nepal, with Love - A Special Message from She&apos;s the First
-author: Tammy Tibbetts
-authortitle: Tammy Tibbetts
-previewimg: from-nepal-with-love.jpg
+title: What&apos;s Causing My Late Night Snacking?
+author: Sarah and Peter
+authortitle: Sarah and Peter
+previewimg: fridge.jpg
 category: culture
-excerpt: She&apos;s the First visited Kopila Valley Elementary in western Nepal - here's an update from Tammy and Christen, along with an amazing message for Next Jumpers from the kids.
+excerpt: Next Jump&apos;s Wellness Team weighs in why you might be prone to late night snacking, plus how you can rebalance your eating habits and can turn your cravings into positive energy.
 tags:
-- betteryou
-- shesthefirst
-- adoptanonprofit
-- nonprofit
-- education
+- betterme
+- fitnut
+- wellness
+- health
 ---
 
-*Want to get involved? She’s the First always need penpals to help us send letters to our scholars on a bi-annual basis. Email penpals@shesthefirst.org for more info.*
+An April 2013 study, in the journal *Obesity* suggested that our circadian rhythm may be the cause of nightly food cravings. Our internal body clock, also known as circadian rhythm, evolutionarily would cause us to consume an abundance of calories to survive in times of famine.  But why at night?  Hunting and other survival tasks took precedence over eating much during the day.  Presumably a similar “food banking for famine” pattern presents itself if you skip meals during the day. Given the abundance of food in our times we can ward against the late night snack and binge ritual even with this biological clock foundation, simply by fueling ourselves adequately throughout the day.
 
-Christen and Tammy of She&apos;s the First are back from a two-week visit to Nepal!  At Kopila Valley Elementary in <a href="https://www.google.com/maps/place/Kopila+Valley+School/@28.5249067,82.5919131,8z/data=!4m2!3m1!1s0x39a285ffbf5fb2bf:0x14c2cb4dd606a0b6" target="_blank">the western part of Nepal</a>, they met ninety-one -- yes, 91! -- amazing She's the First Scholars, ranging from Pre-K to 10th grade.
+<div align="center"><b>Reasons why we might find ourselves snacking at night:</b></div>
 
-![She&apos;s the First with students from Kopila Valley Elementary!](/images/from-nepal-with-love.jpg)
+<b>Nutritional imbalances:</b> These imbalances could be a physiological root cause for late night snacking. A medical doctor, naturopath or nutritionist can help you understand vitamin deficiencies, blood sugar imbalances, food allergies, adrenal fatigue, hydration and biological properties of food cravings. A variety of nutritious, whole unprocessed foods throughout the day help prevent nutritional imbalances as well.
+  
+<b>Behaviors and habits:</b> Indulging at night require your attention to change your habit.  If you find that you are eating enough and a variety of foods, we have to look at how we are meeting our emotional needs. Feelings of sadness, grief, loneliness, or boredom can easily drive us to the pantry for self soothing. Being used to being busy can lead to a food binge during down time simply to reoccupy time-what you are used to doing. 
 
-These girls come from poor circumstances, with either a single mother or father, or no parents at all. Others have parents who are handicapped or disabled. The girls all come from poor or illiterate families. They all fall into the “high risk” category for being married off at a young age or being sent away as domestic servants. Others have to work in hotels or by dry riverbeds to earn a living for their family. These girls are the first of their generation to be educated and literate.  That’s where She’s the First aims to help!  At Kopila Valley, we fund an all-inclusive yearly package for everything a girl needs to go to school. enabling them to achieve greater things and a better life than their circumstances might otherwise allow.
+A habit is a pattern we are used to doing that requires little effort. Once you pick a different habit instead of eating, it will become just as easy and rewarding as the late night snack. For instance, our self talk sounds like, “I had a long day at work today. I deserve this treat."  Tired from a long day?  A “treat” may be relaxing, but try something else relaxing instead - like a bath.  Being used to being busy can lead to a food binge during downtime simply to reoccupy time - what you are accustomed to doing.
 
-"Site visits like this one are a crucial part of what we do,” said Christen Brandt, STF Co-founder and Director of International Operations. “It helps us to strengthen partner relationships, gain an in-depth knowledge of on-the-ground programs, and collect the images and stories that help us achieve our mission all year long."
+The reasons behind late night snacking are varied and complex. Once you find out what your snacking profile feels like (and yes, of course, tastes like), you can alter this pattern very quickly.  Think of your new ritual as feeding a different hunger.  Feed your sense of awe and wonder (museums and architecture).  Feed your creativity (draw / play an instrument / dance). Feed your connectedness (help another / give back to a cause you care about / call a friend). Fuel your worthiness (education or something else)…your opportunities are infinite!
 
-From our Nepal trip this month, we've got a special treat for Next Jumpers!  Watch this video:
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/gds1-nQ-IwA?list=UU8jY0hBPIhe9zB0vDwG-ONw" frameborder="0" allowfullscreen></iframe>
 
-Find @shesthefirst on Instagram and Facebook to see trip photos, and ook out for a documentary later this summer that highlights the story of two STF Scholars who courageously organized the first-ever 5K in their town, to raise awareness of gender equality.
+
