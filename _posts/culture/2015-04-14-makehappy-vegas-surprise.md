@@ -3,7 +3,7 @@ layout: post
 title: A Make Happy Award (and a trip to Vegas!) for Francesca
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
-previewimg: Francesca-Surprise.jpg
+previewimg: Fran-2.jpg
 category: culture
 excerpt: The brand ambassadors of Kipling, a fun backpack company, surprised the office to honor Francesca as one of only three employees in New York City who “Make Happy” in the workplace.  But Next Jump had something even better up our sleeves. 
 tags:
