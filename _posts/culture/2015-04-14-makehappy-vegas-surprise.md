@@ -3,7 +3,7 @@ layout: post
 title: A Make Happy Award (and a trip to Vegas!) for Francesca
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
-previewimg: fran-2.jpg
+previewimg: Fran-2.jpg
 category: culture
 excerpt: The brand ambassadors of Kipling, a fun backpack company, surprised the office to honor Francesca as one of only three employees in New York City who “Make Happy” in the workplace.  But Next Jump had something even better up our sleeves. 
 tags:
@@ -18,7 +18,7 @@ From Tammy and <a href="http://www.shesthefirst.org/make-happy/" target="_blank"
 
 ![Francesca&apos;s Surprise](/images/Fran-2.jpg)
 
-Have you read the best-selling book <a href="http://www.giveandtake.com/ target="_blank">Give and Take</a> by Adam Grant? The idea is that you drive your own success by helping others. This is something I see happen all the time to She’s the First volunteers, donors, and partners. I’m proud to share a recent example.
+Have you read the best-selling book <a href="http://www.giveandtake.com/" target="_blank">Give and Take</a> by Adam Grant? The idea is that you drive your own success by helping others. This is something I see happen all the time to She’s the First volunteers, donors, and partners. I’m proud to share a recent example.
 
 On Monday, the results of a nomination I had given and a nomination that She’s the First received unfolded in an unbelievable way at our office. (As a reminder, in January, <a href="http://www.shesthefirst.org/adopt-a-nonprofit-at-next-jump/" target="_blank">we moved into Next Jump HQ</a> as part of their innovative Adopt a Nonprofit program.)
 
@@ -26,7 +26,9 @@ Around 10:30am, an envelope was dropped on my desk. I opened it, and inside was 
 
 Two months ago, the CEO of Next Jump, Charlie Kim, informed us that his wife Ella, as a Coach employee, had the ability to nominate She’s the First for a donation. Coach focuses on funding education and women’s-related projects, so it was a perfect fit, but you could only win if an employee nominated you. This is a contribution we’d have never received if we weren’t part of the Next Jump family through #AdoptaNonprofit. Immediately after receiving it, I ran over to Francesca Ferrante’s desk, because as Captain of #AdoptaNonprofit, she is always so proud in these moments.
 
-![Francesca is recognized as one of three employees in NYC who “make happy” in the workplace! STF Campus Coordinator Katie Riley explains that Kipling sponsored a scholar in Uganda in her honor.](/images/Francesca-Surprise.jpg)
+![Getting the awesome news!](/images/Francesca-Surprise.jpg)
+
+<div class="imgSubtitle">Francesca is recognized as one of three employees in NYC who “make happy” in the workplace! STF Campus Coordinator Katie Riley explains that Kipling sponsored a scholar in Uganda in her honor.</div>
 
 Francesca jumped on the chance to include this good news in the Buzz report at the weekly all-hands staff meeting at 12:30pm, which I attend as a representative of She’s the First. Little did we know that something else big was in store.
 
