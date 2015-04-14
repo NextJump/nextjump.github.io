@@ -48,6 +48,8 @@ Charlie cued music. Britney Spears started blasting over the speakers.  Francesc
 
 <iframe width="615" height="461" src="https://www.youtube.com/embed/af6wKwW1zBo" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 On the heels of the $10,000 donation we had received because Ella took the time to nominate us, it was a powerful full-circle moment. I’ve never been more certain that when you give to others and the causes you care about, success–and happiness–really does come back to you.
 
 
