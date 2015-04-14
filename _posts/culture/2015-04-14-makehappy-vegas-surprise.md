@@ -44,9 +44,9 @@ Kipling ended up rewarding Francesca with a bunch of goodies and donated $500 to
 
 As Charlie was summarizing this recognition in the Monday meeting, he wanted to do something more to recognize Francesca for being so selfless (sponsoring a STF Scholar made Francesca–and us!–super happy, but didn’t give her the chance to kick back and relax, like the other winners got to do in seeing Broadway shows, for example).
 
-<iframe width="615" height="461" src="https://www.youtube.com/embed/af6wKwW1zBo" frameborder="0" allowfullscreen></iframe>
-
 Charlie cued music. Britney Spears started blasting over the speakers.  Francesca would be going to see her music idol, Britney Spears, perform in Vegas in the VIP suite, along with three guests–all airfare and two nights in a hotel provided! Francesca was totally speechless.
+
+<iframe width="615" height="461" src="https://www.youtube.com/embed/af6wKwW1zBo" frameborder="0" allowfullscreen></iframe>
 
 On the heels of the $10,000 donation we had received because Ella took the time to nominate us, it was a powerful full-circle moment. I’ve never been more certain that when you give to others and the causes you care about, success–and happiness–really does come back to you.
 
