@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Make Happy Award (and a trip to Vegas!) for Francesca
+title: A Make Happy Award (and a special Next Jump Surprise!) for Francesca
 author: Tammy Tibbetts
 authortitle: Tammy Tibbetts
 previewimg: Fran-2.jpg
