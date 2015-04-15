@@ -40,7 +40,7 @@ John: The area where our office is an interesting mix of high poverty and also e
 
 *H: When you think back to when you were younger, who influenced your love of technology?*
 
-J: Two people come to mind for me, both were friends of my mom.  One of them gave me a computer, an <a href="http://upload.wikimedia.org/wikipedia/commons/6/68/Apple_II_Plus.jpg" target="_blank">Apple 2 Plus</a> which was already really old even when I was little.  But all you could do was program, you couldn’t do anything else, so when I was in 4th grade, I started using that computer to program in Basic.  Another of my mom’s friends was a system administrator for my mom’s work, and I used to go down to his office and play around with computers and help put them together.*
+J: Two people come to mind for me, both were friends of my mom.  One of them gave me a computer, an <a href="http://upload.wikimedia.org/wikipedia/commons/6/68/Apple_II_Plus.jpg" target="_blank">Apple 2 Plus</a> which was already really old even when I was little.  But all you could do was program, you couldn’t do anything else, so when I was in 4th grade, I started using that computer to program in Basic.  Another of my mom’s friends was a system administrator for my mom’s work, and I used to go down to his office and play around with computers and help put them together.
 
 <b>Rajan, Next Jump’s head of finance, has been deeply involved in <a href="http://theatreeast.org" target="_blank">Theatre East</a>, a New York City-based non-profit community production company with a whole host of <a href="http://theatreeast.org/what-we-do/community/educational/" target="_blank">educational programming</a>.</b>
 
