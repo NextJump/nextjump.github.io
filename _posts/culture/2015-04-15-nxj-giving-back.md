@@ -3,7 +3,7 @@ layout: post
 title: How We Give Back to Education
 author: Hao
 authortitle: Hao
-previewimg: giving-bank.jpg
+previewimg: giving-back.jpg
 category: culture
 excerpt: Recently, Next Jumpers voted Education as the area to which they'd like the company to dedicate its resources.  Read about two Next Jumpers&apos stories of their own charitable efforts in education.
 tags:
