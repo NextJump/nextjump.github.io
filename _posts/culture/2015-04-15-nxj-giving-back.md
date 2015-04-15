@@ -26,7 +26,8 @@ We've adopted a non-profit (<a href="http://shesthefirst.org" target="_blank">Sh
 <div align="center"><blockquote class="twitter-tweet" lang="en"><p>Interns <a href="https://twitter.com/nextjump">@nextjump</a> spend 2 of 10 wks coding for charitable cause of their choice in teams: website 4 Aaron&#39;s Presents <a href="http://t.co/BHimEY82KO">http://t.co/BHimEY82KO</a></p>&mdash; Charlie Kim (@charlieykim) <a href="https://twitter.com/charlieykim/status/496974913367207936">August 6, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-So what about Next Jumpers?  That's what I set out to find out, and got a chance to speak to two of our Next Jumpers, John and Rajan, about their amazing personal involvement in education-centric causes.
+
+So, what about Next Jumpers themselves?  How do some of us as individuals dedicate our time to giving back to education?  That's what I set out to find out, and got a chance to speak in-depth to two of our Next Jumpers, <b>John and Rajan</b>, about their amazing personal involvement in education-centric causes.
 
 <b>John is a senior engineer in the Boston office who is working on a pilot program (starting this May) for Next Jumpers to teach local youth how to code.</b> 
 
