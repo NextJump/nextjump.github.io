@@ -15,8 +15,10 @@ tags:
 
 We love that Next Jumpers are so passionate about giving back to the communities in which they live and work.  It's something that we look for when we hire, and something deeply engrained in the company's mission and ethos.
 
-Charlie asked Next Jumpers across the company about the causes toward which they'd like to see our resources and efforts go.  As you can see, many Next Jumpers have a passion for furthering education, and that's been a major focus of recent efforts.  
+Charlie asked Next Jumpers across the company about the causes toward which they'd like to see our resources and efforts go.  As you can see, many Next Jumpers have a passion for furthering education, and that's been a major focus of recent efforts. 
+
 <div align="center"><b>What Next Jumpers Want to Our Resources to Support</b></div>
+
 ![Next Jump&apos;s Charitable Interests](/images/charity-survey-results.jpg)
 
 We've adopted a non-profit (<a href="http://shesthefirst.org" target="_blank">She's The First</a>) that provides funding for girls' education in developing countries. We've dedicated engineering resources to help:
