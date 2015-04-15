@@ -5,7 +5,7 @@ author: Hao
 authortitle: Hao
 previewimg: giving-back.jpg
 category: culture
-excerpt: Recently, Next Jumpers voted Education as the area to which they'd like the company to dedicate its resources.  Read about two Next Jumpers&apos stories of their own charitable efforts in education.
+excerpt: Recently, Next Jumpers voted Education as the area to which they'd like the company to dedicate its resources.  Read about two Next Jumpers&apos; stories of their own charitable efforts in education.
 tags:
 - betteryou
 - givingback
