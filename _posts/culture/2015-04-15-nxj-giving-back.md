@@ -21,15 +21,15 @@ Charlie asked Next Jumpers across the company about the causes toward which they
 
 We've adopted a non-profit (<a href="http://shesthefirst.org" target="_blank">She's The First</a>) that provides funding for girls' education in developing countries. We've dedicated engineering resources:
 
-<blockquote class="twitter-tweet" lang="en"><p>Interns <a href="https://twitter.com/nextjump">@nextjump</a> spend 2 of 10 wks coding for charitable cause of their choice in teams: website 4 Aaron&#39;s Presents <a href="http://t.co/BHimEY82KO">http://t.co/BHimEY82KO</a></p>&mdash; Charlie Kim (@charlieykim) <a href="https://twitter.com/charlieykim/status/496974913367207936">August 6, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center"><blockquote class="twitter-tweet" lang="en"><p>Interns <a href="https://twitter.com/nextjump">@nextjump</a> spend 2 of 10 wks coding for charitable cause of their choice in teams: website 4 Aaron&#39;s Presents <a href="http://t.co/BHimEY82KO">http://t.co/BHimEY82KO</a></p>&mdash; Charlie Kim (@charlieykim) <a href="https://twitter.com/charlieykim/status/496974913367207936">August 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 So what about Next Jumpers?  That's what I set out to find out, and got a chance to speak to two of our Next Jumpers, John and Rajan, about their amazing personal involvement to educational causes.
 
 <b>John is a senior engineer in the Boston office who is working on a pilot program (starting this May) for Next Jumpers to teach local youth how to code.</b> 
 
-<blockquote class="twitter-tweet" lang="en"><p>Excited to pilot a program teaching coding to local youth - Millennial Tech Workers Losing Ground <a href="http://t.co/dq2NoFx6A3">http://t.co/dq2NoFx6A3</a> via <a href="https://twitter.com/DiceTechJobs">@dicetechjobs</a></p>&mdash; John Hilliard (@praetorian) <a href="https://twitter.com/praetorian/status/581907600125636609">March 28, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center"><blockquote class="twitter-tweet" lang="en"><p>Excited to pilot a program teaching coding to local youth - Millennial Tech Workers Losing Ground <a href="http://t.co/dq2NoFx6A3">http://t.co/dq2NoFx6A3</a> via <a href="https://twitter.com/DiceTechJobs">@dicetechjobs</a></p>&mdash; John Hilliard (@praetorian) <a href="https://twitter.com/praetorian/status/581907600125636609">March 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 *What made you want to start this program?*
 
@@ -48,6 +48,7 @@ In 2006, I started working at a private equity fund, and two of the back-office 
 *What has that experience meant for you?*
 
 The primary thing it does for me – seeing Jud and Krista at a show, acting and being on stage – was completely different.  There was fire and life in them, so what the board and the company have been able to do is put theatre on for people who love theatre, people who put theatre together.  Acting, stage managing, lighting, sound – everything that goes into creating a show.  This is what these people are passionate about and what they want to do.  So for my blood, sweat, and tears, my resources, to help people do that – in a city where it’s expensive to do that – for me to be able to help them create their dream and do what they want to do as a living.
+
 
 
 
