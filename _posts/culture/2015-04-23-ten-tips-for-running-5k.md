@@ -13,6 +13,8 @@ tags:
 - health
 ---
 
+![Running](/images/running.jpg)
+
 1.	<b>Proper footwear is key!</b> You can save energy, decrease your chances of injury, feel better while you run and perform better with the right shoes for your body. Here at Next Bump, we have a gait analysis device, Optogait that can measure your stride step by step and tell you if your sneakers are appropriate for you.
 <br>
 2.	<b>Commit to a program.</b> Follow a training schedule and document what you have done. Log your distance, time and speed and stick to a consistent schedule. By adhering to a routine and documenting your runs you can make alterations in your training if need be. In addition a log can be extremely motivating. Every time you stick to the plan and journal it you have hit a goal!! This will encourage you as you countdown to race day.
