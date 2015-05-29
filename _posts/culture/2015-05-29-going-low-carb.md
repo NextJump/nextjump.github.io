@@ -5,7 +5,7 @@ author: Sarah and Peter
 authortitle: The Wellness Team
 previewimg: lowcarb.jpg
 category: culture
-excerpt: Many of us are trying to get healthier and improve our numbers – cleaning up our diets by cutting down on carbohydrates (and processed foods) is one great way to do this.
+excerpt: Many of us are trying to get healthier and improve our numbers – cleaning up our diets by cutting down on carbohydrates (and processed foods) is one great way to do this.  The Next Jump Wellness team has some tips for you.
 tags:
 - betterme
 - fitnut
