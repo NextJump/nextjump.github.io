@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Eat Better\: The Healthiest Spices
+title: How to Eat Better - The Healthiest Spices
 author: Sarah and Peter
 authortitle: The Wellness Team
 previewimg: spices.jpg
