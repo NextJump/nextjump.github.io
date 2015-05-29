@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How to Eat Better: The Healthiest Spices
+title: How to Eat Better\: The Healthiest Spices
 author: Sarah and Peter
 authortitle: The Wellness Team
-previewimg: spices.jpg
+previewimg: spices.jpeg
 category: culture
 excerpt: Incorporating spices into your diet is not only a great way to add flavor but many spices also have protective health factors. Here are our top 5 favorite spices that everyone can include in their diet on a regular basis for optimal health!
 tags:
@@ -15,7 +15,7 @@ tags:
 
 Incorporating spices into your diet is not only a great way to add flavor but many spices also have protective health factors. Below are our top 5 favorite spices that everyone should try to include in their diet on a regular basis for optimal health!
 
-![Spices](/images/spices.jpg)
+![Spices](/images/spices.jpeg)
 
 <b>Cinnamon</b>
 Not only is it delicious but studies suggest that cinnamon may help control blood sugar and blood pressure. Full of antioxidants, cinnamon helps regulate blood sugar and insulin levels which is great for diabetes prevention.
