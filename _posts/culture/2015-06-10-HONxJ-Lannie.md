@@ -4,7 +4,7 @@ title: Humans of Next Jump - Lannie
 author: NxJ Blog Team
 category: culture
 previewimg: lannie2.jpg
-excerpt: My mindset going in was “I’m going to do my best,” but I didn’t expect anything like that.  I surprised myself.
+excerpt: My mindset going in was “I’m going to do my best,” but I didn’t expect anything like that.  I surprised myself.  I did a reflection about how I’ve grown and read through all the feedback to see what things I can do more of.
 tags:
 - HONxJ
 - 10X
