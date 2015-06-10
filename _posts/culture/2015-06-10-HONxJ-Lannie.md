@@ -10,7 +10,7 @@ tags:
 - 10X
 ---
 
-Lannie is one of the QA engineers in the New York office.  After her amazing results from her <a href="https://www.nextjump.com/people>10X</a> presentation earlier this year, we asked her about the people in her life who have helped and inspired her.
+Lannie is one of the QA engineers in the New York office.  After her amazing results from her <a href = "https://www.nextjump.com/people">10X</a> presentation earlier this year, we asked her about the people in her life who have helped and inspired her.
 
 ![Lannie](/images/lannie2.jpg)
 
