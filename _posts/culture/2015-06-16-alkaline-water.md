@@ -24,12 +24,12 @@ Our bodies have a natural pH that is slightly alkaline and for optimal health ou
 Foods such as meat, dairy, grains, and processed sugar can cause acidic waste to build up in our body so by focusing on fresh fruits, vegetables (see list below) and adding alkaline water to our diets, we can rebalance our bodies.
 
 <b>Top Alkaline Foods</b>
-•	Leafy Greens
-•	Cucumber
-•	Broccoli
-•	Avocado
-•	Lemons
-•	Watermelon
-•	Celery
-•	Bell Peppers
+•	Leafy Greens<br>
+•	Cucumber<br>
+•	Broccoli<br>
+•	Avocado<br>
+•	Lemons<br>
+•	Watermelon<br>
+•	Celery<br>
+•	Bell Peppers<br>
  
