@@ -20,6 +20,7 @@ On Monday, we started a 30 day challenge program to upgrade ourselves. Our goal 
 <b>Here are our baseline metrics on day 1:</b>
 
 |   |  Peter | Sarah  |
+|:--------------------------------|:-------------------:|:-----------------:|
 |Body Fat|15%|21.9%|
 |12 minute run (for distance)   | 1.70 miles  | 1.30 miles  |
 |Push-ups (to failure)   | 60  | 33  |
