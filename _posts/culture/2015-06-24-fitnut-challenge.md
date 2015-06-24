@@ -31,13 +31,13 @@ On Monday, we started a 30 day challenge program to upgrade ourselves. Our goal 
 <b>Reflections:</b>
 <br>
 *Peter:* My lower body strength and cardio ability are weak. I performed very poorly on the squat jumps and planks. I chalk it up to weak mental toughness, and not expending all my energy. 
-<br>
+<br><br>
 *Sarah:* On the 12 minute run, I could have gone harder, but didn’t fight the instinct to conserve energy. In our second workout on day 2, I could not complete the sprints part of our program. Usually I fight through anything because I hate quitting; however, this time, I was thinking of protecting myself (long term vs short term)
 
 <b>Goals:</b>
 <br>
 *Peter:* Behaviorally, my goal is to stop night eating; this is a habit I developed to alleviate stress. I would also like to get my body fat below 10%; my pushups, rows, and squat jumps to 100, and my plank to 6 minutes. I’m also striving to develop a physical means to work on my impulsivity and over-reactiveness. 
-<br>
+<br><br>
 *Sarah:* Behaviorally, my goal is to be more deliberate about planning meals, especially lunch. I tend to skip a mid-day meal for snacks because I don’t want to take the time for myself. I want to get my body fat down, but I don’t have a specific number; I just want to be more fit in general.  
 
 <br>
